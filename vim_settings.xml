@@ -34,11 +34,6 @@
       <file name="/a.dummy" timestamp="1533103366462">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1533007314287">
-        <mark key="]" line="11" column="1" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="11" column="1" />
-      </file>
       <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/probemgr/src/main/java/com/cisco/profiler/infrastructure/probemgr/event/ProbeConfigEventHandler.java" timestamp="1533070119122">
         <mark key="'" line="107" column="23" />
       </file>
@@ -56,6 +51,11 @@
         <mark key="]" line="131" column="15" />
         <mark key="^" line="131" column="15" />
         <mark key="." line="131" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1533007314287">
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
       </file>
       <file name="$USER_HOME$/work/ise/cpm/jars/profiler/probes/activedir/src/main/java/com/cisco/profiler/probes/activedir/ActiveDirectoryProbe.java" timestamp="1533081833723">
         <mark key="'" line="646" column="22" />
@@ -149,7 +149,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -182,13 +182,13 @@
         <entry>set nonu</entry>
         <entry>action Back</entry>
         <entry>action CloseContent</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>328</entry>
         <entry>349</entry>
         <entry>action VimFilePrevious</entry>
         <entry>action FindNext</entry>
         <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
