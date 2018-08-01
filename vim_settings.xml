@@ -19,11 +19,11 @@
         <mark key="^" line="250" column="9" />
         <mark key="." line="236" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" timestamp="1533154156344">
+      <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" timestamp="1533154817249">
         <mark key="'" line="283" column="70" />
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/controller/src/main/java/com/cisco/profiler/infrastructure/controller/ProfilerController.java" timestamp="1533074102952">
         <mark key="'" line="406" column="29" />
@@ -121,31 +121,31 @@
         <text encoding="base64">ICAgICAgICBTU0hfQ09OTiA9IGlzZV9saWIuZ2V0X3NzaF9jbGllbnQoYXJncy5ob3N0bmFtZSwgYXJncy5wb3J0LCBhcmdzLnVzZXJuYW1lLCBhcmdzLnBhc3N3b3JkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5wcm9maWxlci5jb21tb24uQ29uZmlndXJhdGlvblByb3BlcnRpZXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYWJjID0gMTIzNDU7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTU0hfQ09OTiA9IGlzZV9saWIuZ2V0X3NzaF9jbGllbnQoYXJncy5ob3N0bmFtZSwgYXJncy5wb3J0LCBhcmdzLnVzZXJuYW1lLCBhcmdzLnBhc3N3b3JkKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChTU0hfQ09OTikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KFNTSF9DT05OKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgYWJjID0gMTIzNDU7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTU0hfQ09OTiA9IGlzZV9saWIuZ2V0X3NzaF9jbGllbnQoYXJncy5ob3N0bmFtZSwgYXJncy5wb3J0LCBhcmdzLnVzZXJuYW1lLCBhcmdzLnBhc3N3b3JkKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChTU0hfQ09OTikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KFNTSF9DT05OKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNTSF9DT05OLmNsb3NlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBTU0hfQ09OTgo=</text>
+        <text encoding="base64">ICAgIFNTSF9DT05OLmNsb3NlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBDTElFTlQK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBTU0hfQ09OTgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -179,7 +179,6 @@
         <entry>set nonumber</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set nonu</entry>
-        <entry>action Back</entry>
         <entry>action CloseContent</entry>
         <entry>328</entry>
         <entry>349</entry>
@@ -187,6 +186,7 @@
         <entry>action FindNext</entry>
         <entry>action Find</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -207,6 +207,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
