@@ -19,7 +19,7 @@
         <mark key="^" line="250" column="9" />
         <mark key="." line="236" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" timestamp="1533156308635">
+      <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" timestamp="1533157099185">
         <mark key="'" line="283" column="70" />
         <mark key="[" line="296" column="30" />
         <mark key="]" line="296" column="79" />
@@ -148,7 +148,7 @@
         <text encoding="base64">ICAgIGdsb2JhbCBTU0hfQ09OTgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set clipboard+=unnamedplus</text>
       </register>
     </registers>
     <search>
@@ -188,6 +188,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>w</entry>
+        <entry>set clipboard+=unnamedplus</entry>
       </history-cmd>
       <history-expr />
       <history-input />
