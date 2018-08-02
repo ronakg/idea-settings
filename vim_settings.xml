@@ -19,6 +19,9 @@
         <mark key="^" line="250" column="9" />
         <mark key="." line="236" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1533248976012">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" timestamp="1533080611388">
         <mark key="'" line="283" column="70" />
         <mark key="[" line="294" column="0" />
@@ -85,6 +88,13 @@
         <mark key="^" line="310" column="11" />
         <mark key="." line="310" column="11" />
       </file>
+      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1533249181562">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="336" column="0" />
+        <mark key="]" line="336" column="0" />
+        <mark key="^" line="332" column="27" />
+        <mark key="." line="336" column="0" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1533081968762">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,52 +123,67 @@
       <jump line="350" column="16" filename="$USER_HOME$/work/ise2/build/ise_java_build.py" />
       <jump line="173" column="68" filename="$USER_HOME$/work/ise2/build/ise_java_build.py" />
       <jump line="257" column="89" filename="$USER_HOME$/work/ise2/build/ise_java_build.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="193" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="263" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="277" column="11" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="278" column="21" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="324" column="11" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="328" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>client</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXN0X2J1aWx0XD4=</text>
+        <text>_ACTION</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTU0hfQ09OTiA9IGlzZV9saWIuZ2V0X3NzaF9jbGllbnQoYXJncy5ob3N0bmFtZSwgYXJncy5wb3J0LCBhcmdzLnVzZXJuYW1lLCBhcmdzLnBhc3N3b3JkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTU0hfQ09OTiA9IGlzZV9saWIuZ2V0X3NzaF9jbGllbnQoYXJncy5ob3N0bmFtZSwgYXJncy5wb3J0LCBhcmdzLnVzZXJuYW1lLCBhcmdzLnBhc3N3b3JkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChTU0hfQ09OTikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KFNTSF9DT05OKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNTSF9DT05OLmNsb3NlKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBTU0hfQ09OTgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBDTElFTlQK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBpc2VfbGliLmdldF9zc2hfY2xpZW50KGFyZ3MuaG9zdG5hbWUsIGFyZ3MucG9ydCwgYXJncy51c2VybmFtZSwgYXJncy5wYXNzd29yZCkK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      </register>
+      <register name="8" type="8">
+        <text>action_funcs = {
+    BUILD_ACTION: build_action,
+    INSTALL_ACTION: install_action,
+    RESTORE_ACTION: restore_action
+}</text>
+      </register>
+      <register name="9" type="8">
+        <text>class Action(Enum):
+    BUILD = auto()
+    INSTALL = auto()
+    RESTORE = auto()</text>
+      </register>
       <register name=":" type="4">
-        <text>action FindNext</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXN0X2J1aWx0XD4=</last-search>
+      <last-search>_ACTION</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXN0X2J1aWx0XD4=</last-pattern>
+      <last-pattern>_ACTION</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -174,6 +199,8 @@
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxydW5fc3NoX2NtZFw+</entry>
         <entry encoding="base64">XDxsYXN0X2J1aWx0XD4=</entry>
+        <entry>INSTALL</entry>
+        <entry>_ACTION</entry>
       </history-search>
       <history-cmd>
         <entry>action FindUsages</entry>
@@ -190,9 +217,9 @@
         <entry>349</entry>
         <entry>action VimFilePrevious</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
         <entry>action FindNext</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
