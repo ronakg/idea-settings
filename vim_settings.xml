@@ -21,8 +21,8 @@
       <file name="/Python Console" timestamp="1533253078303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" timestamp="1533317275207">
-        <mark key="'" line="190" column="38" />
+      <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" timestamp="1533317416058">
+        <mark key="'" line="185" column="18" />
         <mark key="[" line="312" column="18" />
         <mark key="]" line="312" column="17" />
         <mark key="." line="312" column="17" />
@@ -149,14 +149,17 @@
       <jump line="218" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="209" column="26" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" />
       <jump line="284" column="18" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" />
-      <jump line="190" column="38" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" />
+      <jump line="190" column="28" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" />
+      <jump line="200" column="18" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" />
+      <jump line="204" column="18" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" />
+      <jump line="185" column="18" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>: y run java unit tests</text>
       </register>
       <register name="/" type="4">
-        <text>classifyendpoint</text>
+        <text encoding="base64">XDxjbGFzc2lmeUVuZHBvaW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoKIyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiMgQ29weXJpZ2h0IChjKSAyMDE4IENpc2NvIFN5c3RlbXMsIEluYy4KIyBBbGwgcmlnaHRzIHJlc2VydmVkLgojCiMgQXV0aG9yOiBSb25hayBHYW5kaGkKIwojKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioK</text>
@@ -189,13 +192,13 @@
         <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>set incsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>classifyendpoint</last-search>
+      <last-search encoding="base64">XDxjbGFzc2lmeUVuZHBvaW50XD4=</last-search>
       <last-offset />
-      <last-pattern>classifyendpoint</last-pattern>
+      <last-pattern encoding="base64">XDxjbGFzc2lmeUVuZHBvaW50XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZGREZWZhdWx0RW5kcG9pbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -215,11 +218,11 @@
         <entry encoding="base64">XDxhZGREZWZhdWx0RW5kcG9pbnRcPg==</entry>
         <entry>mac</entry>
         <entry encoding="base64">XDxwcm9jZXNzX2xvZ19maWxlXD4=</entry>
-        <entry encoding="base64">XDxjbGFzc2lmeUVuZHBvaW50SGllcmFyY2h5XD4=</entry>
         <entry>classifyendpoint</entry>
+        <entry encoding="base64">XDxjbGFzc2lmeUVuZHBvaW50SGllcmFyY2h5XD4=</entry>
+        <entry encoding="base64">XDxjbGFzc2lmeUVuZHBvaW50XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindUsages</entry>
         <entry>?</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FindPrevious</entry>
@@ -239,6 +242,7 @@
         <entry>w</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>set incsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
