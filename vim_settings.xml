@@ -52,11 +52,10 @@
       <file name="$USER_HOME$/work/ise2/cpm/jars/lsd/pom.xml" timestamp="1533675232034">
         <mark key="'" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/test/java/com/cisco/cpm/admin/ac/actions/IdentityProviderLPInputActionTest.java" timestamp="1533786094079">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/test/java/com/cisco/cpm/admin/ac/actions/IdentityProviderLPInputActionTest.java" timestamp="1533787278528">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1533070154484">
         <mark key="[" line="0" column="0" />
@@ -127,11 +126,6 @@
       <file name="/Clipboard.txt" timestamp="1533081968762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/test/java/com/cisco/cpm/admin/restui/features/visibility/VisibilityUIApiTestHelper.java" timestamp="1533785795129">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1533007022875">
         <mark key="[" line="0" column="0" />
       </file>
@@ -196,8 +190,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoKIyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiMgQ29weXJpZ2h0IChjKSAyMDE4IENpc2NvIFN5c3RlbXMsIEluYy4KIyBBbGwgcmlnaHRzIHJlc2VydmVkLgojCiMgQXV0aG9yOiBSb25hayBHYW5kaGkKIwojKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioK</text>
+      <register name="0" type="4">
+        <text>IdentityProviderLPInputAction</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -263,7 +257,6 @@
         <entry encoding="base64">XDxBcnJheVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>?</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FindPrevious</entry>
         <entry>set norelativenumber</entry>
@@ -281,6 +274,7 @@
         <entry>set incsearch</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action Back</entry>
+        <entry>65</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
       </history-cmd>
