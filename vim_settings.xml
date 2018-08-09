@@ -57,6 +57,12 @@
         <mark key="[" line="66" column="12" />
         <mark key="]" line="66" column="40" />
       </file>
+      <file name="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" timestamp="1533850385353">
+        <mark key="'" line="187" column="92" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1533070154484">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,52 +196,69 @@
       <jump line="376" column="39" filename="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/main/java/com/cisco/cpm/admin/restui/features/vizWizard/ScanNetworkDeviceUIApi.java" />
       <jump line="379" column="44" filename="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/main/java/com/cisco/cpm/admin/restui/features/vizWizard/ScanNetworkDeviceUIApi.java" />
       <jump line="386" column="44" filename="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/main/java/com/cisco/cpm/admin/restui/features/vizWizard/ScanNetworkDeviceUIApi.java" />
+      <jump line="15" column="24" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="177" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="175" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="173" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="171" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="169" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="154" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="143" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="113" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="109" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="105" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="16" column="46" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="119" column="23" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="127" column="24" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="130" column="24" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="179" column="82" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
+      <jump line="187" column="92" filename="$USER_HOME$/work/ise2/cpm/jars/positron-migration/src/main/java/com/cisco/acs/positron/migration/acs5exporter/user/UserExtractor.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>: y run java unit tests</text>
       </register>
       <register name="/" type="4">
-        <text>jruby</text>
+        <text encoding="base64">XDxEZXNjcmlwdGlvblw+</text>
       </register>
       <register name="0" type="4">
         <text>IdentityProviderLPInputAction</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkRlc2NyaXB0aW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5lcG0uZWRmMi5leGNlcHRpb25zLkJhc2VFREZFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jcG0uZ3Vlc3RhY2Nlc3MuaW1oYW5kbGVyLnBvcnRhbC5Qb3J0YWxIYW5kbGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5lcG0uZWRmMi5leGNlcHRpb25zLkJhc2VFREZFeGNlcHRpb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jcG0uZ3Vlc3RhY2Nlc3MuaW0ucG9ydGFsLlBvcnRhbFNldHRpbmdzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jcG0uZ3Vlc3RhY2Nlc3MuaW1oYW5kbGVyLnBvcnRhbC5Qb3J0YWxIYW5kbGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jcG0uZ3Vlc3RhY2Nlc3MuaW0ucG9ydGFsLlBvcnRhbDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jcG0uZ3Vlc3RhY2Nlc3MuaW0ucG9ydGFsLlBvcnRhbFNldHRpbmdzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jcG0uYWNzLmltLmlkZW50aXR5c3RvcmUuc2FtbC5JZGVudGl0eVByb3ZpZGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jcG0uZ3Vlc3RhY2Nlc3MuaW0ucG9ydGFsLlBvcnRhbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jruby</last-search>
+      <last-search encoding="base64">XDxEZXNjcmlwdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>jruby</last-pattern>
+      <last-pattern encoding="base64">XDxEZXNjcmlwdGlvblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZGREZWZhdWx0RW5kcG9pbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -243,8 +266,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc1JlUHJvZmlsaW5nXD4=</entry>
-        <entry encoding="base64">XDxhbGxfcHJvanNcPg==</entry>
         <entry encoding="base64">XDxmaWxlcGF0aDFcPg==</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxydW5fc3NoX2NtZFw+</entry>
@@ -263,9 +284,10 @@
         <entry>lsd</entry>
         <entry encoding="base64">XDxTbm1wQ29uc3RhbnRzXD4=</entry>
         <entry>jruby</entry>
+        <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxEZXNjcmlwdGlvblw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoImplementation</entry>
         <entry>action FindPrevious</entry>
         <entry>set norelativenumber</entry>
         <entry>set nonumber</entry>
@@ -284,6 +306,7 @@
         <entry>action Back</entry>
         <entry>65</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>17</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
