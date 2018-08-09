@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T19:23:10</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2018-07-30T19:27:22</property>
+    <property name="modified">2018-08-09T11:29:41</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -728,13 +728,13 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="4b1515" />
+        <option name="BACKGROUND" value="827e2f" />
         <option name="ERROR_STRIPE_COLOR" value="b03435" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="41454b" />
+        <option name="BACKGROUND" value="4b201f" />
         <option name="ERROR_STRIPE_COLOR" value="656e76" />
       </value>
     </option>
