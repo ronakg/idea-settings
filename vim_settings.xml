@@ -109,6 +109,12 @@
         <mark key="." line="84" column="50" />
         <mark key="^" line="84" column="50" />
       </file>
+      <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/infrastructure/notifications/src/main/java/com/cisco/profiler/infrastructure/notifications/FeedOUINotificationHandler.java" timestamp="1534270723753">
+        <mark key="[" line="84" column="107" />
+        <mark key="]" line="84" column="107" />
+        <mark key="." line="84" column="107" />
+        <mark key="^" line="84" column="107" />
+      </file>
       <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/pom.xml" timestamp="1534196315628">
         <mark key="'" line="60" column="21" />
       </file>
@@ -271,7 +277,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
@@ -307,7 +313,7 @@
         <text encoding="base64">ICAgIC8qKiBOU0YgY2xhc3NpZmllciBzdWZmaXguICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -361,8 +367,8 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>w</entry>
         <entry>action CloseContent</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
