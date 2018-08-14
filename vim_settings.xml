@@ -314,7 +314,7 @@
         <text encoding="base64">ICAgIC8qKiBOU0YgY2xhc3NpZmllciBzdWZmaXguICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
     <search>
@@ -366,10 +366,10 @@
         <entry>set number</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action CloseContent</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>w</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
