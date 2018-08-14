@@ -20,6 +20,14 @@
       </file>
       <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/controller/src/main/java/com/cisco/profiler/infrastructure/controller/ProfilerController.java" timestamp="1534193393654">
         <mark key="'" line="332" column="48" />
+        <mark key="[" line="785" column="0" />
+        <mark key="]" line="785" column="90" />
+      </file>
+      <file name="$USER_HOME$/work/dev-tools/docs/ise_java_build.md" timestamp="1534271054470">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1533337378267">
         <mark key="[" line="0" column="0" />
@@ -63,6 +71,12 @@
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/jars/lsd/pom.xml" timestamp="1533675232034">
         <mark key="'" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/dev-tools/ise_build_lib.py" timestamp="1534271492480">
+        <mark key="[" line="64" column="7" />
+        <mark key="]" line="67" column="36" />
+        <mark key="." line="67" column="36" />
+        <mark key="^" line="67" column="36" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/test/java/com/cisco/cpm/admin/ac/actions/IdentityProviderLPInputActionTest.java" timestamp="1533787278528">
         <mark key="'" line="22" column="0" />
@@ -314,7 +328,7 @@
         <text encoding="base64">ICAgIC8qKiBOU0YgY2xhc3NpZmllciBzdWZmaXguICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -328,29 +342,35 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGFzc2lmeUVuZHBvaW50XD4=</entry>
-        <entry>audit</entry>
-        <entry>saveto</entry>
-        <entry>snmp4j</entry>
-        <entry>snmp4j-agent</entry>
-        <entry encoding="base64">XDxBcnJheVw+</entry>
-        <entry>lsd</entry>
-        <entry encoding="base64">XDxTbm1wQ29uc3RhbnRzXD4=</entry>
-        <entry>jruby</entry>
-        <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
-        <entry encoding="base64">XDxEZXNjcmlwdGlvblw+</entry>
-        <entry>register</entry>
-        <entry>OUI</entry>
-        <entry encoding="base64">XDxOQUNHUk9VUF9OQUNfRkVFRFNFUlZJQ0VDT05GSUdcPg==</entry>
-        <entry encoding="base64">XDxGRUVEU0VSVklDRUNPTkZJR1w+</entry>
-        <entry>FEEDSERVICECONFIG</entry>
-        <entry encoding="base64">XDxQT1NUVVJFU0VSVklDRVw+</entry>
-        <entry encoding="base64">XDxQT1NUVVJFTkFNRVw+</entry>
-        <entry>profilerobject</entry>
-        <entry>target</entry>
+        <entry>AD</entry>
+        <entry encoding="base64">XDxhZGREZWZhdWx0RW5kcG9pbnRcPg==</entry>
+        <entry>mac</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX2xvZ19maWxlXD4=</entry>
+        <entry encoding="base64">XDxydW5fc3NoX2NtZFw+</entry>
+        <entry>root pat</entry>
+        <entry>install</entry>
+        <entry encoding="base64">XDxJTlNUQUxMX0FDVElPTlw+</entry>
+        <entry encoding="base64">XDxmb3JjZV9idWlsZFw+</entry>
+        <entry encoding="base64">XDxqYXJfZmlsZW5hbWVcPg==</entry>
+        <entry encoding="base64">XDxqYXJfZmlsZVw+</entry>
+        <entry encoding="base64">XDxhcnRpZmFjdF9pZFw+</entry>
+        <entry encoding="base64">XDxidWlsZF9hY3Rpb25cPg==</entry>
+        <entry>jar_files</entry>
+        <entry>root patch</entry>
+        <entry>nothign to</entry>
+        <entry>nothing</entry>
+        <entry>uploading</entry>
+        <entry>up-to</entry>
+        <entry>restarting</entry>
       </history-search>
       <history-cmd>
+        <entry>action FindUsages</entry>
+        <entry>?</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action FindPrevious</entry>
+        <entry>set norelativenumber</entry>
         <entry>set nonumber</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>set nonu</entry>
         <entry>328</entry>
         <entry>349</entry>
@@ -360,16 +380,10 @@
         <entry>287</entry>
         <entry>action Find</entry>
         <entry>38</entry>
-        <entry>set incsearch</entry>
-        <entry>65</entry>
-        <entry>17</entry>
-        <entry>set number</entry>
-        <entry>e ~/.ideavimrc</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action CloseContent</entry>
         <entry>action Back</entry>
         <entry>w</entry>
-        <entry>action CloseContent</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
