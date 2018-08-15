@@ -7,6 +7,12 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="IpnbRunAllCellsAction" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Run" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
