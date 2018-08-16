@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="MATERIAL_THEME_UPDATE" displayType="NONE" shouldLog="false" />
     <notification groupId="Maven Import" displayType="NONE" shouldLog="false" />
   </component>
 </application>
