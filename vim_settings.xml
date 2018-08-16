@@ -182,12 +182,12 @@
       <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/pom.xml" timestamp="1534196315628">
         <mark key="'" line="60" column="21" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/libs/util.py" timestamp="1534398741985">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="29" column="3" />
+      <file name="$USER_HOME$/work/dev-tools/libs/util.py" timestamp="1534461952582">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="105" column="17" />
+        <mark key="]" line="105" column="35" />
+        <mark key="." line="105" column="35" />
+        <mark key="^" line="105" column="35" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/pom.xml" timestamp="1533838413068">
         <mark key="'" line="1730" column="24" />
@@ -235,12 +235,12 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1534455582029">
-        <mark key="'" line="192" column="40" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="21" />
-        <mark key="^" line="176" column="11" />
-        <mark key="." line="163" column="0" />
+      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1534462192562">
+        <mark key="'" line="47" column="9" />
+        <mark key="[" line="170" column="44" />
+        <mark key="]" line="172" column="12" />
+        <mark key="^" line="172" column="12" />
+        <mark key="." line="172" column="12" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/docs/support_bundle_parser.md" timestamp="1533254615079">
         <mark key="[" line="33" column="32" />
@@ -250,12 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="18" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" />
-      <jump line="204" column="18" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" />
-      <jump line="185" column="18" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" />
-      <jump line="671" column="21" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/cache/src/main/java/com/cisco/profiler/infrastructure/cache/EndPointCache.java" />
-      <jump line="947" column="34" filename="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/cache/src/main/java/com/cisco/profiler/infrastructure/cache/EndPointCache.java" />
-      <jump line="22" column="34" filename="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/ise2/cpm/jars/lsd/pom.xml" />
       <jump line="9" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/lsd/pom.xml" />
       <jump line="10" column="16" filename="$USER_HOME$/work/ise2/cpm/jars/lsd/pom.xml" />
@@ -332,7 +326,6 @@
       <jump line="48" column="13" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="89" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="71" column="6" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="47" column="28" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="31" column="10" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="56" column="22" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" />
       <jump line="66" column="34" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" />
@@ -350,52 +343,59 @@
       <jump line="77" column="0" filename="$USER_HOME$/work/dev-tools/libs/util.py" />
       <jump line="278" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="195" column="40" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/work/dev-tools/libs/util.py" />
+      <jump line="172" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="49" column="13" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="128" column="63" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="152" column="17" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="47" column="9" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>looking for proj</text>
+        <text>list of files</text>
       </register>
       <register name="0" type="4">
         <text>~/work/dev-tools/ise_java_build.py -a install -ise 172.23.1.90 -pwd lab123</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG12bl9kZXBfdHJlZSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdHMuYWRkKHByb2plY3QpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBwcm9qZWN0IGluIHByb2plY3RzX3RvX2J1aWxkOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQgbGlzdCBvZiBwcm9qZWN0cwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBwcm9qZWN0IGluIHByb2plY3RzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtdm5fZGVwX3RyZWVbcHJvamVjdF0gPSBsaWJzLk5vZGUocHJvamVjdCkK</text>
+        <text encoding="base64">ICAgIHByb2plY3RzID0gc2V0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnXHQtIHt9ICh7fSknLmZvcm1hdChwcm9qZWN0Lm5hbWUsIHByb2plY3QucGFja2FnZV9pZCkpCiAgICAgICAgbG9nZ2VyLmRlYnVnKCdcdFx0IC0gTGFzdCBidWlsdDoge30nLmZvcm1hdCh0aW1lLmN0aW1lKHByb2plY3QubGFzdF9idWlsdCkpKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGphcl9maWxlcyA9IHt9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBqYXJfZmlsZXNbcHJvamVjdC5hcnRpZmFjdF9pZF0gPSBbcHJvamVjdC5qYXIsIHByb2plY3QucGFja2FnZV9pZF0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">JCBweXRob24gfi93b3JrL2lzZTIvYnVpbGQvaXNlX2phdmFfYnVpbGQucHkgLWEgaW5zdGFsbCAtaXNlIDE3Mi4yMy4xMS4xMTggLXB3ZCBsYWIxMjMgLXIgLWYKW0lORk9dIFJ1bm5pbmcgZnJvbTogL1VzZXJzL3JvZ2FuZGhpL3dvcmsvaXNlCltJTkZPXSBMb29raW5nIGZvciBtb2RpZmllZCBmaWxlcyB1c2luZyAiZ2l0IHN0YXR1cyIuLi4KW0lORk9dICAgLSAuLi8uLi8uLi9jZGEvbWdtdC9zcmMvdGVzdC9qYXZhL2NvbS9jaXNjby9jZGEvbWdtdC9pZGMvcmVzdC90ZXN0L0FQSVByb3ZpZGVyVGVzdC5qYXZhCltJTkZPXSAgIC0gLi4vY29tbW9uL3NyYy9tYWluL2phdmEvY29tL2Npc2NvL3Byb2ZpbGVyL2NvbW1vbi9SYWRpdXNQcm9iZURldGFpbHNDYWNoZS5qYXZhCltJTkZPXSAgIC0gc3JjL21haW4vamF2YS9jb20vY2lzY28vcHJvZmlsZXIvaW5mcmFzdHJ1Y3R1cmUvcHJvYmVtZ3IvRm9yd2FyZGVyLmphdmEKW0lORk9dICAgLSAuLi9wcm9maWxpbmcvc3JjL21haW4vamF2YS9jb20vY2lzY28vcHJvZmlsZXIvaW5mcmFzdHJ1Y3R1cmUvcHJvZmlsaW5nL1Byb2ZpbGVyTWFuYWdlci5qYXZhCltJTkZPXSAgIC0gLi4vLi4vcHJvYmVzL2FjdGl2ZWRpci9zcmMvbWFpbi9qYXZhL2NvbS9jaXNjby9wcm9maWxlci9wcm9iZXMvYWN0aXZlZGlyL0FjdGl2ZURpcmVjdG9yeVByb2JlLmphdmEKW0lORk9dICAgLSAuLi8uLi9wcm9iZXMvcmFkaXVzL3NyYy9tYWluL2phdmEvY29tL2Npc2NvL3Byb2ZpbGVyL3Byb2Jlcy9yYWRpdXMvUmFkaXVzUGFyc2VyLmphdmEKW0lORk9dIApbSU5GT10gTG9va2luZyBmb3IgcHJvamVjdHMgdG8gYnVpbGQuLi4KW0lORk9dICAgLSBDUE0gUHJvZmlsZXIgQUQgUHJvYmUgKGNvbS5jaXNjby5wcm9maWxlci5wcm9iZXMucHJvZmlsZXItYWN0aXZlZGlyKQpbSU5GT10gICAtIENQTSBQcm9maWxlciBQcm9maWxpbmcgKGNvbS5jaXNjby5wcm9maWxlci5pbmZyYXN0cnVjdHVyZS5wcm9maWxpbmcpCltJTkZPXSAgIC0gQ1BNIFByb2ZpbGVyIFJBRElVUyBQcm9iZSAoY29tLmNpc2NvLnByb2ZpbGVyLnByb2Jlcy5yYWRpdXMpCltJTkZPXSAgIC0gQ1BNIFByb2ZpbGVyIFByb2JlIE1hbmFnZXIgKGNvbS5jaXNjby5wcm9maWxlci5pbmZyYXN0cnVjdHVyZS5wcm9iZW1ncikKW0lORk9dICAgLSBDUE0gUHJvZmlsZXIgY29tbW9uIChjb20uY2lzY28ucHJvZmlsZXIuaW5mcmFzdHJ1Y3R1cmUuY29tbW9uKQpbSU5GT10gICAtIENEQSBNYW5hZ2VtZW50IChjb20uY2lzY28uY3BtLm1nbXQpCltJTkZPXSAKW0lORk9dIFN0YXJ0aW5nIHRvIGJ1aWxkIHByb2plY3RzLi4uCltJTkZPXSBCdWlsZGluZzogQ1BNIFByb2ZpbGVyIEFEIFByb2JlIChjb20uY2lzY28ucHJvZmlsZXIucHJvYmVzLnByb2ZpbGVyLWFjdGl2ZWRpcikKW0lORk9dIEphciBmaWxlOiAuLi8uLi9wcm9iZXMvYWN0aXZlZGlyL3RhcmdldC9wcm9maWxlci1hY3RpdmVkaXItMi40LW1haW4taXRlcmF0aW9uLTAxLVNOQVBTSE9ULmphcgpbSU5GT10gQnVpbGRpbmc6IENQTSBQcm9maWxlciBQcm9maWxpbmcgKGNvbS5jaXNjby5wcm9maWxlci5pbmZyYXN0cnVjdHVyZS5wcm9maWxpbmcpCltJTkZPXSBKYXIgZmlsZTogLi4vcHJvZmlsaW5nL3RhcmdldC9wcm9maWxpbmctMi40LW1haW4taXRlcmF0aW9uLTAxLVNOQVBTSE9ULmphcgpbSU5GT10gQnVpbGRpbmc6IENQTSBQcm9maWxlciBSQURJVVMgUHJvYmUgKGNvbS5jaXNjby5wcm9maWxlci5wcm9iZXMucmFkaXVzKQpbSU5GT10gSmFyIGZpbGU6IC4uLy4uL3Byb2Jlcy9yYWRpdXMvdGFyZ2V0L3JhZGl1cy0yLjQtbWFpbi1pdGVyYXRpb24tMDEtU05BUFNIT1QuamFyCltJTkZPXSBCdWlsZGluZzogQ1BNIFByb2ZpbGVyIFByb2JlIE1hbmFnZXIgKGNvbS5jaXNjby5wcm9maWxlci5pbmZyYXN0cnVjdHVyZS5wcm9iZW1ncikKW0lORk9dIEphciBmaWxlOiB0YXJnZXQvcHJvYmVtZ3ItMi40LW1haW4taXRlcmF0aW9uLTAxLVNOQVBTSE9ULmphcgpbSU5GT10gQnVpbGRpbmc6IENQTSBQcm9maWxlciBjb21tb24gKGNvbS5jaXNjby5wcm9maWxlci5pbmZyYXN0cnVjdHVyZS5jb21tb24pCltJTkZPXSBKYXIgZmlsZTogLi4vY29tbW9uL3RhcmdldC9jb21tb24tMi40LW1haW4taXRlcmF0aW9uLTAxLVNOQVBTSE9ULmphcgpbSU5GT10gQnVpbGRpbmc6IENEQSBNYW5hZ2VtZW50IChjb20uY2lzY28uY3BtLm1nbXQpCltJTkZPXSBKYXIgZmlsZTogLi4vLi4vLi4vY2RhL21nbXQvdGFyZ2V0L21nbXQtMi40LW1haW4taXRlcmF0aW9uLTAxLVNOQVBTSE9ULmphcgpbSU5GT10gCltJTkZPXSBBbGwgcHJvamVjdHMgYnVpbHQgc3VjY2Vzc2Z1bGx5LgpbSU5GT10gCltJTkZPXSBCYWNraW5nIHVwIGV4aXN0aW5nIGphciBmaWxlcyB0byAvb3B0L0NTQ09jcG0vYXBwc3J2L2FwYWNoZS10b21jYXQvbGliL29yaWdfamFyX2ZpbGVzCltJTkZPXSAgbXYgL29wdC9DU0NPY3BtL2FwcHNydi9hcGFjaGUtdG9tY2F0L2xpYi9wcm9maWxlci1hY3RpdmVkaXItKi5qYXIgL29wdC9DU0NPY3BtL2FwcHNydi9hcGFjaGUtdG9tY2F0L2xpYi9vcmlnX2phcl9maWxlcyB8fCB0cnVlCltJTkZPXSAKW0lORk9dICBtdiAvb3B0L0NTQ09jcG0vYXBwc3J2L2FwYWNoZS10b21jYXQvbGliL3Byb2ZpbGluZy0qLmphciAvb3B0L0NTQ09jcG0vYXBwc3J2L2FwYWNoZS10b21jYXQvbGliL29yaWdfamFyX2ZpbGVzIHx8IHRydWUKW0lORk9dIApbSU5GT10gIG12IC9vcHQvQ1NDT2NwbS9hcHBzcnYvYXBhY2hlLXRvbWNhdC9saWIvcHJvYmVtZ3ItKi5qYXIgL29wdC9DU0NPY3BtL2FwcHNydi9hcGFjaGUtdG9tY2F0L2xpYi9vcmlnX2phcl9maWxlcyB8fCB0cnVlCltJTkZPXSAKW0lORk9dICBtdiAvb3B0L0NTQ09jcG0vYXBwc3J2L2FwYWNoZS10b21jYXQvbGliL3JhZGl1cy0qLmphciAvb3B0L0NTQ09jcG0vYXBwc3J2L2FwYWNoZS10b21jYXQvbGliL29yaWdfamFyX2ZpbGVzIHx8IHRydWUKW0lORk9dIApbSU5GT10gIG12IC9vcHQvQ1NDT2NwbS9hcHBzcnYvYXBhY2hlLXRvbWNhdC9saWIvY29tbW9uLSouamFyIC9vcHQvQ1NDT2NwbS9hcHBzcnYvYXBhY2hlLXRvbWNhdC9saWIvb3JpZ19qYXJfZmlsZXMgfHwgdHJ1ZQpbSU5GT10gCltJTkZPXSAgbXYgL29wdC9DU0NPY3BtL2FwcHNydi9hcGFjaGUtdG9tY2F0L2xpYi9tZ210LSouamFyIC9vcHQvQ1NDT2NwbS9hcHBzcnYvYXBhY2hlLXRvbWNhdC9saWIvb3JpZ19qYXJfZmlsZXMgfHwgdHJ1ZQpbSU5GT10gCltJTkZPXSAKW0lORk9dIFVwbG9hZGluZyBuZXcgamFyIGZpbGVzIHRvIElTRSBub2RlLi4uCltJTkZPXSBjb20uY2lzY28ucHJvZmlsZXIucHJvYmVzLnByb2ZpbGVyLWFjdGl2ZWRpciB0byAvb3B0L0NTQ09jcG0vYXBwc3J2L2FwYWNoZS10b21jYXQvbGliL3Byb2ZpbGVyLWFjdGl2ZWRpci0yLjQtbWFpbi1pdGVyYXRpb24tMDEtU05BUFNIT1QtMjAxODA4MDFfMTY0NDA1LmphcgpbSU5GT10gY29tLmNpc2NvLnByb2ZpbGVyLmluZnJhc3RydWN0dXJlLnByb2ZpbGluZyB0byAvb3B0L0NTQ09jcG0vYXBwc3J2L2FwYWNoZS10b21jYXQvbGliL3Byb2ZpbGluZy0yLjQtbWFpbi1pdGVyYXRpb24tMDEtU05BUFNIT1QtMjAxODA4MDFfMTY0NDA1LmphcgpbSU5GT10gY29tLmNpc2NvLnByb2ZpbGVyLmluZnJhc3RydWN0dXJlLnByb2JlbWdyIHRvIC9vcHQvQ1NDT2NwbS9hcHBzcnYvYXBhY2hlLXRvbWNhdC9saWIvcHJvYmVtZ3ItMi40LW1haW4taXRlcmF0aW9uLTAxLVNOQVBTSE9ULTIwMTgwODAxXzE2NDQwNS5qYXIKW0lORk9dIGNvbS5jaXNjby5wcm9maWxlci5wcm9iZXMucmFkaXVzIHRvIC9vcHQvQ1NDT2NwbS9hcHBzcnYvYXBhY2hlLXRvbWNhdC9saWIvcmFkaXVzLTIuNC1tYWluLWl0ZXJhdGlvbi0wMS1TTkFQU0hPVC0yMDE4MDgwMV8xNjQ0MDUuamFyCltJTkZPXSBjb20uY2lzY28ucHJvZmlsZXIuaW5mcmFzdHJ1Y3R1cmUuY29tbW9uIHRvIC9vcHQvQ1NDT2NwbS9hcHBzcnYvYXBhY2hlLXRvbWNhdC9saWIvY29tbW9uLTIuNC1tYWluLWl0ZXJhdGlvbi0wMS1TTkFQU0hPVC0yMDE4MDgwMV8xNjQ0MDUuamFyCltJTkZPXSBjb20uY2lzY28uY3BtLm1nbXQgdG8gL29wdC9DU0NPY3BtL2FwcHNydi9hcGFjaGUtdG9tY2F0L2xpYi9tZ210LTIuNC1tYWluLWl0ZXJhdGlvbi0wMS1TTkFQU0hPVC0yMDE4MDgwMV8xNjQ0MDUuamFyCltJTkZPXSAKW0lORk9dIFJlc3RhcnRpbmcgYXBwIHNlcnZlci4uLgpbSU5GT10gIC9vcHQvQ1NDT2NwbS9iaW4vYXBwc2VydmVyY29udHJvbC5zaCByZXN0YXJ0CltJTkZPXSBTdG9wcGluZyBJU0UgQXBwbGljYXRpb24gU2VydmVyLi4uClN0YXJ0aW5nIElTRSBBcHBsaWNhdGlvbiBTZXJ2ZXIuLi4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>looking for proj</last-search>
+      <last-search>list of files</last-search>
       <last-offset />
-      <last-pattern>looking for proj</last-pattern>
+      <last-pattern>list of files</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZGREZWZhdWx0RW5kcG9pbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -403,10 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>run_ssh_cmd</entry>
-        <entry>mvn_cmd</entry>
-        <entry encoding="base64">XDxmaW5kX21vZGlmaWVkX2dpdF9maWxlc1w+</entry>
         <entry>starting to</entry>
         <entry>as e</entry>
         <entry>figuring</entry>
@@ -423,9 +419,12 @@
         <entry>log_output</entry>
         <entry>\t-</entry>
         <entry>looking for proj</entry>
+        <entry>projects</entry>
+        <entry>all_projects</entry>
+        <entry>run_ssh_cmd</entry>
+        <entry>list of files</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindUsages</entry>
         <entry>?</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FindPrevious</entry>
@@ -442,9 +441,10 @@
         <entry>action Find</entry>
         <entry>38</entry>
         <entry>action CloseContent</entry>
-        <entry>w</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>107</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
