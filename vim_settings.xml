@@ -166,12 +166,12 @@
         <mark key="^" line="80" column="7" />
         <mark key="." line="80" column="7" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/libs/maven_project.py" timestamp="1534355198493">
-        <mark key="'" line="114" column="30" />
-        <mark key="[" line="131" column="27" />
-        <mark key="]" line="131" column="36" />
-        <mark key="." line="131" column="36" />
-        <mark key="^" line="131" column="36" />
+      <file name="$USER_HOME$/work/dev-tools/libs/maven_project.py" timestamp="1534551351712">
+        <mark key="'" line="110" column="23" />
+        <mark key="[" line="128" column="71" />
+        <mark key="]" line="129" column="21" />
+        <mark key="." line="129" column="21" />
+        <mark key="^" line="129" column="21" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/ise_maven_project.py" timestamp="1534287914753">
         <mark key="'" line="18" column="0" />
@@ -251,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="71" filename="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/pom.xml" />
       <jump line="9" column="29" filename="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/test/java/com/cisco/cpm/admin/restui/features/visibility/VisibilityUIApiTestHelper.java" />
       <jump line="24" column="0" filename="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/test/java/com/cisco/cpm/admin/ac/actions/IdentityProviderLPInputActionTest.java" />
       <jump line="1738" column="24" filename="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/pom.xml" />
@@ -351,52 +350,53 @@
       <jump line="57" column="13" filename="$USER_HOME$/work/isepy/tests/suites/profiler/vinoarum_CC_41_deregisterPSN2_feedupdate_registerPSN.py" />
       <jump line="40" column="13" filename="$USER_HOME$/work/isepy/tests/suites/profiler/vinoarum_CC_41_deregisterPSN2_feedupdate_registerPSN.py" />
       <jump line="84" column="67" filename="$USER_HOME$/work/isepy/tests/suites/profiler/vinoarum_CC_41_deregisterPSN2_feedupdate_registerPSN.py" />
+      <jump line="110" column="23" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>log_listeners</text>
+        <text>build output</text>
       </register>
       <register name="0" type="4">
         <text>~/work/dev-tools/ise_java_build.py -a install -ise 172.23.1.90 -pwd lab123</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdHMuYWRkKHByb2plY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdHMuYWRkKHByb2plY3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwcm9qZWN0IGluIHByb2plY3RzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb2plY3RzID0gc2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwcm9qZWN0IGluIHByb2plY3RzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2plY3RzID0gc2V0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqYXJfZmlsZXNbcHJvamVjdC5hcnRpZmFjdF9pZF0gPSBbcHJvamVjdC5qYXIsIHByb2plY3QucGFja2FnZV9pZF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBqYXJfZmlsZXNbcHJvamVjdC5hcnRpZmFjdF9pZF0gPSBbcHJvamVjdC5qYXIsIHByb2plY3QucGFja2FnZV9pZF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log_listeners</last-search>
+      <last-search>build output</last-search>
       <last-offset />
-      <last-pattern>log_listeners</last-pattern>
+      <last-pattern>build output</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZGREZWZhdWx0RW5kcG9pbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -404,8 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sync</entry>
-        <entry>setup</entry>
         <entry>Done</entry>
         <entry>running from</entry>
         <entry>List of files</entry>
@@ -424,6 +422,8 @@
         <entry>connect to host</entry>
         <entry>password</entry>
         <entry>log_listeners</entry>
+        <entry>build_output</entry>
+        <entry>build output</entry>
       </history-search>
       <history-cmd>
         <entry>?</entry>
