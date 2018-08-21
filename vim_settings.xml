@@ -166,12 +166,12 @@
         <mark key="^" line="80" column="7" />
         <mark key="." line="80" column="7" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/libs/maven_project.py" timestamp="1534881591835">
+      <file name="$USER_HOME$/work/dev-tools/libs/maven_project.py" timestamp="1534882405941">
         <mark key="'" line="85" column="16" />
-        <mark key="[" line="126" column="37" />
-        <mark key="]" line="126" column="37" />
-        <mark key="." line="126" column="37" />
-        <mark key="^" line="126" column="51" />
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="142" column="37" />
+        <mark key="." line="142" column="37" />
+        <mark key="^" line="142" column="37" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/ise_maven_project.py" timestamp="1534287914753">
         <mark key="'" line="18" column="0" />
@@ -389,7 +389,7 @@
         <text encoding="base64">ICAgICAgICBqYXJfZmlsZXNbcHJvamVjdC5hcnRpZmFjdF9pZF0gPSBbcHJvamVjdC5qYXIsIHByb2plY3QucGFja2FnZV9pZF0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -442,9 +442,9 @@
         <entry>action CloseContent</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
