@@ -167,11 +167,10 @@
         <mark key="." line="80" column="7" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/libs/maven_project.py" timestamp="1534882405941">
-        <mark key="'" line="85" column="16" />
-        <mark key="[" line="140" column="31" />
-        <mark key="]" line="142" column="37" />
-        <mark key="." line="142" column="37" />
-        <mark key="^" line="142" column="37" />
+        <mark key="[" line="165" column="31" />
+        <mark key="]" line="167" column="37" />
+        <mark key="." line="167" column="37" />
+        <mark key="^" line="167" column="37" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/ise_maven_project.py" timestamp="1534287914753">
         <mark key="'" line="18" column="0" />
@@ -236,7 +235,6 @@
         <mark key="." line="39" column="3" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1534880982035">
-        <mark key="'" line="147" column="27" />
         <mark key="[" line="28" column="29" />
         <mark key="]" line="28" column="33" />
         <mark key="." line="28" column="33" />
