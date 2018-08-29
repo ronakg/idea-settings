@@ -111,8 +111,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534891421910">
+      <file name="/Dummy.txt" timestamp="1535575522084">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" timestamp="1534377647495">
         <mark key="'" line="66" column="34" />
@@ -139,11 +141,12 @@
       <file name="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/main/java/com/cisco/cpm/admin/restui/features/vizWizard/ScanNetworkDeviceUIApi.java" timestamp="1533838769647">
         <mark key="'" line="386" column="44" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1534354435968">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="8" />
-        <mark key="^" line="48" column="8" />
-        <mark key="." line="48" column="8" />
+      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1535575513172">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="83" column="42" />
+        <mark key="]" line="83" column="49" />
+        <mark key="^" line="83" column="49" />
+        <mark key="." line="83" column="49" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/support_bundle_parser.py" timestamp="1533254021550">
         <mark key="'" line="29" column="10" />
@@ -261,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/ise2/cpm/jars/profiler/pom.xml" />
       <jump line="95" column="37" filename="$USER_HOME$/work/ise2/cpm/jars/profiler/pom.xml" />
       <jump line="60" column="21" filename="$USER_HOME$/work/ise2/cpm/jars/profiler/pom.xml" />
       <jump line="74" column="4" filename="$USER_HOME$/work/ise2/cpm/jars/profiler/infrastructure/notifications/src/main/java/com/cisco/profiler/infrastructure/notifications/FeedOUINotificationHandler.java" />
@@ -361,13 +363,14 @@
       <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
       <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
       <jump line="62" column="49" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>m</text>
+        <text>Refactor code around project build to get rid of jar_files dict</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3VuZHNcPg==</text>
+        <text>sys.stdout.write</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJ3t9Ont9Ont9Jy5mb3JtYXQoc2VsZi5uYW1lLCBzZWxmLnBvcywgc2VsZi50ZWFtKQo=</text>
@@ -404,9 +407,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3VuZHNcPg==</last-search>
+      <last-search>sys.stdout.write</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3VuZHNcPg==</last-pattern>
+      <last-pattern>sys.stdout.write</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN0YXJ0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -414,7 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>running from</entry>
         <entry>List of files</entry>
         <entry>args</entry>
         <entry>revised</entry>
@@ -434,9 +436,9 @@
         <entry>nothing to build</entry>
         <entry>root patch</entry>
         <entry encoding="base64">XDxyb3VuZHNcPg==</entry>
+        <entry>sys.stdout.write</entry>
       </history-search>
       <history-cmd>
-        <entry>?</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FindPrevious</entry>
         <entry>set norelativenumber</entry>
@@ -455,6 +457,7 @@
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
