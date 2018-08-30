@@ -141,12 +141,12 @@
       <file name="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/main/java/com/cisco/cpm/admin/restui/features/vizWizard/ScanNetworkDeviceUIApi.java" timestamp="1533838769647">
         <mark key="'" line="386" column="44" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1535575513172">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="83" column="42" />
-        <mark key="]" line="83" column="49" />
-        <mark key="^" line="83" column="49" />
-        <mark key="." line="83" column="49" />
+      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1535575647094">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/support_bundle_parser.py" timestamp="1533254021550">
         <mark key="'" line="29" column="10" />
@@ -403,7 +403,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRyYWZ0X3JvdW5kc1tyZF0uYXBwZW5kKHBsYXllcnNbcGxheWVyXSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
     <search>
@@ -452,13 +452,13 @@
         <entry>287</entry>
         <entry>action Find</entry>
         <entry>38</entry>
-        <entry>action CloseContent</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
