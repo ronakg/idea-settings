@@ -111,12 +111,12 @@
         <mark key="." line="59" column="59" />
         <mark key="^" line="59" column="59" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1536789357181">
-        <mark key="'" line="194" column="47" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="33" column="69" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="0" />
+      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1536791849109">
+        <mark key="'" line="139" column="100" />
+        <mark key="[" line="259" column="11" />
+        <mark key="]" line="259" column="24" />
+        <mark key="." line="259" column="24" />
+        <mark key="^" line="259" column="24" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/docs/support_bundle_parser.md" timestamp="1533254615079">
         <mark key="[" line="33" column="32" />
@@ -272,9 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="6" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="31" column="10" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="56" column="22" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" />
       <jump line="66" column="34" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" />
       <jump line="124" column="47" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="130" column="29" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -318,8 +315,6 @@
       <jump line="322" column="12" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="325" column="73" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="126" column="73" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="138" column="23" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="139" column="68" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="292" column="46" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="33" column="29" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="293" column="63" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -372,13 +367,18 @@
       <jump line="15" column="0" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
       <jump line="87" column="33" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
       <jump line="94" column="20" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
+      <jump line="35" column="67" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="123" column="83" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="138" column="32" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="139" column="100" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>disable_cc</text>
+        <text>install_action</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYgc3lzLnZlcnNpb25faW5mb1swXSA8IDM6CiAgICByYWlzZSBFeGNlcHRpb24oIlB5dGhvbiAzIG9yIGEgbW9yZSByZWNlbnQgdmVyc2lvbiBpcyByZXF1aXJlZC4iKQ==</text>
@@ -415,9 +415,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disable_cc</last-search>
+      <last-search>install_action</last-search>
       <last-offset />
-      <last-pattern>disable_cc</last-pattern>
+      <last-pattern>install_action</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN0YXJ0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -425,7 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnRlZ3JpdHljaGVja1w+</entry>
         <entry encoding="base64">XDxwYXJlbnRfdmVyc2lvblw+</entry>
         <entry>build_again</entry>
         <entry encoding="base64">XDxhcnRpZmFjdF9pZFw+</entry>
@@ -445,9 +444,9 @@
         <entry encoding="base64">XDxNVk5fQ01EX1RFTVBMQVRFXD4=</entry>
         <entry>args</entry>
         <entry>disable_cc</entry>
+        <entry>install_action</entry>
       </history-search>
       <history-cmd>
-        <entry>set norelativenumber</entry>
         <entry>set nonumber</entry>
         <entry>set nonu</entry>
         <entry>328</entry>
@@ -466,6 +465,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>110</entry>
         <entry>action Back</entry>
+        <entry>260</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
