@@ -147,12 +147,12 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/profiler/kibarla_purge_after_sync.py" timestamp="1534354241453">
         <mark key="'" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/profiler/test_snmp_polling.py" timestamp="1537222884686">
+      <file name="$USER_HOME$/work/isepy/tests/suites/profiler/test_snmp_polling.py" timestamp="1537295726425">
         <mark key="'" line="153" column="9" />
-        <mark key="[" line="95" column="39" />
-        <mark key="]" line="95" column="39" />
-        <mark key="^" line="95" column="18" />
-        <mark key="." line="95" column="39" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/ise_maven_module.py" timestamp="1534286041676">
         <mark key="[" line="56" column="33" />
@@ -184,11 +184,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536704006087">
+      <file name="/Dummy.txt" timestamp="1537295769008">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/main/java/com/cisco/cpm/admin/restui/features/vizWizard/ScanNetworkDeviceUIApi.java" timestamp="1533838769647">
         <mark key="'" line="386" column="44" />
@@ -365,7 +365,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>uncomment everything to try again</text>
       </register>
       <register name="/" type="4">
         <text>pf.</text>
@@ -373,32 +373,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYWdlID0gTmV0d29ya0RldmljZShwZi5hcHAsIHNfbG9nKQogICAgICAgIHBhZ2UubmF2aWdhdGVfdG9fcGFnZSgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc19sb2cuaW5mbygnVGVzdCBwYXNzZWQnKQo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgIAogICAgICAgICAgICAgCiAgICAgICAgICAgICAKICAgICAgICAgICAgIAogICAgICAgICAgICAgCiAgICAgICAgICAgICAKICAgICAgICAgICAgIAogICAgICAgICAgICAgCiAgICAgICAgICAgICAKICAgICAgICAgICAgIAogICAgICAgICAgICAgCiAgICAgICAgICAgICAKICAgICAgICAgICAgIAogICAgICAgICAgICAgCiAgICAgICAgICAgICAKICAgICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc19sb2cuaW5mbygnVGVzdCBwYXNzZWQnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc19sb2cuZXJyb3IoJ1Rlc3QgZmFpbGVkJykK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc19sb2cuZXJyb3IoJ1Rlc3QgZmFpbGVkJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQ29tbW9uU2V0dXAoYWV0ZXN0LkNvbW1vblNldHVwKTogIyBjbGFzcyBvZiBhbGwgc2V0dXAKICAgIEBhZXRlc3Quc3Vic2VjdGlvbgogICAgZGVmIGZpcnN0X3N1YnNlY3Rpb24oc2VsZik6CiAgICAgICAgcGFzcwoKICAgIEBhZXRlc3Quc3Vic2VjdGlvbgogICAgZGVmIHNlY29uZF9zdWJzZWN0aW9uKHNlbGYpOgogICAgICAgIHBhc3MKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc19sb2cuaW5mbygpCg==</text>
+        <text encoding="base64">Y2xhc3MgQ29tbW9uU2V0dXAoYWV0ZXN0LkNvbW1vblNldHVwKTogIyBjbGFzcyBvZiBhbGwgc2V0dXAKICAgIEBhZXRlc3Quc3Vic2VjdGlvbgogICAgZGVmIGZpcnN0X3N1YnNlY3Rpb24oc2VsZik6CiAgICAgICAgcGFzcwoKICAgIEBhZXRlc3Quc3Vic2VjdGlvbgogICAgZGVmIHNlY29uZF9zdWJzZWN0aW9uKHNlbGYpOgogICAgICAgIHBhc3MKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc19sb2cuaW5mbygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwZi4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZi4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
