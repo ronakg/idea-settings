@@ -402,7 +402,7 @@
         <text encoding="base64">ICAgIHByaW50KGFyZ3MuZmlsZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -456,8 +456,8 @@
         <entry encoding="base64">JzwsJz5zL21kNS9zaGE=</entry>
         <entry encoding="base64">JzwsJz5zL01ENS9TSEE=</entry>
         <entry>w</entry>
-        <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
