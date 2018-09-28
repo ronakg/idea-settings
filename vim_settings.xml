@@ -122,6 +122,12 @@
         <mark key="." line="33" column="68" />
         <mark key="^" line="33" column="68" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1538171624226">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="63" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/common/src/main/java/com/cisco/profiler/common/RadiusProbeDetailsCache.java" timestamp="1533165583144">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -386,37 +392,40 @@
         <text>there is a mis</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGRlZiB2ZXJpZnlfYXR0cmlidXRlc19hbmRfb3duZXJzaGlwKHNlbGYsIG93bmVyKToKICAgICAgICBzX2xvZy5pbmZvKCJSZXRyaWV2aW5nIGVuZHBvaW50IGF0dHJpYnV0ZXMgYW5kIGNvbXBhcmluZyB0aGVtIikKICAgICAgICBzZWxmLnBhZ2UgPSBFbmRwb2ludHMocGYuYXBwLCBzX2xvZykKICAgICAgICBBVFRSX01BUFBJTkdbJ0VuZFBvaW50UHJvZmlsZXJTZXJ2ZXInXSA9IG93bmVyKyIuZGVtby5sb2NhbCIKICAgICAgICBmb3IgbWFjIGluIE1BQ19MSVNUOgogICAgICAgICAgICBzX2xvZy5pbmZvKCJSZXRyaWV2aW5nIGRldGFpbHMgb2YgTUFDIHt9Ii5mb3JtYXQobWFjKSkKICAgICAgICAgICAgZm9yIGF0dHIgaW4gQVRUUl9NQVBQSU5HLmtleXMoKToKICAgICAgICAgICAgICAgIHJldHJfYXR0cl92YWx1ZSA9IHNlbGYuZ2V0X2F0dHJpYnV0ZV92YWwobWFjLCBhdHRyKQogICAgICAgICAgICAgICAgc19sb2cuaW5mbygiIiIgVGhlIGF0dHJpYnV0ZSBiZWluZyBjaGVja2VkIGlzIHt9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGUgdmFsdWUgZXhwZWN0ZWQgaXMge30KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZSB2YWx1ZSByZXRyaWV2ZWQgaXMge30iIiIuZm9ybWF0KGF0dHIsIEFUVFJfTUFQUElOR1thdHRyXSwgcmV0cl9hdHRyX3ZhbHVlKSkKICAgICAgICAgICAgICAgIGlmIHJldHJfYXR0cl92YWx1ZSAhPSBBVFRSX01BUFBJTkdbYXR0cl06CiAgICAgICAgICAgICAgICAgICAgc2VsZi5mYWlsZWQoIlRoZXJlIGlzIGEgbWlzbWF0Y2ggaW4gYXR0cmlidXRlcyIp</text>
+        <text>```python
+def foo():
+    print('Hey')
+```</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MuZmlsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGlmaWVkX2ZpbGVzKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MuZmlsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGUgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1vZGlmaWVkX2ZpbGVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQo=</text>
+        <text encoding="base64">ICAgIGZpbGUgPSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGZpbGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlX3BhdGgyKQo=</text>
+        <text encoding="base64">ICAgIGlmIGZpbGU6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlX3BhdGgxKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWxlX3BhdGgyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MuZmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWxlX3BhdGgxKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -469,9 +478,9 @@
         <entry encoding="base64">JzwsJz5zL21kNS9zaGE=</entry>
         <entry encoding="base64">JzwsJz5zL01ENS9TSEE=</entry>
         <entry>w</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
