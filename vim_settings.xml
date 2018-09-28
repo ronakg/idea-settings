@@ -159,6 +159,11 @@
         <mark key="." line="192" column="74" />
         <mark key="^" line="192" column="74" />
       </file>
+      <file name="$USER_HOME$/work/isepy/resources/te/SJC.xml" timestamp="1538162263459">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1179" column="16" />
+        <mark key="]" line="1179" column="28" />
+      </file>
       <file name="$USER_HOME$/work/ise2/cpm/jars/lsd/pom.xml" timestamp="1533675232034">
         <mark key="'" line="9" column="16" />
       </file>
@@ -241,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="69" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="166" column="12" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="16" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="179" column="25" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -341,16 +345,17 @@
       <jump line="115" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="117" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="70" column="14" filename="$USER_HOME$/work/isepy/tests/suites/profiler/pbhootha_CSCvg40522_feed_update_report_broken.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/isepy/resources/te/SJC.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>check_update</text>
+        <text>516</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlX3BhdGgxKQo=</text>
+      <register name="0" type="4">
+        <text>172.23.160.73</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KGFyZ3MuZmlsZSkK</text>
@@ -384,9 +389,9 @@
       </register>
     </registers>
     <search>
-      <last-search>check_update</last-search>
+      <last-search>516</last-search>
       <last-offset />
-      <last-pattern>check_update</last-pattern>
+      <last-pattern>516</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -394,7 +399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sftp</entry>
         <entry encoding="base64">XDxzdGRpblw+</entry>
         <entry encoding="base64">XDxjdXJfdGltZVw+</entry>
         <entry>backing up</entry>
@@ -414,6 +418,7 @@
         <entry>args</entry>
         <entry encoding="base64">XDxwYXJzZV9hcmd1bWVudHNcPg==</entry>
         <entry>check_update</entry>
+        <entry>516</entry>
       </history-search>
       <history-cmd>
         <entry>328</entry>
