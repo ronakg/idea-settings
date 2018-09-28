@@ -191,6 +191,10 @@
       <file name="$USER_HOME$/work/ise2/cpm/jars/lsd/pom.xml" timestamp="1533675232034">
         <mark key="'" line="9" column="16" />
       </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/profiler/nandpara_Tnt5232361c_validates_endpoints_when_redisdb_limit_exceeds.py" timestamp="1538176083250">
+        <mark key="[" line="136" column="29" />
+        <mark key="]" line="136" column="82" />
+      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1533941921288">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -392,10 +396,7 @@
         <text>there is a mis</text>
       </register>
       <register name="0" type="4">
-        <text>```python
-def foo():
-    print('Hey')
-```</text>
+        <text>Cpu load spiked high when Endpoints were being created</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
