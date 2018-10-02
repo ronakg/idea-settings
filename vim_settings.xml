@@ -74,11 +74,11 @@
         <mark key="." line="167" column="37" />
         <mark key="^" line="167" column="37" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/libs/util.py" timestamp="1536885076440">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="19" column="10" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/work/dev-tools/libs/util.py" timestamp="1538518577457">
+        <mark key="[" line="102" column="4" />
+        <mark key="]" line="102" column="4" />
+        <mark key="." line="102" column="4" />
+        <mark key="^" line="102" column="4" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/google-java-format-diff.py" timestamp="1536271024259">
         <mark key="[" line="101" column="28" />
@@ -376,7 +376,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>0</text>
+        <text>stdin</text>
       </register>
       <register name="/" type="4">
         <text>there is a mis</text>
@@ -385,34 +385,34 @@
         <text>Cpu load spiked high when Endpoints were being created</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNtZF9vdXRwdXQgKz0gJ1xuJy5qb2luKHN0ZG91dC5yZWFkbGluZXMoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MuZmlsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGlmaWVkX2ZpbGVzKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MuZmlsZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbGUgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1vZGlmaWVkX2ZpbGVzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQo=</text>
+        <text encoding="base64">ICAgIGZpbGUgPSBOb25lCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGZpbGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlX3BhdGgyKQo=</text>
+        <text encoding="base64">ICAgIGlmIGZpbGU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlX3BhdGgxKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWxlX3BhdGgyKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -464,10 +464,10 @@
         <entry>260</entry>
         <entry encoding="base64">JzwsJz5zL21kNS9zaGE=</entry>
         <entry encoding="base64">JzwsJz5zL01ENS9TSEE=</entry>
-        <entry>w</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
