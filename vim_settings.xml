@@ -74,11 +74,12 @@
         <mark key="." line="167" column="37" />
         <mark key="^" line="167" column="37" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/libs/util.py" timestamp="1538520884735">
-        <mark key="[" line="114" column="46" />
-        <mark key="]" line="114" column="46" />
-        <mark key="." line="114" column="46" />
-        <mark key="^" line="114" column="46" />
+      <file name="$USER_HOME$/work/dev-tools/libs/util.py" timestamp="1538525668015">
+        <mark key="'" line="45" column="25" />
+        <mark key="[" line="114" column="19" />
+        <mark key="]" line="114" column="19" />
+        <mark key="." line="114" column="19" />
+        <mark key="^" line="110" column="10" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/google-java-format-diff.py" timestamp="1536271024259">
         <mark key="[" line="101" column="28" />
@@ -105,9 +106,9 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/profiler/profiler_constants.py" timestamp="1537221164785">
         <mark key="'" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1537310574252">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="12" />
+      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1538525206747">
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="94" />
         <mark key="." line="239" column="12" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/docs/support_bundle_parser.md" timestamp="1533254615079">
@@ -155,6 +156,12 @@
         <mark key="[" line="129" column="0" />
         <mark key="]" line="141" column="67" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1538525597175">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/work/dev-tools/ise_maven_module.py" timestamp="1534286041676">
         <mark key="[" line="56" column="33" />
         <mark key="]" line="56" column="55" />
@@ -194,12 +201,6 @@
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" timestamp="1534377647495">
         <mark key="'" line="66" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1538521023999">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/main/java/com/cisco/cpm/admin/restui/features/vizWizard/ScanNetworkDeviceUIApi.java" timestamp="1533838769647">
         <mark key="'" line="386" column="44" />
@@ -273,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="73" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="126" column="73" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="292" column="46" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="33" column="29" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -373,43 +373,44 @@
       <jump line="22" column="0" filename="$USER_HOME$/work/isepy/tests/suites/profiler/midhmoha_Tnt5232372c_pns_down_check_ownership.py" />
       <jump line="46" column="17" filename="$USER_HOME$/work/isepy/tests/suites/profiler/midhmoha_Tnt5232372c_pns_down_check_ownership.py" />
       <jump line="144" column="42" filename="$USER_HOME$/work/isepy/tests/suites/profiler/kibarla_Tnt5232364c_purge_ep_based_on_logical_profile.py" />
+      <jump line="45" column="25" filename="$USER_HOME$/work/dev-tools/libs/util.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>stdin</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>there is a mis</text>
       </register>
       <register name="0" type="4">
-        <text>Cpu load spiked high when Endpoints were being created</text>
+        <text>stdout.channel.exit_status_ready():</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNtZF9vdXRwdXQgKz0gJ1xuJy5qb2luKHN0ZG91dC5yZWFkbGluZXMoKSkK</text>
+        <text encoding="base64">QW5vdGhlciBhdHRlbXB0IHRvIGZpeCBmb3IgcGFyYW1pa28gaW50ZXJtaXR0ZW50bHkgcmV0dXJuaW5nIGJsYW5rIG91dHB1dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJjKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MuZmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGlmaWVkX2ZpbGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzdGRvdXQuY2hhbm5lbC5leGl0X3N0YXR1c19yZWFkeSgpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGUgPSBOb25lCg==</text>
+        <text encoding="base64">b3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQo=</text>
+        <text encoding="base64">U1NIX0NPTk4gPSBsaWJzLmdldF9zc2hfY2xpZW50KGFyZ3MuaG9zdG5hbWUsIGFyZ3MucG9ydCwgYXJncy51c2VybmFtZSwgYXJncy5wYXNzd29yZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGZpbGU6Cg==</text>
+        <text encoding="base64">ICAgIGNtZF9vdXRwdXQgKz0gJ1xuJy5qb2luKHN0ZG91dC5yZWFkbGluZXMoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlX3BhdGgyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
