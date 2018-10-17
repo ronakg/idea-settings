@@ -55,8 +55,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1536789348026">
-        <mark key="'" line="94" column="20" />
+      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1539802533109">
+        <mark key="'" line="95" column="20" />
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="34" column="17" />
+        <mark key="^" line="34" column="17" />
+        <mark key="." line="34" column="17" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/infrastructure/notifications/src/main/java/com/cisco/profiler/infrastructure/notifications/FeedOUINotificationHandler.java" timestamp="1534287051824">
         <mark key="'" line="74" column="4" />
@@ -105,8 +109,8 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/profiler/profiler_constants.py" timestamp="1537221164785">
         <mark key="'" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1538699683391">
-        <mark key="'" line="306" column="0" />
+      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1539295316329">
+        <mark key="'" line="254" column="0" />
         <mark key="[" line="298" column="33" />
         <mark key="]" line="298" column="79" />
         <mark key="^" line="298" column="79" />
@@ -278,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="6" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="85" column="16" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="315" column="35" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="252" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -378,13 +381,14 @@
       <jump line="142" column="13" filename="$USER_HOME$/work/dev-tools/libs/util.py" />
       <jump line="87" column="39" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="306" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="254" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>copy_file_to_host</text>
+        <text>restore</text>
       </register>
       <register name="0" type="4">
         <text>'ls {}*'.format(os.path.join(backup_dir, project.artifact_id))</text>
@@ -421,9 +425,9 @@
       </register>
     </registers>
     <search>
-      <last-search>copy_file_to_host</last-search>
+      <last-search>restore</last-search>
       <last-offset />
-      <last-pattern>copy_file_to_host</last-pattern>
+      <last-pattern>restore</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -431,7 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry>quit</entry>
         <entry>pf.</entry>
         <entry>file</entry>
         <entry>args</entry>
@@ -451,6 +454,7 @@
         <entry>remote_jar</entry>
         <entry>remote jar file for</entry>
         <entry>copy_file_to_host</entry>
+        <entry>restore</entry>
       </history-search>
       <history-cmd>
         <entry>328</entry>
