@@ -55,12 +55,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1539807830350">
-        <mark key="'" line="40" column="73" />
-        <mark key="[" line="94" column="96" />
-        <mark key="]" line="94" column="96" />
-        <mark key="^" line="94" column="95" />
-        <mark key="." line="94" column="96" />
+      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1539897678279">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="49" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/infrastructure/notifications/src/main/java/com/cisco/profiler/infrastructure/notifications/FeedOUINotificationHandler.java" timestamp="1534287051824">
         <mark key="'" line="74" column="4" />
@@ -282,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="35" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="252" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="157" column="50" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="191" column="47" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -382,52 +381,53 @@
       <jump line="306" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="254" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="40" column="73" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtdm5cPg==</text>
+        <text>clean install</text>
       </register>
       <register name="0" type="4">
         <text>'ls {}*'.format(os.path.join(backup_dir, project.artifact_id))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REJfUE9SVCA9IDE1MjEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
+        <text encoding="base64">REJfVVNFUiA9ICdjZXBtJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0NsZWFuIGV4aXN0aW5nIGphciBmaWxlcyBmaXJzdC4gRXhpdGluZy4uLicpCg==</text>
+        <text encoding="base64">TVZOX0dPQUwgPSAndGVzdCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdNdWx0aXBsZSBqYXIgZmlsZXMgZm91bmQgZm9yIHByb2plY3QgInt9IiBvbiB0aGUgSVNFIG5vZGUuJy5mb3JtYXQocHJvamVjdC5hcnRpZmFjdF9pZCkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcHJvamVjdC5yZW1vdGVfamFyX25hbWU6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0NsZWFuIGV4aXN0aW5nIGphciBmaWxlcyBmaXJzdC4gRXhpdGluZy4uLicpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdNdWx0aXBsZSBqYXIgZmlsZXMgZm91bmQgZm9yIHByb2plY3QgInt9IiBvbiB0aGUgSVNFIG5vZGUuJy5mb3JtYXQocHJvamVjdC5hcnRpZmFjdF9pZCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoJ011bHRpcGxlIGJhY2tlZCB1cCBqYXIgZmlsZXMgZm91bmQgZm9yICJ7fSInLmZvcm1hdChwcm9qZWN0LmFydGlmYWN0X2lkKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcHJvamVjdC5yZW1vdGVfamFyX25hbWU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtdm5cPg==</last-search>
+      <last-search>clean install</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtdm5cPg==</last-pattern>
+      <last-pattern>clean install</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -435,7 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry>file</entry>
         <entry>args</entry>
         <entry encoding="base64">XDxwYXJzZV9hcmd1bWVudHNcPg==</entry>
         <entry>check_update</entry>
@@ -455,6 +454,7 @@
         <entry>copy_file_to_host</entry>
         <entry>restore</entry>
         <entry encoding="base64">XDxtdm5cPg==</entry>
+        <entry>clean install</entry>
       </history-search>
       <history-cmd>
         <entry>328</entry>
