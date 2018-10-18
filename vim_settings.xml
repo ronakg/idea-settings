@@ -55,8 +55,8 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1539900923645">
-        <mark key="'" line="24" column="10" />
+      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1539903773173">
+        <mark key="'" line="75" column="34" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="^" line="24" column="10" />
@@ -282,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="47" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="14" column="16" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
       <jump line="16" column="6" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
       <jump line="43" column="12" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
@@ -382,6 +381,7 @@
       <jump line="89" column="0" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
       <jump line="104" column="18" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
       <jump line="24" column="10" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
+      <jump line="75" column="34" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -421,7 +421,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdNdWx0aXBsZSBqYXIgZmlsZXMgZm91bmQgZm9yIHByb2plY3QgInt9IiBvbiB0aGUgSVNFIG5vZGUuJy5mb3JtYXQocHJvamVjdC5hcnRpZmFjdF9pZCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -475,8 +475,8 @@
         <entry>action Back</entry>
         <entry>action GotoFile</entry>
         <entry>action CloseContent</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
