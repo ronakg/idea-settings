@@ -55,12 +55,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1539897678279">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="49" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1539900923645">
+        <mark key="'" line="24" column="10" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="24" column="10" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/infrastructure/notifications/src/main/java/com/cisco/profiler/infrastructure/notifications/FeedOUINotificationHandler.java" timestamp="1534287051824">
         <mark key="'" line="74" column="4" />
@@ -282,8 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="157" column="50" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="191" column="47" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="14" column="16" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
       <jump line="16" column="6" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
@@ -382,10 +380,12 @@
       <jump line="254" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="40" column="73" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
       <jump line="89" column="0" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
+      <jump line="104" column="18" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
+      <jump line="24" column="10" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>clean install</text>
@@ -394,31 +394,31 @@
         <text>'ls {}*'.format(os.path.join(backup_dir, project.artifact_id))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">REJfUE9SVCA9IDE1MjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">REJfVVNFUiA9ICdjZXBtJwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHByb2Nlc3MucmV0dXJuY29kZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TVZOX0dPQUwgPSAndGVzdCcK</text>
+        <text encoding="base64">REJfUE9SVCA9IDE1MjEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REJfVVNFUiA9ICdjZXBtJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
+        <text encoding="base64">TVZOX0dPQUwgPSAndGVzdCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0NsZWFuIGV4aXN0aW5nIGphciBmaWxlcyBmaXJzdC4gRXhpdGluZy4uLicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdNdWx0aXBsZSBqYXIgZmlsZXMgZm91bmQgZm9yIHByb2plY3QgInt9IiBvbiB0aGUgSVNFIG5vZGUuJy5mb3JtYXQocHJvamVjdC5hcnRpZmFjdF9pZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcHJvamVjdC5yZW1vdGVfamFyX25hbWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0NsZWFuIGV4aXN0aW5nIGphciBmaWxlcyBmaXJzdC4gRXhpdGluZy4uLicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdNdWx0aXBsZSBqYXIgZmlsZXMgZm91bmQgZm9yIHByb2plY3QgInt9IiBvbiB0aGUgSVNFIG5vZGUuJy5mb3JtYXQocHJvamVjdC5hcnRpZmFjdF9pZCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
