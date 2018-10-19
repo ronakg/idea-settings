@@ -210,8 +210,8 @@
       <file name="/Dummy.txt" timestamp="1538699731918">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/profiler/cfd_CSCuy41309_idgroup_delete.py" timestamp="1539975354897">
-        <mark key="'" line="55" column="36" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/profiler/cfd_CSCuy41309_idgroup_delete.py" timestamp="1539979364169">
+        <mark key="'" line="77" column="22" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/main/java/com/cisco/cpm/admin/restui/features/vizWizard/ScanNetworkDeviceUIApi.java" timestamp="1533838769647">
         <mark key="'" line="386" column="44" />
@@ -285,9 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="6" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
-      <jump line="43" column="12" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
-      <jump line="55" column="8" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
       <jump line="54" column="0" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
       <jump line="56" column="50" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
       <jump line="48" column="36" filename="$USER_HOME$/PycharmProjects/fantasy-coach/fantasy-coach.py" />
@@ -385,13 +382,16 @@
       <jump line="24" column="10" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
       <jump line="75" column="34" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
       <jump line="55" column="36" filename="$USER_HOME$/work/isepy/tests/suites/profiler/cfd_CSCuy41309_idgroup_delete.py" />
+      <jump line="43" column="27" filename="$USER_HOME$/work/isepy/tests/suites/profiler/cfd_CSCuy41309_idgroup_delete.py" />
+      <jump line="46" column="22" filename="$USER_HOME$/work/isepy/tests/suites/profiler/cfd_CSCuy41309_idgroup_delete.py" />
+      <jump line="77" column="22" filename="$USER_HOME$/work/isepy/tests/suites/profiler/cfd_CSCuy41309_idgroup_delete.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>clean install</text>
+        <text>ssh_con</text>
       </register>
       <register name="0" type="4">
         <text>'ls {}*'.format(os.path.join(backup_dir, project.artifact_id))</text>
@@ -424,13 +424,13 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdNdWx0aXBsZSBqYXIgZmlsZXMgZm91bmQgZm9yIHByb2plY3QgInt9IiBvbiB0aGUgSVNFIG5vZGUuJy5mb3JtYXQocHJvamVjdC5hcnRpZmFjdF9pZCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>clean install</last-search>
+      <last-search>ssh_con</last-search>
       <last-offset />
-      <last-pattern>clean install</last-pattern>
+      <last-pattern>ssh_con</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -438,7 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>args</entry>
         <entry encoding="base64">XDxwYXJzZV9hcmd1bWVudHNcPg==</entry>
         <entry>check_update</entry>
         <entry>516</entry>
@@ -458,6 +457,7 @@
         <entry>restore</entry>
         <entry encoding="base64">XDxtdm5cPg==</entry>
         <entry>clean install</entry>
+        <entry>ssh_con</entry>
       </history-search>
       <history-cmd>
         <entry>328</entry>
@@ -478,8 +478,8 @@
         <entry>action GotoFile</entry>
         <entry>action CloseContent</entry>
         <entry>w</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
