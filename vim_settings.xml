@@ -210,10 +210,10 @@
       <file name="/Dummy.txt" timestamp="1538699731918">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/profiler/cfd_CSCuy41309_idgroup_delete.py" timestamp="1539981014854">
+      <file name="$USER_HOME$/work/isepy/tests/suites/profiler/cfd_CSCuy41309_idgroup_delete.py" timestamp="1539985652039">
         <mark key="'" line="77" column="22" />
-        <mark key="[" line="56" column="89" />
-        <mark key="]" line="56" column="88" />
+        <mark key="[" line="56" column="34" />
+        <mark key="]" line="56" column="50" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/wars/admin-webapp/src/main/java/com/cisco/cpm/admin/restui/features/vizWizard/ScanNetworkDeviceUIApi.java" timestamp="1533838769647">
         <mark key="'" line="386" column="44" />
@@ -396,7 +396,7 @@
         <text>ssh_con</text>
       </register>
       <register name="0" type="4">
-        <text />
+        <text>00:03:93:AA:BB:CC</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
