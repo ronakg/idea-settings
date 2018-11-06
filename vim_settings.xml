@@ -55,12 +55,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1540854359577">
+      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1541538738403">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="99" column="18" />
-        <mark key="^" line="29" column="74" />
-        <mark key="." line="29" column="74" />
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="59" />
+        <mark key="^" line="29" column="59" />
+        <mark key="." line="29" column="59" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/infrastructure/notifications/src/main/java/com/cisco/profiler/infrastructure/notifications/FeedOUINotificationHandler.java" timestamp="1534287051824">
         <mark key="'" line="74" column="4" />
@@ -212,8 +212,10 @@
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" timestamp="1534377647495">
         <mark key="'" line="66" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538699731918">
+      <file name="/Dummy.txt" timestamp="1541538751252">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/profiler/cfd_CSCuy41309_idgroup_delete.py" timestamp="1539986475019">
         <mark key="'" line="77" column="22" />
@@ -405,32 +407,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyeToKICAgICAgICBwcm9jZXNzID0gc3VicHJvY2Vzcy5Qb3Blbihtdm5fY21kLnNwbGl0KCksIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIGN3ZD1vcy5wYXRoLmFic3BhdGgoYXJncy5tdm4pKQogICAgICAgIGZvciBsaW5lIGluIHByb2Nlc3Muc3Rkb3V0OgogICAgICAgICAgICBzeXMuc3Rkb3V0LndyaXRlKGxpbmUuZGVjb2RlKCkpCiAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICBzeXMuZXhpdCgxKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlbGliLnNlbGVuaXVtLnNlbGVuaXVtX3VpX2Jhc2VfdGVzdCBpbXBvcnQgKgo=</text>
+      <register name="1" type="4">
+        <text>Refactor install action to prepare for restore
+
+- Add new option -confirm to ask user for confirmation</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb3JlbGliLnNlbGVuaXVtLnNlbGVuaXVtX3VpX2Jhc2VfdGVzdCBpbXBvcnQgKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByb2Nlc3MucmV0dXJuY29kZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">REJfUE9SVCA9IDE1MjEK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">REJfVVNFUiA9ICdjZXBtJwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">TVZOX0dPQUwgPSAndGVzdCcK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KHByb2Nlc3MucmV0dXJuY29kZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">REJfUE9SVCA9IDE1MjEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">REJfVVNFUiA9ICdjZXBtJwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">TVZOX0dPQUwgPSAndGVzdCcK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0NsZWFuIGV4aXN0aW5nIGphciBmaWxlcyBmaXJzdC4gRXhpdGluZy4uLicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
