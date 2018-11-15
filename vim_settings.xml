@@ -55,10 +55,10 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1541542123746">
+      <file name="$USER_HOME$/work/dev-tools/ise_run_ut.py" timestamp="1542239606326">
         <mark key="'" line="76" column="7" />
-        <mark key="[" line="93" column="38" />
-        <mark key="]" line="96" column="21" />
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="113" column="31" />
         <mark key="^" line="96" column="21" />
         <mark key="." line="96" column="21" />
       </file>
@@ -404,8 +404,20 @@
       <register name="/" type="4">
         <text>args.test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBwcm9jZXNzID0gc3VicHJvY2Vzcy5Qb3Blbihtdm5fY21kLnNwbGl0KCksIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIGN3ZD1vcy5wYXRoLmFic3BhdGgoYXJncy5tdm4pKQogICAgICAgIGZvciBsaW5lIGluIHByb2Nlc3Muc3Rkb3V0OgogICAgICAgICAgICBzeXMuc3Rkb3V0LndyaXRlKGxpbmUuZGVjb2RlKCkpCiAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICBzeXMuZXhpdCgxKQo=</text>
+      <register name="0" type="4">
+        <text>try:
+        process = subprocess.Popen(mvn_cmd.split(), stdout=subprocess.PIPE, cwd=os.path.abspath(args.mvn))
+        for line in process.stdout:
+            sys.stdout.write(line.decode())
+    except subprocess.CalledProcessError as e:
+        sys.exit(1)
+
+    # Wait until process terminates (without using p.wait())
+    while process.poll() is None:
+        # Process hasn't exited yet, let's wait some
+        time.sleep(0.5)
+
+    sys.exit(process.returncode)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG12bl9wYXJhbXNbJ3Rlc3QnXSA9IGFyZ3MudGVzdAo=</text>
