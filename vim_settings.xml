@@ -166,6 +166,9 @@
         <mark key="[" line="129" column="0" />
         <mark key="]" line="141" column="67" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" timestamp="1534377647495">
+        <mark key="'" line="66" column="34" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1538525597175">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="12" />
@@ -209,10 +212,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" timestamp="1534377647495">
-        <mark key="'" line="66" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1541542630494">
+      <file name="/Dummy.txt" timestamp="1543357429388">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
