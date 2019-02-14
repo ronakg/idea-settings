@@ -242,7 +242,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1550101355473" />
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1550102699936">
+        <mark key="'" line="28" column="31" />
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="51" />
+        <mark key="^" line="37" column="51" />
+        <mark key="." line="37" column="51" />
+      </file>
       <file name="$USER_HOME$/work/dev-tools/ise_maven_project.py" timestamp="1534287914753">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="30" column="40" />
@@ -300,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="50" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/work/dev-tools/libs/util.py" />
       <jump line="59" column="31" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
       <jump line="67" column="4" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
       <jump line="70" column="4" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
@@ -400,54 +404,165 @@
       <jump line="44" column="32" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
       <jump line="76" column="7" filename="$USER_HOME$/work/dev-tools/ise_run_ut.py" />
       <jump line="8" column="94" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_multiple_nodes.py" />
+      <jump line="8" column="59" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" />
+      <jump line="26" column="31" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>args.test</text>
+        <text encoding="base64">XDx0ZXN0c19mb3Jfc3RhbmRhbG9uZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG12bl9wYXJhbXNbJ2RiX3VzZXInXSA9IGFyZ3MuZGJfdXNlcgo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text>pxgrid_suites, 'UI'
+pxgrid_suites, 'UI'</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
+        <text>pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'
+pxgrid_suites, 'tests_for_standalone'</text>
+      </register>
+      <register name="3" type="8">
+        <text>h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIG12bl9wYXJhbXNbJ3Rlc3QnXSA9IGFyZ3MudGVzdAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>Refactor install action to prepare for restore
 
 - Add new option -confirm to ask user for confirmation</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBjb3JlbGliLnNlbGVuaXVtLnNlbGVuaXVtX3VpX2Jhc2VfdGVzdCBpbXBvcnQgKgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByb2Nlc3MucmV0dXJuY29kZSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">REJfUE9SVCA9IDE1MjEK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">REJfVVNFUiA9ICdjZXBtJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TVZOX0dPQUwgPSAndGVzdCcK</text>
+        <text encoding="base64">ICAgIHByaW50KHByb2Nlc3MucmV0dXJuY29kZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REJfUE9SVCA9IDE1MjEK</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>args.test</last-search>
+      <last-search encoding="base64">XDx0ZXN0c19mb3Jfc3RhbmRhbG9uZVw+</last-search>
       <last-offset />
-      <last-pattern>args.test</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0c19mb3Jfc3RhbmRhbG9uZVw+</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -455,7 +570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>navigate_proxy</entry>
         <entry encoding="base64">XDxjb25maWdfcmVzdWx0XD4=</entry>
         <entry>check_ownership_is_intact_in_deployment</entry>
         <entry>there is a mis</entry>
@@ -475,9 +589,9 @@
         <entry encoding="base64">XDxNVk5fQ01EX1RFTVBMQVRFXD4=</entry>
         <entry>test</entry>
         <entry>args.test</entry>
+        <entry encoding="base64">XDx0ZXN0c19mb3Jfc3RhbmRhbG9uZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action VimFilePrevious</entry>
         <entry>set clipboard+=unnamedplus</entry>
         <entry>action FindNext</entry>
         <entry>287</entry>
@@ -494,9 +608,10 @@
         <entry>action CloseContent</entry>
         <entry>action Back</entry>
         <entry>action GotoImplementation</entry>
-        <entry>w</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>ww</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
