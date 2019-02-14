@@ -72,11 +72,11 @@
         <mark key="^" line="86" column="39" />
         <mark key="." line="86" column="39" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" timestamp="1550183659497">
-        <mark key="[" line="31" column="111" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="32" column="23" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" timestamp="1550185130933">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="30" column="43" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/infrastructure/notifications/src/main/java/com/cisco/profiler/infrastructure/notifications/FeedOUINotificationHandler.java" timestamp="1534287051824">
         <mark key="'" line="74" column="4" />
@@ -520,34 +520,34 @@
         <text encoding="base64">ICAgICAgICByZXN0X3Jlc3AgPSBweGdyaWRfZGF0YS5weGdyaWRfcmVzdChzZWxmLmhlbHBlci5weGdyaWQsICdjb20uY2lzY28uaXNlLmRuYWMnLCAnZ2V0TWFzdGVyJywge30pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IEZhbHNlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbyhzZXJ2aWNlX2xvb2t1cF9yZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdGYWlsZWQgdG8gbWFrZSBQeEdyaWQgUkVTVCBDYWxsIGZvciByZWdpc3Rlck1hc3RlciB3aXRoIHt9Jy5mb3JtYXQocmVnaXN0ZXJfcmVxdWVzdCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2UgPSBzZXJ2aWNlX2xvb2t1cF9yZXNwb25zZVsnc2VydmljZXMnXVswXQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVnaXN0ZXJfcmVzcG9uc2U6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnbG9va2luZyB1cCBzZXJ2aWNlICVzJywgc2VydmljZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbyhzZXJ2aWNlX2xvb2t1cF9yZXNwb25zZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">ICAgIHNlcnZpY2UgPSBzZXJ2aWNlX2xvb2t1cF9yZXNwb25zZVsnc2VydmljZXMnXVswXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnbG9va2luZyB1cCBzZXJ2aWNlICVzJywgc2VydmljZV9uYW1lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci51aS5pZGVudGl0eV9hZGRfdXNlcihUZXN0RE5BQ01hc3Rlci5URVNUX1VTRVIpCg==</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
