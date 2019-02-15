@@ -88,12 +88,11 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/profiler/kibarla_Tnt5232364c_purge_ep_based_on_logical_profile.py" timestamp="1538169250741">
         <mark key="'" line="144" column="42" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/libs/maven_project.py" timestamp="1550188586666">
-        <mark key="'" line="40" column="8" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="151" column="78" />
+      <file name="$USER_HOME$/work/dev-tools/libs/maven_project.py" timestamp="1550189377401">
+        <mark key="'" line="188" column="76" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/libs/util.py" timestamp="1538699098786">
         <mark key="[" line="122" column="0" />
@@ -332,11 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="21" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="294" column="24" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="13" column="30" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="115" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="117" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="70" column="14" filename="$USER_HOME$/work/isepy/tests/suites/profiler/pbhootha_CSCvg40522_feed_update_report_broken.py" />
       <jump line="0" column="0" filename="$USER_HOME$/work/isepy/resources/te/SJC.xml" />
@@ -410,7 +404,6 @@
       <jump line="86" column="36" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="180" column="32" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="43" column="8" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
-      <jump line="103" column="13" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="123" column="23" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="74" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="212" column="37" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -432,6 +425,12 @@
       <jump line="213" column="24" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="161" column="29" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="40" column="8" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
+      <jump line="83" column="31" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
+      <jump line="44" column="17" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
+      <jump line="98" column="17" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
+      <jump line="103" column="17" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
+      <jump line="106" column="52" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
+      <jump line="188" column="76" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -509,49 +508,49 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW1vdGVfd2FyX25hbWVcPg==</text>
+        <text>local</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnBhcmVudF9hcnRpZmFjdGlkID0gcm9vdC5maW5kYWxsKCd7MH1wYXJlbnQvezB9YXJ0aWZhY3RJZCcuZm9ybWF0KG5hbWVzcGFjZSkpCiAgICAgICAgaWYgc2VsZi5wYXJlbnRfYXJ0aWZhY3RpZDoKICAgICAgICAgICAgc2VsZi5wYXJlbnRfYXJ0aWZhY3RpZCA9IHNlbGYucGFyZW50X2FydGlmYWN0aWRbMF0udGV4dAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYucGFyZW50X2FydGlmYWN0aWQgPSAnJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygne30ge30nLmZvcm1hdChwcm9qZWN0MSwgcHJvamVjdDIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKG12bl9kZXBfdHJlZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGlzIGRlcGVuZGVudCBvbiB7fScuZm9ybWF0KHByb2plY3QyLCBwcm9qZWN0MSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygne30ge30nLmZvcm1hdChwcm9qZWN0MSwgcHJvamVjdDIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGlzIGRlcGVuZGVudCBvbiB7fScuZm9ybWF0KHByb2plY3QxLCBwcm9qZWN0MikpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKG12bl9kZXBfdHJlZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhvdXRwdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGlzIGRlcGVuZGVudCBvbiB7fScuZm9ybWF0KHByb2plY3QyLCBwcm9qZWN0MSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGxpbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGlzIGRlcGVuZGVudCBvbiB7fScuZm9ybWF0KHByb2plY3QxLCBwcm9qZWN0MikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhvdXRwdXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhzZWxmLmRlcGVuZGVuY2llcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGxpbmUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igbm9kZSBpbiB0cmVlLmZpbmRhbGwoJy4vL3swfXBhcmVudC97MH12ZXJzaW9uJy5mb3JtYXQobmFtZXNwYWNlKSk6CiAgICAgICAgICAgIHNlbGYucGFyZW50X3ZlcnNpb24gPSBub2RlLnRleHQKICAgICAgICAgICAgYnJlYWsKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLnBhcmVudF92ZXJzaW9uID0gJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW1vdGVfd2FyX25hbWVcPg==</last-search>
+      <last-search>local</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW1vdGVfd2FyX25hbWVcPg==</last-pattern>
+      <last-pattern>local</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -559,9 +558,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNVk5fQ01EX1RFTVBMQVRFXD4=</entry>
-        <entry>test</entry>
-        <entry>args.test</entry>
         <entry encoding="base64">XDx0ZXN0c19mb3Jfc3RhbmRhbG9uZVw+</entry>
         <entry>code_coverage</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
@@ -579,6 +575,9 @@
         <entry>mavenproject</entry>
         <entry>remote_war_name</entry>
         <entry encoding="base64">XDxyZW1vdGVfd2FyX25hbWVcPg==</entry>
+        <entry>local_jar_path</entry>
+        <entry>local_</entry>
+        <entry>local</entry>
       </history-search>
       <history-cmd>
         <entry>action FindNext</entry>
