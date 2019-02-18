@@ -72,11 +72,11 @@
         <mark key="^" line="86" column="39" />
         <mark key="." line="86" column="39" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" timestamp="1550185130933">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="43" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" timestamp="1550523818572">
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="32" column="30" />
+        <mark key="." line="32" column="30" />
+        <mark key="^" line="32" column="46" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/infrastructure/notifications/src/main/java/com/cisco/profiler/infrastructure/notifications/FeedOUINotificationHandler.java" timestamp="1534287051824">
         <mark key="'" line="74" column="4" />
@@ -506,43 +506,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>copied</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8odmVyc2lvbikK</text>
+      <register name="0" type="4">
+        <text>23004744-6ba4-446e-b24e-7c531e778591'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHZlcnNpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgZ2V0X3Jlc3BvbnNlIGlzIG5vdCBOb25lCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN5cy5leGl0KDApCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgZ2V0X3Jlc3BvbnNlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb25baV0gPSAnLScKICAgIGxvZ2dlci5pbmZvKHZlcnNpb24pCiAgICB2ZXJzaW9uID0gJy17fScuZm9ybWF0KHZlcnNpb24pCiAgICBsb2dnZXIuaW5mbyh2ZXJzaW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uID0gJycK</text>
+        <text encoding="base64">ICAgICAgICBnZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVnaXN0ZXJfcmVzcG9uc2UucmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIHZlcnNpb25fb3V0cHV0OgogICAgICAgIGxvZ2dlci5pbmZvKGxpbmUpCiAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCdWZXJzaW9uJyk6CiAgICAgICAgICAgIF8sIHZlcnNpb24gPSBsaW5lLnNwbGl0KCc6JylbMV0uc3RyaXAoKQogICAgICAgICAgICBsb2dnZXIuaW5mbyh2ZXJzaW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRfcmVzcG9uc2UgPSBweGdyaWRfZGF0YS5weGdyaWRfcmVzdChzZWxmLmhlbHBlci5weGdyaWQsICdjb20uY2lzY28uaXNlLmRuYWMnLCAnZ2V0TWFzdGVyJywge30pCiAgICAgICAgYXNzZXJ0IGdldF9yZXNwb25zZSBpcyBub3QgTm9uZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN5cy5leGl0KDApCg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3Rlcl9yZXF1ZXN0ID0gewogICAgICAgICAgICAndXVpZCc6ICcyMzAwNDc0NC02YmE0LTQ0NmUtYjI0ZS03YzUzMWU3Nzg1OTEnLAogICAgICAgICAgICAnZnFkbic6ICdleGFtcGxlLmNvbScsCiAgICAgICAgICAgICdpcEFkZHJlc3MnOiAnMS4xLjEuMScKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZ2lzdGVyX3JlcXVlc3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -598,8 +598,8 @@
         <entry>ww</entry>
         <entry>98</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
