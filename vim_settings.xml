@@ -96,10 +96,11 @@
         <mark key="." line="193" column="24" />
         <mark key="^" line="193" column="24" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/libs/util.py" timestamp="1538699098786">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/work/dev-tools/libs/util.py" timestamp="1550612432712">
+        <mark key="'" line="118" column="17" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/google-java-format-diff.py" timestamp="1536271024259">
         <mark key="[" line="101" column="28" />
@@ -132,12 +133,12 @@
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_multiple_nodes.py" timestamp="1550101420232">
         <mark key="'" line="8" column="94" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1550563982309">
-        <mark key="'" line="243" column="4" />
-        <mark key="[" line="312" column="41" />
-        <mark key="]" line="312" column="79" />
-        <mark key="^" line="312" column="79" />
-        <mark key="." line="312" column="79" />
+      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1550612963319">
+        <mark key="'" line="133" column="94" />
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="57" column="24" />
+        <mark key="." line="57" column="24" />
+        <mark key="^" line="57" column="24" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/docs/support_bundle_parser.md" timestamp="1533254615079">
         <mark key="[" line="33" column="32" />
@@ -325,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" />
       <jump line="4" column="7" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" />
       <jump line="43" column="34" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_data.py" />
       <jump line="39" column="0" filename="$USER_HOME$/work/isepy/tests/suites/profiler/test_snmp_polling.py" />
@@ -338,7 +338,6 @@
       <jump line="180" column="32" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="43" column="8" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="123" column="23" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="87" column="42" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="81" column="50" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="75" column="20" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
@@ -401,7 +400,6 @@
       <jump line="62" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="80" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="115" column="51" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="124" column="47" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="126" column="77" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="147" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="86" column="19" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -425,6 +423,9 @@
       <jump line="243" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="181" column="16" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" />
       <jump line="101" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="124" column="94" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="118" column="17" filename="$USER_HOME$/work/dev-tools/libs/util.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -499,52 +500,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>Deleted</text>
       </register>
       <register name="/" type="4">
-        <text>get_remote</text>
+        <text>git</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzID09IDQwOSwgJ2dvdCB7fScuZm9ybWF0KHJlc3BvbnNlLnN0YXR1cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdcdC0ge30nLmZvcm1hdChvcy5wYXRoLnJlbHBhdGgob3MucGF0aC5hYnNwYXRoKGZpbGUpLCBzdGFydD1saWJzLlJFUE9fUk9PVCkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUnVubmluZyBjbGVhbnVwIG5vdycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ1x0LSB7fScuZm9ybWF0KG9zLnBhdGgucmVscGF0aChvcy5wYXRoLmFic3BhdGgoZmlsZSksIHN0YXJ0PWxpYnMuUkVQT19ST09UKSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzID09IDQwOQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIG9wID09ICdSJzoKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ1x0LSB7fSAoUmVuYW1lZCknLmZvcm1hdChvcy5wYXRoLnJlbHBhdGgob3MucGF0aC5hYnNwYXRoKGZpbGUpLCBzdGFydD1saWJzLlJFUE9fUk9PVCkpKQogICAgICAgICAgICBtb2RpZmllZF9maWxlcy5hcHBlbmQob3MucGF0aC5hYnNwYXRoKGZpbGUpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZSA9IGZpbGUuc3BsaXQoKVszXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVnaXN0ZXJlZF9ub2RlLmdldCgndXVpZCcpIGlzIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlID0gZmlsZS5zdHJpcCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlcmVkX25vZGUgPSBqc29uLmxvYWRzKHJlc3BvbnNlLnJlYWQoKS5kZWNvZGUoKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHN0YXR1cyA9PSAyMDAK</text>
+        <text encoding="base64">ICAgIHByaW50KGdpdF9maWxlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZSA9IGZpbGUuc3BsaXQoKVsyXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1dWlkMiA9ICcxMTExMTExMS0yMjIyLTU1NTUtYmJiYi1hYWFhYWFhYWFhYWEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_remote</last-search>
+      <last-search>git</last-search>
       <last-offset />
-      <last-pattern>get_remote</last-pattern>
+      <last-pattern>git</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -552,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdGVfamFyX25hbWVcPg==</entry>
         <entry>finalname</entry>
         <entry>projects to build</entry>
         <entry encoding="base64">XDxsYXN0X2J1aWx0XD4=</entry>
@@ -572,6 +572,7 @@
         <entry>registered</entry>
         <entry>409</entry>
         <entry>get_remote</entry>
+        <entry>git</entry>
       </history-search>
       <history-cmd>
         <entry>action Find</entry>
@@ -589,10 +590,10 @@
         <entry>ww</entry>
         <entry>98</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>158</entry>
         <entry>101</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
