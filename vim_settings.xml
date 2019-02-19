@@ -132,12 +132,12 @@
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_multiple_nodes.py" timestamp="1550101420232">
         <mark key="'" line="8" column="94" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1550532594700">
-        <mark key="'" line="117" column="69" />
-        <mark key="[" line="248" column="51" />
-        <mark key="]" line="249" column="28" />
-        <mark key="^" line="249" column="28" />
-        <mark key="." line="249" column="28" />
+      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1550563982309">
+        <mark key="'" line="243" column="4" />
+        <mark key="[" line="312" column="41" />
+        <mark key="]" line="312" column="79" />
+        <mark key="^" line="312" column="79" />
+        <mark key="." line="312" column="79" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/docs/support_bundle_parser.md" timestamp="1533254615079">
         <mark key="[" line="33" column="32" />
@@ -325,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="15" filename="$USER_HOME$/work/isepy/corelib/easypy/isepy_plugin.py" />
       <jump line="37" column="14" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_data.py" />
       <jump line="73" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_data.py" />
       <jump line="45" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" />
@@ -342,7 +341,6 @@
       <jump line="43" column="8" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="123" column="23" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="74" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="212" column="37" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="87" column="42" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="81" column="50" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="75" column="20" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
@@ -425,6 +423,8 @@
       <jump line="183" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" />
       <jump line="24" column="33" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" />
       <jump line="11" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" />
+      <jump line="212" column="34" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="243" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -502,7 +502,7 @@
         <text>status</text>
       </register>
       <register name="/" type="4">
-        <text>409</text>
+        <text>get_remote</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzID09IDQwOSwgJ2dvdCB7fScuZm9ybWF0KHJlc3BvbnNlLnN0YXR1cykK</text>
@@ -542,9 +542,9 @@
       </register>
     </registers>
     <search>
-      <last-search>409</last-search>
+      <last-search>get_remote</last-search>
       <last-offset />
-      <last-pattern>409</last-pattern>
+      <last-pattern>get_remote</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -552,7 +552,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw9XD4=</entry>
         <entry encoding="base64">XDxyZW1vdGVfamFyX25hbWVcPg==</entry>
         <entry>finalname</entry>
         <entry>projects to build</entry>
@@ -572,6 +571,7 @@
         <entry>clear_master</entry>
         <entry>registered</entry>
         <entry>409</entry>
+        <entry>get_remote</entry>
       </history-search>
       <history-cmd>
         <entry>action Find</entry>
@@ -589,10 +589,10 @@
         <entry>ww</entry>
         <entry>98</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>158</entry>
         <entry>101</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
