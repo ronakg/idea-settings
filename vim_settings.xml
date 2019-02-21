@@ -89,12 +89,12 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/profiler/kibarla_Tnt5232364c_purge_ep_based_on_logical_profile.py" timestamp="1538169250741">
         <mark key="'" line="144" column="42" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/libs/maven_project.py" timestamp="1550705625686">
-        <mark key="'" line="146" column="18" />
-        <mark key="[" line="152" column="23" />
-        <mark key="]" line="152" column="23" />
-        <mark key="." line="152" column="23" />
-        <mark key="^" line="165" column="28" />
+      <file name="$USER_HOME$/work/dev-tools/libs/maven_project.py" timestamp="1550709654757">
+        <mark key="'" line="173" column="32" />
+        <mark key="[" line="243" column="36" />
+        <mark key="]" line="243" column="36" />
+        <mark key="." line="243" column="36" />
+        <mark key="^" line="243" column="22" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/libs/util.py" timestamp="1550704249854">
         <mark key="'" line="120" column="17" />
@@ -327,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="69" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="278" column="85" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="294" column="81" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="296" column="56" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -427,6 +426,7 @@
       <jump line="354" column="19" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="138" column="71" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="144" column="18" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
+      <jump line="173" column="32" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -504,7 +504,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>force</text>
+        <text encoding="base64">ZG9uZS4g</text>
       </register>
       <register name="0" type="4">
         <text>'{}-{}.deptree'.format(self.package_id,
@@ -545,9 +545,9 @@
       </register>
     </registers>
     <search>
-      <last-search>force</last-search>
+      <last-search encoding="base64">ZG9uZS4g</last-search>
       <last-offset />
-      <last-pattern>force</last-pattern>
+      <last-pattern encoding="base64">ZG9uZS4g</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -555,7 +555,6 @@
     </search>
     <history>
       <history-search>
-        <entry>registered</entry>
         <entry>409</entry>
         <entry>get_remote</entry>
         <entry>git</entry>
@@ -575,6 +574,7 @@
         <entry>pass</entry>
         <entry>args</entry>
         <entry>force</entry>
+        <entry encoding="base64">ZG9uZS4g</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
