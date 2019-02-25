@@ -134,11 +134,12 @@
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_multiple_nodes.py" timestamp="1550101420232">
         <mark key="'" line="8" column="94" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1550737281588">
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="^" line="231" column="0" />
-        <mark key="." line="220" column="0" />
+      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1551121961832">
+        <mark key="'" line="137" column="30" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="16" />
+        <mark key="^" line="51" column="16" />
+        <mark key="." line="68" column="16" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/docs/support_bundle_parser.md" timestamp="1533254615079">
         <mark key="[" line="33" column="32" />
@@ -326,8 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="24" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
-      <jump line="125" column="44" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="249" column="29" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="184" column="74" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="96" column="25" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
@@ -426,6 +425,8 @@
       <jump line="172" column="17" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="10" column="9" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="167" column="59" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
+      <jump line="137" column="30" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -500,52 +501,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>dependency:list</text>
+        <text>list of files</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGlzIGRlcGVuZGVudCBvbiB7fScuZm9ybWF0KHNlbGYsIHBhY2thZ2UpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnZmlsZSB7fSAnLmZvcm1hdChmaWxlKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygne30gLT4ge30nLmZvcm1hdChwcm9qZWN0LCBwcm9qZWN0LmNoaWxkcmVuKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGdpdF9maWxlcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIG90aGVyd2lzZSBpdCdkIGdldCBidWlsdCBhZnRlciBhbm90aGVyIHByb2plY3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJ1aWxkIG9ubHkgaWYgdGhpcyBwcm9qZWN0IGlzIGEgcm9vdCBub2RlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJvb3QgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygne30gLT4ge30nLmZvcm1hdChwcm9qZWN0LCBwcm9qZWN0LmNoaWxkcmVuKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZC5yb290ID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAjIG90aGVyd2lzZSBpdCdkIGdldCBidWlsdCBhZnRlciBhbm90aGVyIHByb2plY3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGlzIGRlcGVuZGVudCBvbiB7fScuZm9ybWF0KHNlbGYsIHBhY2thZ2UpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGJ1aWxkIG9ubHkgaWYgdGhpcyBwcm9qZWN0IGlzIGEgcm9vdCBub2RlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJvb3QgPSBUcnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dependency:list</last-search>
+      <last-search>list of files</last-search>
       <last-offset />
-      <last-pattern>dependency:list</last-pattern>
+      <last-pattern>list of files</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -553,8 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getmtime</entry>
-        <entry encoding="base64">Zm9yIGZpbGUgaW4g</entry>
         <entry>depende</entry>
         <entry encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</entry>
         <entry>dependencies</entry>
@@ -573,6 +572,8 @@
         <entry>Node(</entry>
         <entry>root</entry>
         <entry>dependency:list</entry>
+        <entry>find_git_files</entry>
+        <entry>list of files</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
