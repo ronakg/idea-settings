@@ -72,12 +72,12 @@
         <mark key="^" line="86" column="39" />
         <mark key="." line="86" column="39" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" timestamp="1551167978187">
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" timestamp="1551212165906">
         <mark key="'" line="42" column="8" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="42" />
-        <mark key="." line="194" column="0" />
-        <mark key="^" line="100" column="69" />
+        <mark key="[" line="126" column="40" />
+        <mark key="]" line="126" column="62" />
+        <mark key="." line="126" column="62" />
+        <mark key="^" line="126" column="62" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/infrastructure/notifications/src/main/java/com/cisco/profiler/infrastructure/notifications/FeedOUINotificationHandler.java" timestamp="1534287051824">
         <mark key="'" line="74" column="4" />
@@ -501,7 +501,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>response.read().decode()</text>
       </register>
       <register name="/" type="4">
         <text>clearMaster</text>
@@ -510,37 +510,37 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGlzIGRlcGVuZGVudCBvbiB7fScuZm9ybWF0KHNlbGYsIHBhY2thZ2UpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygncmVnaXN0ZXJlZCBub2RlIHt9J2RkKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnZmlsZSB7fSAnLmZvcm1hdChmaWxlKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdpdF9maWxlcykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnZmlsZSB7fSAnLmZvcm1hdChmaWxlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGdpdF9maWxlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygne30gLT4ge30nLmZvcm1hdChwcm9qZWN0LCBwcm9qZWN0LmNoaWxkcmVuKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIG90aGVyd2lzZSBpdCdkIGdldCBidWlsdCBhZnRlciBhbm90aGVyIHByb2plY3QK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygne30gLT4ge30nLmZvcm1hdChwcm9qZWN0LCBwcm9qZWN0LmNoaWxkcmVuKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJ1aWxkIG9ubHkgaWYgdGhpcyBwcm9qZWN0IGlzIGEgcm9vdCBub2RlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG90aGVyd2lzZSBpdCdkIGdldCBidWlsdCBhZnRlciBhbm90aGVyIHByb2plY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJvb3QgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGJ1aWxkIG9ubHkgaWYgdGhpcyBwcm9qZWN0IGlzIGEgcm9vdCBub2RlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -576,7 +576,6 @@
         <entry>clearMaster</entry>
       </history-search>
       <history-cmd>
-        <entry>110</entry>
         <entry>260</entry>
         <entry encoding="base64">JzwsJz5zL21kNS9zaGE=</entry>
         <entry encoding="base64">JzwsJz5zL01ENS9TSEE=</entry>
@@ -592,10 +591,11 @@
         <entry>192</entry>
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
-        <entry>w</entry>
         <entry>33</entry>
         <entry>172</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>126</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
