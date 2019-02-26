@@ -72,7 +72,7 @@
         <mark key="^" line="86" column="39" />
         <mark key="." line="86" column="39" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" timestamp="1551212165906">
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" timestamp="1551214220784">
         <mark key="'" line="42" column="8" />
         <mark key="[" line="126" column="40" />
         <mark key="]" line="126" column="62" />
@@ -540,7 +540,7 @@
         <text encoding="base64">ICAgICAgICAjIGJ1aWxkIG9ubHkgaWYgdGhpcyBwcm9qZWN0IGlzIGEgcm9vdCBub2RlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -576,7 +576,6 @@
         <entry>clearMaster</entry>
       </history-search>
       <history-cmd>
-        <entry>260</entry>
         <entry encoding="base64">JzwsJz5zL21kNS9zaGE=</entry>
         <entry encoding="base64">JzwsJz5zL01ENS9TSEE=</entry>
         <entry>action GotoFile</entry>
@@ -590,12 +589,13 @@
         <entry>62</entry>
         <entry>192</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>33</entry>
         <entry>172</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>126</entry>
         <entry>w</entry>
+        <entry>191</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
