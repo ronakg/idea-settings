@@ -109,13 +109,6 @@
         <mark key="^" line="102" column="16" />
         <mark key="." line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/work/isepy/corelib/easypy/isepy_plugin.py" timestamp="1550182440791">
-        <mark key="'" line="247" column="15" />
-        <mark key="[" line="340" column="0" />
-        <mark key="]" line="340" column="0" />
-        <mark key="." line="340" column="0" />
-        <mark key="^" line="123" column="31" />
-      </file>
       <file name="$USER_HOME$/work/dev-tools/lib/maven_project.py" timestamp="1534289059521">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="20" />
@@ -179,9 +172,6 @@
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/profiler/kibarla_purge_after_sync.py" timestamp="1534354241453">
         <mark key="'" line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/profiler/test_snmp_polling.py" timestamp="1550183424100">
-        <mark key="'" line="60" column="9" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/ise_maven_module.py" timestamp="1534286041676">
         <mark key="[" line="56" column="33" />
@@ -259,11 +249,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1551167314771">
-        <mark key="'" line="29" column="31" />
-        <mark key="[" line="26" column="77" />
-        <mark key="]" line="26" column="77" />
         <mark key="^" line="4" column="0" />
-        <mark key="." line="26" column="77" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/ise_maven_project.py" timestamp="1534287914753">
         <mark key="'" line="18" column="0" />
@@ -316,11 +302,6 @@
         <mark key="]" line="39" column="3" />
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/corelib/ise_code_coverage/handler.py" timestamp="1550182148525">
-        <mark key="[" line="14" column="83" />
-        <mark key="]" line="14" column="83" />
-        <mark key="." line="14" column="83" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi" timestamp="1534377647495">
         <mark key="'" line="66" column="34" />
