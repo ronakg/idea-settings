@@ -72,12 +72,12 @@
         <mark key="^" line="86" column="39" />
         <mark key="." line="86" column="39" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" timestamp="1551224929139">
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" timestamp="1551390661260">
         <mark key="'" line="112" column="15" />
-        <mark key="[" line="126" column="40" />
-        <mark key="]" line="126" column="62" />
-        <mark key="." line="126" column="62" />
-        <mark key="^" line="126" column="62" />
+        <mark key="[" line="151" column="46" />
+        <mark key="]" line="151" column="57" />
+        <mark key="." line="151" column="57" />
+        <mark key="^" line="151" column="57" />
       </file>
       <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/infrastructure/notifications/src/main/java/com/cisco/profiler/infrastructure/notifications/FeedOUINotificationHandler.java" timestamp="1534287051824">
         <mark key="'" line="74" column="4" />
@@ -218,7 +218,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550124878229">
+      <file name="/Dummy.txt" timestamp="1551390817200">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -485,7 +485,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>run(testscript=os.path.join(tests_for_standalone, 'test_radius_failure.py'))</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>deletemaster</text>
