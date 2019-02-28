@@ -248,8 +248,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1551167314771">
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1551316407357">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/ise_maven_project.py" timestamp="1534287914753">
         <mark key="'" line="18" column="0" />
@@ -482,7 +485,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>response.read().decode()</text>
+        <text>run(testscript=os.path.join(tests_for_standalone, 'test_radius_failure.py'))</text>
       </register>
       <register name="/" type="4">
         <text>deletemaster</text>
@@ -521,7 +524,7 @@
         <text encoding="base64">ICAgICAgICAjIGJ1aWxkIG9ubHkgaWYgdGhpcyBwcm9qZWN0IGlzIGEgcm9vdCBub2RlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -573,10 +576,10 @@
         <entry>33</entry>
         <entry>172</entry>
         <entry>126</entry>
-        <entry>w</entry>
         <entry>191</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
