@@ -485,7 +485,7 @@
         <text>response.read().decode()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3RlcmVkX25vZGVcPg==</text>
+        <text>deletemaster</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGlzIGRlcGVuZGVudCBvbiB7fScuZm9ybWF0KHNlbGYsIHBhY2thZ2UpKQo=</text>
@@ -525,9 +525,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3RlcmVkX25vZGVcPg==</last-search>
+      <last-search>deletemaster</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3RlcmVkX25vZGVcPg==</last-pattern>
+      <last-pattern>deletemaster</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -535,7 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>renamed</entry>
         <entry>artifact_id</entry>
         <entry>self.depe</entry>
         <entry encoding="base64">XDxidWlsZF9kZXBlbmRlbmNpZXNcPg==</entry>
@@ -555,6 +554,7 @@
         <entry>packaging</entry>
         <entry>clearMaster</entry>
         <entry encoding="base64">XDxyZWdpc3RlcmVkX25vZGVcPg==</entry>
+        <entry>deletemaster</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21kNS9zaGE=</entry>
