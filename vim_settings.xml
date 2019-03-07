@@ -254,7 +254,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1551986238339" />
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1551989466335">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
+      </file>
       <file name="$USER_HOME$/work/dev-tools/ise_maven_project.py" timestamp="1534287914753">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="30" column="40" />
@@ -486,7 +490,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>deletemaster</text>
@@ -561,7 +565,6 @@
         <entry>deletemaster</entry>
       </history-search>
       <history-cmd>
-        <entry>action CloseContent</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FileStructurePopup</entry>
         <entry>ww</entry>
@@ -579,6 +582,7 @@
         <entry>30</entry>
         <entry>114</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action FindUsages</entry>
         <entry>action Back</entry>
         <entry>w</entry>
       </history-cmd>
