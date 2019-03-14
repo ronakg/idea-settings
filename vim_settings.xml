@@ -48,13 +48,6 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1550183051096">
         <mark key="'" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_data.py" timestamp="1550528891338">
-        <mark key="'" line="42" column="34" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="20" column="29" />
-      </file>
       <file name="$USER_HOME$/work/ise/cpm/jars/profiler/infrastructure/profiling/src/main/java/com/cisco/profiler/infrastructure/profiling/ProfilerManager.java" timestamp="1533317416058">
         <mark key="'" line="185" column="18" />
         <mark key="[" line="312" column="18" />
@@ -261,10 +254,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1552433624864">
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="39" column="5" />
-        <mark key="." line="39" column="5" />
-        <mark key="^" line="39" column="5" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/ise_maven_project.py" timestamp="1534287914753">
         <mark key="'" line="18" column="0" />
@@ -321,9 +314,11 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
+      <file name="$USER_HOME$/work/isepy/corelib/ise_code_coverage/handler.py" timestamp="1552605319895">
+        <mark key="'" line="70" column="18" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="16" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="60" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="62" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="80" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -423,6 +418,7 @@
       <jump line="55" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" />
       <jump line="25" column="23" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" />
       <jump line="57" column="45" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" />
+      <jump line="70" column="18" filename="$USER_HOME$/work/isepy/corelib/ise_code_coverage/handler.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
