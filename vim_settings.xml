@@ -210,6 +210,11 @@
         <mark key="." line="192" column="74" />
         <mark key="^" line="192" column="74" />
       </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac.py" timestamp="1552672531279">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="77" column="35" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1538525597175">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="12" />
@@ -228,11 +233,12 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_cert.py" timestamp="1552632551933">
-        <mark key="[" line="68" column="94" />
-        <mark key="]" line="69" column="7" />
-        <mark key="^" line="69" column="7" />
-        <mark key="." line="69" column="7" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_cert.py" timestamp="1552672552303">
+        <mark key="'" line="65" column="91" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1533941921288">
         <mark key="[" line="5" column="0" />
@@ -338,8 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="4" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="181" column="16" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac_master.py" />
       <jump line="74" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="124" column="94" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="118" column="17" filename="$USER_HOME$/work/dev-tools/libs/util.py" />
@@ -438,6 +442,8 @@
       <jump line="19" column="65" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_cert.py" />
       <jump line="642" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="65" column="23" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_cert.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_dnac.py" />
+      <jump line="63" column="91" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_cert.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -518,7 +524,7 @@
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci51aS5zeXN0ZW1fY2VydF9hZGRfdHJ1c3RlZCgiYXV0b21hdGlvbi1kdW1teS1yb290Iiwgb3MucGF0aC5qb2luKGNlcnRfcGF0aCwgImR1bW15X3Jvb3QucGVtIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGkgPSBwZXhwZWN0LnNwYXdudSgnc3NoIC10IC1vIFVzZXJLbm93bkhvc3RzRmlsZT0vZGV2L251bGwgLW8gU3RyaWN0SG9zdEtleUNoZWNraW5nPW5vIGFkbWluQFBvc2l0cm9uJykKICAgICAgICBjbGkubG9nZmlsZSA9IHN5cy5zdGRvdXQKICAgICAgICBjbGkuZXhwZWN0X2V4YWN0KCdwYXNzd29yZDonKQogICAgICAgIGNsaS5zZW5kbGluZSgnTGFiQDEyMycpCiAgICAgICAgY2xpLmV4cGVjdF9leGFjdCgnYWRtaW4jICcpCiAgICAgICAgY2xpLnNlbmRsaW5lKCdhcHBsaWNhdGlvbiBjb25maWd1cmUgaXNlJykKICAgICAgICBjbGkuZXhwZWN0X2V4YWN0KCdbMTldRXN0YWJsaXNoIFRydXN0IHdpdGggY29udHJvbGxlcicpCiAgICAgICAgY2xpLmV4cGVjdF9leGFjdCgnWzBdRXhpdCcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJDaXNjbzEyMyIpCg==</text>
