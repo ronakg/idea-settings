@@ -233,12 +233,12 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_cert.py" timestamp="1552675445787">
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_cert.py" timestamp="1552680274309">
         <mark key="'" line="65" column="91" />
-        <mark key="[" line="80" column="77" />
-        <mark key="]" line="80" column="101" />
-        <mark key="." line="80" column="101" />
-        <mark key="^" line="80" column="101" />
+        <mark key="[" line="80" column="64" />
+        <mark key="]" line="80" column="65" />
+        <mark key="." line="80" column="65" />
+        <mark key="^" line="81" column="22" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1533941921288">
         <mark key="[" line="5" column="0" />
@@ -521,7 +521,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>timeout</text>
