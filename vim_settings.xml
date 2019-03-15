@@ -26,11 +26,11 @@
         <mark key="]" line="58" column="43" />
         <mark key="." line="58" column="43" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/easypy_runner.py" timestamp="1551939812860">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="42" />
-        <mark key="." line="0" column="42" />
-        <mark key="^" line="0" column="42" />
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/easypy_runner.py" timestamp="1552688954309">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
       </file>
       <file name="$USER_HOME$/work/ise2/build/ise_build_lib.py" timestamp="1533103682551">
         <mark key="[" line="72" column="11" />
@@ -520,7 +520,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>scp_from_server</text>
@@ -559,7 +559,7 @@
         <text encoding="base64">ICAgICAgICBjbGkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -612,9 +612,9 @@
         <entry>action QuickJavaDoc</entry>
         <entry>action RenameElement</entry>
         <entry>action CloseContent</entry>
-        <entry>w</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
