@@ -184,6 +184,13 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/work/isepy2/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1554355925468">
+        <mark key="'" line="34" column="5" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="34" column="5" />
+      </file>
       <file name="$USER_HOME$/work/dev-tools/docs/ise_java_build.md" timestamp="1534556731232">
         <mark key="'" line="130" column="0" />
         <mark key="[" line="107" column="0" />
@@ -346,7 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="8" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="121" column="13" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="137" column="14" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="182" column="34" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -446,6 +452,7 @@
       <jump line="28" column="10" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
       <jump line="31" column="23" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
       <jump line="38" column="27" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="34" column="5" filename="$USER_HOME$/work/isepy2/tests/jobs/PxGrid/tests_for_standalone.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -520,7 +527,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>scp_from_server</text>
