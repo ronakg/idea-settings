@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="863a07c7-311d-4b99-9b14-5ae1e1f9cf54" name="root@172.23.160.177:32770" url="http:///">
+      <webServer id="863a07c7-311d-4b99-9b14-5ae1e1f9cf54" name="SJC-DC-541" url="http:///">
         <fileTransfer host="172.23.160.177" port="32770" accessType="SFTP">
           <option name="port" value="32770" />
         </fileTransfer>
