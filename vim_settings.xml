@@ -158,12 +158,12 @@
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_multiple_nodes.py" timestamp="1550101420232">
         <mark key="'" line="8" column="94" />
       </file>
-      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1551121961832">
-        <mark key="'" line="137" column="30" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="16" />
+      <file name="$USER_HOME$/work/dev-tools/ise_java_build.py" timestamp="1554398819057">
+        <mark key="'" line="163" column="17" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
         <mark key="^" line="51" column="16" />
-        <mark key="." line="68" column="16" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/work/dev-tools/docs/support_bundle_parser.md" timestamp="1533254615079">
         <mark key="[" line="33" column="32" />
@@ -363,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="26" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="84" column="9" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="142" column="8" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="58" column="33" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
@@ -463,6 +462,7 @@
       <jump line="126" column="0" filename="$USER_HOME$/work/isepy2/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
       <jump line="87" column="43" filename="$USER_HOME$/work/isepy2/tests/suites/pxgrid/pxgrid_control.py" />
       <jump line="81" column="8" filename="$USER_HOME$/work/isepy2/tests/suites/pxgrid/pxgrid_control.py" />
+      <jump line="163" column="17" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -540,49 +540,49 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxweGdyaWRfYWNjb3VudF9jcmVhdGVcPg==</text>
+        <text>projects to build</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlciA9IEp1c3RMb2dpblNldHVwSGVscGVyKCkKICAgICAgICBzZWxmLmhlbHBlci5zZXR1cCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR1cCgpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCcnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGkuc2VuZGxpbmUoJ2V4aXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXR1cCgpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjbGkuc2VuZGxpbmUoJ2V4aXQnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGkuZXhwZWN0X2V4YWN0KCddIyAnKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGkuc2VuZGxpbmUoJ2V4aXQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaW0uZXhwZWN0X2V4YWN0KCddIyAnKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGkuZXhwZWN0X2V4YWN0KCddIyAnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaW0uc2VuZGxpbmUoJy9iaW4vcm0gL3RtcC9kbmFjX3NpbXVsYXRvci5weScpCg==</text>
+        <text encoding="base64">ICAgICAgICBzaW0uZXhwZWN0X2V4YWN0KCddIyAnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzaW0uc2VuZGxpbmUoJy9iaW4vcm0gL3RtcC9kbmFjX3NpbXVsYXRvci5weScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGkuZXhwZWN0X2V4YWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGkK</text>
+        <text encoding="base64">ICAgICAgICBjbGkuZXhwZWN0X2V4YWN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxweGdyaWRfYWNjb3VudF9jcmVhdGVcPg==</last-search>
+      <last-search>projects to build</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxweGdyaWRfYWNjb3VudF9jcmVhdGVcPg==</last-pattern>
+      <last-pattern>projects to build</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -590,7 +590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>packaging</entry>
         <entry>clearMaster</entry>
         <entry encoding="base64">XDxyZWdpc3RlcmVkX25vZGVcPg==</entry>
         <entry>deletemaster</entry>
@@ -610,6 +609,7 @@
         <entry>account</entry>
         <entry>accountcreate</entry>
         <entry encoding="base64">XDxweGdyaWRfYWNjb3VudF9jcmVhdGVcPg==</entry>
+        <entry>projects to build</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
