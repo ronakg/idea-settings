@@ -338,8 +338,11 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/corelib/ise_code_coverage/handler.py" timestamp="1552605319895">
+      <file name="$USER_HOME$/work/isepy/corelib/ise_code_coverage/handler.py" timestamp="1555711298519">
         <mark key="'" line="70" column="18" />
+        <mark key="[" line="14" column="83" />
+        <mark key="]" line="14" column="83" />
+        <mark key="." line="14" column="83" />
       </file>
     </filemarks>
     <jumps>
@@ -517,7 +520,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>one, 'test_radius_failure.py'))</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>444</text>
