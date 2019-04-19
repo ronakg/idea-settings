@@ -133,6 +133,13 @@
         <mark key="^" line="102" column="16" />
         <mark key="." line="102" column="16" />
       </file>
+      <file name="$USER_HOME$/work/isepy/corelib/easypy/isepy_plugin.py" timestamp="1555712596618">
+        <mark key="'" line="255" column="35" />
+        <mark key="[" line="255" column="31" />
+        <mark key="]" line="255" column="35" />
+        <mark key="." line="255" column="35" />
+        <mark key="^" line="255" column="35" />
+      </file>
       <file name="$USER_HOME$/work/dev-tools/lib/maven_project.py" timestamp="1534289059521">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="20" />
@@ -338,7 +345,7 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/corelib/ise_code_coverage/handler.py" timestamp="1555711298519">
+      <file name="$USER_HOME$/work/isepy/corelib/ise_code_coverage/handler.py" timestamp="1555712580052">
         <mark key="'" line="70" column="18" />
         <mark key="[" line="14" column="83" />
         <mark key="]" line="14" column="83" />
@@ -346,9 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="8" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
-      <jump line="150" column="24" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
-      <jump line="151" column="24" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="156" column="35" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="71" column="45" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="186" column="12" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
@@ -446,6 +450,9 @@
       <jump line="334" column="30" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="19" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="23" column="49" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="308" column="12" filename="$USER_HOME$/work/isepy/corelib/easypy/isepy_plugin.py" />
+      <jump line="12" column="28" filename="$USER_HOME$/work/isepy/corelib/easypy/isepy_plugin.py" />
+      <jump line="255" column="35" filename="$USER_HOME$/work/isepy/corelib/easypy/isepy_plugin.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -520,10 +527,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>444</text>
+        <text>coverage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlciA9IEp1c3RMb2dpblNldHVwSGVscGVyKCkKICAgICAgICBzZWxmLmhlbHBlci5zZXR1cCgpCg==</text>
@@ -563,9 +570,9 @@
       </register>
     </registers>
     <search>
-      <last-search>444</last-search>
+      <last-search>coverage</last-search>
       <last-offset />
-      <last-pattern>444</last-pattern>
+      <last-pattern>coverage</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -573,7 +580,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deletemaster</entry>
         <entry>10.1</entry>
         <entry>ui</entry>
         <entry>commonsetup</entry>
@@ -593,9 +599,9 @@
         <entry>projects to build</entry>
         <entry encoding="base64">XDxydW5cPg==</entry>
         <entry>444</entry>
+        <entry>coverage</entry>
       </history-search>
       <history-cmd>
-        <entry>ww</entry>
         <entry>98</entry>
         <entry>158</entry>
         <entry>101</entry>
@@ -612,6 +618,7 @@
         <entry>action QuickJavaDoc</entry>
         <entry>action RenameElement</entry>
         <entry>action CloseContent</entry>
+        <entry>action GotoSymbol</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>w</entry>
