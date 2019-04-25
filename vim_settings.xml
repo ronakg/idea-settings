@@ -20,6 +20,9 @@
       <file name="$USER_HOME$/work/ise2/cpm/jars/profiler/infrastructure/controller/src/main/java/com/cisco/profiler/infrastructure/controller/ProfilerController.java" timestamp="1534192301454">
         <mark key="'" line="675" column="41" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1199943126/builtins.py" timestamp="1556171169393">
+        <mark key="'" line="4621" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1538525597175">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="12" />
@@ -171,6 +174,13 @@
         <mark key="." line="33" column="68" />
         <mark key="^" line="33" column="68" />
       </file>
+      <file name="$USER_HOME$/work/isepy/test.py" timestamp="1556171132295">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/profiler/cfd_CSCvm33673_sg.py" timestamp="1540067857460">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -282,7 +292,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1555966171896" />
       <file name="$USER_HOME$/work/dev-tools/ise_maven_project.py" timestamp="1534287914753">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="30" column="40" />
@@ -354,16 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="19" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="318" column="28" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="341" column="90" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="354" column="19" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="138" column="71" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="144" column="18" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
-      <jump line="173" column="32" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="213" column="41" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
-      <jump line="220" column="42" filename="$USER_HOME$/work/dev-tools/ise_java_build.py" />
       <jump line="242" column="22" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="172" column="17" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
       <jump line="10" column="9" filename="$USER_HOME$/work/dev-tools/libs/maven_project.py" />
@@ -454,6 +453,16 @@
       <jump line="86" column="21" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
       <jump line="87" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
       <jump line="96" column="123" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/work/isepy/test.py" />
+      <jump line="6" column="15" filename="$USER_HOME$/work/isepy/test.py" />
+      <jump line="2" column="19" filename="$USER_HOME$/work/isepy/test.py" />
+      <jump line="7" column="11" filename="$USER_HOME$/work/isepy/test.py" />
+      <jump line="3" column="15" filename="$USER_HOME$/work/isepy/test.py" />
+      <jump line="8" column="13" filename="$USER_HOME$/work/isepy/test.py" />
+      <jump line="4213" column="60" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1199943126/builtins.py" />
+      <jump line="4247" column="4" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1199943126/builtins.py" />
+      <jump line="4559" column="24" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1199943126/builtins.py" />
+      <jump line="4621" column="4" filename="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1199943126/builtins.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -528,10 +537,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>automation</text>
+        <text>step</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlciA9IEp1c3RMb2dpblNldHVwSGVscGVyKCkKICAgICAgICBzZWxmLmhlbHBlci5zZXR1cCgpCg==</text>
@@ -567,13 +576,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search>automation</last-search>
+      <last-search>step</last-search>
       <last-offset />
-      <last-pattern>automation</last-pattern>
+      <last-pattern>step</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
@@ -581,7 +590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ui</entry>
         <entry>commonsetup</entry>
         <entry>default</entry>
         <entry>system_cert</entry>
@@ -601,6 +609,7 @@
         <entry>444</entry>
         <entry>coverage</entry>
         <entry>automation</entry>
+        <entry>step</entry>
       </history-search>
       <history-cmd>
         <entry>98</entry>
@@ -620,9 +629,9 @@
         <entry>action RenameElement</entry>
         <entry>action CloseContent</entry>
         <entry>action GotoSymbol</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
