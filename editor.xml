@@ -1,17 +1,8 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Fira Code Retina" />
-    <option name="LINE_SPACING" value="1.1" />
-    <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="Menlo" />
-  </component>
   <component name="EditorSettings">
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
