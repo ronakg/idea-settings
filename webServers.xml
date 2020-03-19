@@ -14,6 +14,14 @@
           <option name="port" value="32770" />
         </fileTransfer>
       </webServer>
+      <webServer id="b9c90d5e-a3b8-443c-a95d-cbe6b0665940" name="SJC-DC-519" url="http://172.23.160.85">
+        <fileTransfer host="172.23.160.85" port="32770" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="32770" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
