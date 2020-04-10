@@ -1,6 +1,58 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>stop_re</entry>
+        <entry>start_</entry>
+        <entry>stop_rec</entry>
+        <entry>Rest</entry>
+        <entry encoding="base64">XDxzZXNzaW9uVG9waWNcPg==</entry>
+        <entry>concurrent</entry>
+        <entry>calling-station</entry>
+        <entry>ui</entry>
+        <entry encoding="base64">XDxoZWxwZXJcPg==</entry>
+        <entry>send_sys</entry>
+        <entry encoding="base64">XDxQb3NpdHJvblw+</entry>
+        <entry>except</entry>
+        <entry>read_message</entry>
+        <entry>180</entry>
+        <entry>recording</entry>
+        <entry encoding="base64">XDxfX3JlYWRfc2Vzc2lvbnNfdW50aWxfbWF0Y2hcPg==</entry>
+        <entry encoding="base64">XDxjYWxsaW5nU3RhdGlvbklkXD4=</entry>
+        <entry encoding="base64">XDwyMzk5OVw+</entry>
+        <entry>logg</entry>
+        <entry encoding="base64">XDx2bmMyZmx2XD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>62</entry>
+        <entry>192</entry>
+        <entry>33</entry>
+        <entry>172</entry>
+        <entry>126</entry>
+        <entry>191</entry>
+        <entry>30</entry>
+        <entry>114</entry>
+        <entry>action QuickJavaDoc</entry>
+        <entry>action CloseContent</entry>
+        <entry>action GotoSymbol</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Back</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action FindUsages</entry>
+        <entry>308</entry>
+        <entry>274</entry>
+        <entry>70</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
@@ -39,7 +91,313 @@
         <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1585780433622">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1583183009577">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/isac/automation/aca/apis/resources/aaa_settings_api.py" timestamp="1572036242054">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="61" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/isac/automation/aca/framework/aca_base.py" timestamp="1572295514649">
+        <mark key="'" line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1199943126/builtins.py" timestamp="1556171169393">
+        <mark key="'" line="4621" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/isac/automation/aca/tests/upn_apis/test_device_apis.py" timestamp="1574406680873">
+        <mark key="'" line="126" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/isac/automation/aca/apis/resources/upn_api.py" timestamp="1584051828506">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/corelib/easypy/isepy_plugin.py" timestamp="1555712596618">
+        <mark key="'" line="255" column="35" />
+        <mark key="[" line="255" column="31" />
+        <mark key="]" line="255" column="35" />
+        <mark key="." line="255" column="35" />
+        <mark key="^" line="255" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/isac/test/uniq/aca_ise_sync/aaa_cisco_ise/test_ise_aaa.py" timestamp="1572036050272">
+        <mark key="'" line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/isac/test/uniq/aca_bats/access_contracts/test_1_create_contract.py" timestamp="1572037154856">
+        <mark key="'" line="20" column="51" />
+        <mark key="[" line="34" column="70" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+        <mark key="^" line="34" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/isac/automation/aca/apis/resources/policyaccess_api.py" timestamp="1572293835167">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="54" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_data.py" timestamp="1585780422403">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="86" column="4" />
+        <mark key="]" line="86" column="15" />
+        <mark key="^" line="86" column="15" />
+        <mark key="." line="86" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/test.py" timestamp="1556171132295">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/isac/venv/lib/python3.7/site-packages/kubernetes/client/api_client.py" timestamp="1572045699115">
+        <mark key="'" line="465" column="32" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="18" column="1" filename="$USER_HOME$/work/isepy/resources/run_parameters.json" />
+      <jump line="107" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="481" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="514" column="24" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="451" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="790" column="18" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="450" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="483" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="470" column="18" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="137" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="70" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="57" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="498" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="812" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="471" column="15" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="469" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="499" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="810" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="77" column="24" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="245" column="3" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="256" column="25" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="238" column="27" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="209" column="71" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="270" column="16" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="246" column="81" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="248" column="66" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="249" column="77" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="250" column="81" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="251" column="83" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="252" column="94" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="253" column="55" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="264" column="71" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="26" column="57" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="63" column="23" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="254" column="53" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="213" column="38" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="197" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="199" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="6" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="7" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="8" column="14" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="9" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="10" column="14" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="11" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="170" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="172" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="82" column="30" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="130" column="10" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="210" column="19" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="211" column="19" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="255" column="7" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="247" column="44" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="271" column="44" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="29" column="40" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="272" column="44" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="105" column="37" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="95" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ws_stomp.py" />
+      <jump line="73" column="46" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ws_stomp.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ws_stomp.py" />
+      <jump line="298" column="42" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="280" column="47" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="281" column="38" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="287" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="85" column="30" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="319" column="32" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="135" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="84" column="26" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="299" column="28" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="283" column="68" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="284" column="58" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="288" column="52" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="304" column="54" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="286" column="56" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="302" column="55" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="273" column="23" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="290" column="32" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="301" column="40" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="17" column="3" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="18" column="5" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_data.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_data.py" />
+      <jump line="115" column="18" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="142" column="16" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="200" column="16" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="244" column="16" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="13" column="41" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="61" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="77" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="276" column="60" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="12" column="41" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="318" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="*" type="4">
+        <text>print</text>
+      </register>
+      <register name="-" type="4">
+        <text>print</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx2bmMyZmx2XD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQgc2Vzc2lvblsncHJvdmlkZXJzJ10gPT0gWydSZXN0J10K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyByZWFkX21lc3NhZ2UgdGltZW91dCBpcyA1IHNlY29uZHMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJlYWRfbWVzc2FnZSB0aW1lb3V0IGlzIDUgc2Vjb25kcwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWxseToK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzID0geWllbGQgZnJvbSBweGdyaWRfZGF0YS5weGdyaWRfd3Nfc3Vic2NyaWJlKHB4Z3JpZD1zZWxmLmhlbHBlci5weGdyaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlX25hbWU9J2NvbS5jaXNjby5pc2Uuc2Vzc2lvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3BpY19rZXk9J3Nlc3Npb25Ub3BpYycpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5Ogo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgZnJvbSB3cy5kaXNjb25uZWN0KCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgZnJvbSB3cy5kaXNjb25uZWN0KCkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDx2bmMyZmx2XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx2bmMyZmx2XD4=</last-pattern>
+      <last-replace>SHA</last-replace>
+      <last-substitute>MD5</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />

@@ -1,7 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactDropdowns" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
@@ -13,6 +16,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-3bcd20c4:164ee257757:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.1.0" />
   </component>
 </application>
