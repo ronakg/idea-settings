@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>stop_re</entry>
         <entry>start_</entry>
         <entry>stop_rec</entry>
         <entry>Rest</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDwyMzk5OVw+</entry>
         <entry>logg</entry>
         <entry encoding="base64">XDx2bmMyZmx2XD4=</entry>
+        <entry>demo</entry>
       </history-search>
       <history-cmd>
         <entry>62</entry>
@@ -36,7 +36,6 @@
         <entry>30</entry>
         <entry>114</entry>
         <entry>action QuickJavaDoc</entry>
-        <entry>action CloseContent</entry>
         <entry>action GotoSymbol</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
@@ -47,6 +46,7 @@
         <entry>274</entry>
         <entry>70</entry>
         <entry>w</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,6 +130,9 @@
         <mark key="." line="255" column="35" />
         <mark key="^" line="255" column="35" />
       </file>
+      <file name="$USER_HOME$/work/isepy/resources/te/SJC.xml" timestamp="1587602881793">
+        <mark key="'" line="15" column="27" />
+      </file>
       <file name="$USER_HOME$/work/isac/test/uniq/aca_ise_sync/aaa_cisco_ise/test_ise_aaa.py" timestamp="1572036050272">
         <mark key="'" line="20" column="36" />
       </file>
@@ -163,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="1" filename="$USER_HOME$/work/isepy/resources/run_parameters.json" />
       <jump line="107" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
       <jump line="138" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
       <jump line="481" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
@@ -263,6 +265,7 @@
       <jump line="12" column="41" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
       <jump line="78" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
       <jump line="318" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
+      <jump line="15" column="27" filename="$USER_HOME$/work/isepy/resources/te/SJC.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -345,7 +348,7 @@
         <text>print</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2bmMyZmx2XD4=</text>
+        <text>demo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQgc2Vzc2lvblsncHJvdmlkZXJzJ10gPT0gWydSZXN0J10K</text>
@@ -381,15 +384,15 @@
         <text encoding="base64">ICAgICAgICAgICAgeWllbGQgZnJvbSB3cy5kaXNjb25uZWN0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx2bmMyZmx2XD4=</last-search>
+      <last-search>demo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2bmMyZmx2XD4=</last-pattern>
+      <last-pattern>demo</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
