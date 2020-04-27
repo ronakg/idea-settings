@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>recording</entry>
         <entry encoding="base64">XDxfX3JlYWRfc2Vzc2lvbnNfdW50aWxfbWF0Y2hcPg==</entry>
         <entry encoding="base64">XDxjYWxsaW5nU3RhdGlvbklkXD4=</entry>
         <entry encoding="base64">XDwyMzk5OVw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx0b3BpY05hbWVcPg==</entry>
         <entry encoding="base64">XDx0b3BpY1w+</entry>
         <entry>invalid</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>62</entry>
@@ -113,12 +113,12 @@
       <file name="$USER_HOME$/work/isepy/resources/te/SJC.xml" timestamp="1587602881793">
         <mark key="'" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1587973385504">
-        <mark key="'" line="117" column="89" />
-        <mark key="[" line="117" column="90" />
-        <mark key="]" line="117" column="100" />
-        <mark key="." line="117" column="99" />
-        <mark key="^" line="117" column="100" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1587973652614">
+        <mark key="'" line="34" column="12" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_data.py" timestamp="1585780422403">
         <mark key="'" line="22" column="0" />
@@ -176,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="14" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
-      <jump line="11" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
       <jump line="170" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
       <jump line="172" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
       <jump line="82" column="30" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
@@ -276,6 +274,8 @@
       <jump line="122" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="33" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="117" column="89" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
+      <jump line="119" column="30" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
+      <jump line="37" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -352,19 +352,19 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb24uCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="-" type="4">
-        <text>wildcard</text>
+        <text>logger</text>
       </register>
       <register name="/" type="4">
-        <text>invalid</text>
+        <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBqc29uX3Jlc3AgPSByZXNwLmpzb24oKQogICAgICAgIGxvZ2dlci5pbmZvKGpzb24uZHVtcHMoanNvbl9yZXNwLCBpbmRlbnQ9NCkpCiAgICAgICAgYXNzZXJ0IGxlbihqc29uX3Jlc3ApID09IDEsICdFeHBlY3RlZCAxIHRvcGljLCByZWNlaXZlZCB7fScuZm9ybWF0KGxlbihqc29uX3Jlc3ApKQogICAgICAgIGFzc2VydCBqc29uX3Jlc3BbMF1bVE9QSUNfTkFNRV9LRVldID09ICcvdG9waWMvd2lsZGNhcmQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb24uCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -376,19 +376,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c19sb2cuc2V0TGV2ZWwobG9nZ2luZy5JTkZPKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcC5zdGF0dXNfY29kZSA9PSAyMDAsICdGYWlsZWQgdG8gZmV0Y2ggd2Vic29ja2V0IHRvcGljcycKICAgICAgICBqc29uX3Jlc3AgPSByZXNwLmpzb24oKQogICAgICAgIGxvZ2dlci5pbmZvKGpzb24uZHVtcHMoanNvbl9yZXNwLCBpbmRlbnQ9NCkpCiAgICAgICAgYXNzZXJ0IGxlbihqc29uX3Jlc3ApID09IDAsICdFeHBlY3RlZCAwIHRvcGljcywgcmVjZWl2ZWQge30nLmZvcm1hdChsZW4oanNvbl9yZXNwKSkK</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcC5zdGF0dXNfY29kZSA9PSAyMDAsICdGYWlsZWQgdG8gZmV0Y2ggd2Vic29ja2V0IHRvcGljcycKICAgICAgICBqc29uX3Jlc3AgPSByZXNwLmpzb24oKQogICAgICAgIGxvZ2dlci5pbmZvKGpzb24uZHVtcHMoanNvbl9yZXNwLCBpbmRlbnQ9NCkpCiAgICAgICAgYXNzZXJ0IGxlbihqc29uX3Jlc3ApID09IDEsICdFeHBlY3RlZCAxIHRvcGljLCByZWNlaXZlZCB7fScuZm9ybWF0KGxlbihqc29uX3Jlc3ApKQogICAgICAgIGFzc2VydCBqc29uX3Jlc3BbMF1bVE9QSUNfTkFNRV9LRVldID09ICcvdG9waWMvd2lsZGNhcmQnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcC5zdGF0dXNfY29kZSA9PSAyMDAsICdGYWlsZWQgdG8gZmV0Y2ggd2Vic29ja2V0IHRvcGljcycK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb24uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGpzb25fcmVzcCkgPT0gMywgJ0V4cGVjdGVkIDMgdG9waWNzLCByZWNlaXZlZCB7fScuZm9ybWF0KGxlbihqc29uX3Jlc3ApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -400,9 +400,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>invalid</last-search>
+      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>invalid</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
