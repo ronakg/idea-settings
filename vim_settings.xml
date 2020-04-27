@@ -113,12 +113,12 @@
       <file name="$USER_HOME$/work/isepy/resources/te/SJC.xml" timestamp="1587602881793">
         <mark key="'" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588015284893">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="52" column="74" />
-        <mark key="]" line="53" column="18" />
-        <mark key="^" line="53" column="18" />
-        <mark key="." line="53" column="17" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588015817103">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="42" column="65" />
+        <mark key="]" line="43" column="28" />
+        <mark key="^" line="43" column="28" />
+        <mark key="." line="43" column="27" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_data.py" timestamp="1585780422403">
         <mark key="'" line="22" column="0" />
@@ -352,10 +352,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>.</text>
+        <text>.run_until_complete(my_pubsub('/topic/test_topic1', True, True))</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.run_until_complete(my_pubsub('/topic/test_topic1', True, True))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9wdWJzdWJfY2xpZW50XD4=</text>
