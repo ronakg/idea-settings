@@ -27,7 +27,6 @@
         <entry encoding="base64">XDxoZWxwZXIzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>62</entry>
         <entry>192</entry>
         <entry>33</entry>
         <entry>172</entry>
@@ -35,7 +34,6 @@
         <entry>191</entry>
         <entry>30</entry>
         <entry>114</entry>
-        <entry>action QuickJavaDoc</entry>
         <entry>action GotoSymbol</entry>
         <entry>action GotoDeclaration</entry>
         <entry>308</entry>
@@ -44,8 +42,10 @@
         <entry>action FindUsages</entry>
         <entry>action CloseContent</entry>
         <entry>action RenameElement</entry>
+        <entry>action QuickJavaDoc</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
+        <entry>action Find</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -113,12 +113,12 @@
       <file name="$USER_HOME$/work/isepy/resources/te/SJC.xml" timestamp="1587602881793">
         <mark key="'" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588027178415">
-        <mark key="'" line="59" column="4" />
-        <mark key="[" line="102" column="95" />
-        <mark key="]" line="102" column="107" />
-        <mark key="^" line="102" column="107" />
-        <mark key="." line="102" column="106" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588028611449">
+        <mark key="'" line="120" column="17" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="19" column="10" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1588026470857">
         <mark key="'" line="96" column="0" />
@@ -159,12 +159,12 @@
       <file name="$USER_HOME$/work/isac/automation/aca/tests/upn_apis/test_device_apis.py" timestamp="1574406680873">
         <mark key="'" line="126" column="11" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" timestamp="1587968095975">
+      <file name="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" timestamp="1588028013514">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="76" column="60" />
-        <mark key="]" line="76" column="63" />
-        <mark key="^" line="76" column="63" />
-        <mark key="." line="76" column="62" />
+        <mark key="[" line="76" column="73" />
+        <mark key="]" line="76" column="88" />
+        <mark key="^" line="76" column="88" />
+        <mark key="." line="76" column="87" />
       </file>
       <file name="$USER_HOME$/work/isac/automation/aca/apis/resources/upn_api.py" timestamp="1584051828506">
         <mark key="[" line="1" column="0" />
@@ -183,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="23" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
-      <jump line="290" column="32" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
       <jump line="301" column="40" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
       <jump line="76" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
       <jump line="17" column="3" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
@@ -267,7 +265,6 @@
       <jump line="46" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="89" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="162" column="42" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="165" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="69" column="24" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" />
       <jump line="19" column="34" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" />
@@ -283,6 +280,9 @@
       <jump line="53" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="56" column="4" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="59" column="4" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
+      <jump line="110" column="45" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
+      <jump line="120" column="17" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -358,52 +358,47 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>0</text>
+      <register name="*" type="2">
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXIzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhlbHBlcjEucHhncmlkLnB4Z3JpZF9hY2NvdW50X2FjdGl2YXRlKCJDbGllbnQxIikK</text>
+        <text encoding="base64">VE9QSUMxID0gJy90b3BpYy90b3BpYzEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDMwKQo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIEdpdmUgc29tZSB0aW1lIHRvIGJnIHRocmVhZCB0byBmaW5pc2ggcHVic3ViIG9wZXJhdGlvbnMK</text>
+        <text encoding="base64">VE9QSUMxID0gJy90b3BpYy90ZXN0X3RvcGljMScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJDcmVhdGUgc2VwYXJhdGUgIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdG9waWNbVE9QSUNfTkFNRV9LRVldID09ICcvdG9waWMvdGVzdF90b3BpYycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzX2xvZy5pbmZvKCd7fSBpcyB3YWl0aW5nIG5vdy4uLicuZm9ybWF0KHdzLnVzZXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQganNvbl9yZXNwWzJdW1RPUElDX05BTUVfS0VZXSA9PSAnL3RvcGljL3Rlc3RfdG9waWMxJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzeW5jaW8uYXN5bmMobXlfcHVic3ViKHdzMzIsICcvdG9waWMvdGVzdF90b3BpYzMnLCBUcnVlLCBUcnVlKSwgbG9vcD1sb29wKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDMwKQo=</text>
       </register>
-      <register name="7" type="8">
-        <text>, 'automation'
-, 'automation'
-, 'automation'
-, 'automation'
-, 'automation'
-, 'automation'</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIEdpdmUgc29tZSB0aW1lIHRvIGJnIHRocmVhZCB0byBmaW5pc2ggcHVic3ViIG9wZXJhdGlvbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdzNSA9IGdldF93c19jb25uZWN0aW9uKGhlbHBlciwgJ2F1dG9tYXRpb24nKQo=</text>
+        <text encoding="base64">ICAgICJDcmVhdGUgc2VwYXJhdGUgIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdzNCA9IGdldF93c19jb25uZWN0aW9uKGhlbHBlciwgJ2F1dG9tYXRpb24nKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
