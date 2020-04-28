@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcmdzXD4=</entry>
-        <entry>automation</entry>
         <entry>automation test client</entry>
         <entry encoding="base64">XDxweGdyaWRfYWNjb3VudF9hY3RpdmF0ZVw+</entry>
         <entry encoding="base64">XDxweGdyaWRfYWNjb3VudF9jcmVhdGVcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
         <entry>passwored</entry>
         <entry>password</entry>
+        <entry>client</entry>
+        <entry encoding="base64">XDxDbGllbnQxXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>33</entry>
@@ -112,11 +112,11 @@
       <file name="$USER_HOME$/work/isepy/resources/te/SJC.xml" timestamp="1587602881793">
         <mark key="'" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588034343198">
-        <mark key="'" line="33" column="4" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588057550773">
+        <mark key="'" line="72" column="33" />
+        <mark key="[" line="79" column="44" />
+        <mark key="]" line="79" column="45" />
+        <mark key="." line="79" column="45" />
         <mark key="^" line="79" column="51" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1588034650318">
@@ -187,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="25" filename="$USER_HOME$/work/isepy/tests/suites/spog/locale_requests_ft.py" />
       <jump line="3" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="38" column="82" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" />
       <jump line="95" column="41" filename="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" />
@@ -227,7 +226,6 @@
       <jump line="42" column="29" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="21" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="36" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="72" column="15" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="134" column="10" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="22" column="4" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="32" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
@@ -287,6 +285,8 @@
       <jump line="14" column="27" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" />
       <jump line="15" column="24" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" />
       <jump line="34" column="60" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" />
+      <jump line="58" column="84" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
+      <jump line="72" column="33" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -369,7 +369,7 @@
         <text>&quot;Automation client3&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>password</text>
+        <text encoding="base64">XDxDbGllbnQxXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3NsX2N0eCA9IHNlbGYud29ya3NwYWNlLmdldF9zc2xfY29udGV4dCgpCg==</text>
@@ -411,9 +411,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>password</last-search>
+      <last-search encoding="base64">XDxDbGllbnQxXD4=</last-search>
       <last-offset />
-      <last-pattern>password</last-pattern>
+      <last-pattern encoding="base64">XDxDbGllbnQxXD4=</last-pattern>
       <last-replace>SHA</last-replace>
       <last-substitute>MD5</last-substitute>
       <last-dir>1</last-dir>
