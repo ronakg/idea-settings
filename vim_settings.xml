@@ -112,12 +112,12 @@
       <file name="$USER_HOME$/work/isepy/resources/te/SJC.xml" timestamp="1587602881793">
         <mark key="'" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588093725419">
-        <mark key="'" line="100" column="60" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="100" column="61" />
-        <mark key="." line="100" column="60" />
-        <mark key="^" line="100" column="61" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588097275977">
+        <mark key="'" line="199" column="8" />
+        <mark key="[" line="304" column="8" />
+        <mark key="]" line="305" column="38" />
+        <mark key="." line="305" column="37" />
+        <mark key="^" line="305" column="38" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1588093744271">
         <mark key="'" line="34" column="60" />
@@ -148,7 +148,7 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1588029841491">
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1588097012530">
         <mark key="'" line="38" column="82" />
         <mark key="[" line="39" column="4" />
         <mark key="]" line="39" column="4" />
@@ -187,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="82" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" />
-      <jump line="95" column="41" filename="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" />
       <jump line="3" column="0" filename="$USER_HOME$/work/isepy/tests/suites/spog/locale_requests_ft.py" />
       <jump line="58" column="12" filename="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" />
       <jump line="7" column="0" filename="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" />
@@ -287,6 +285,8 @@
       <jump line="58" column="84" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="72" column="33" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="100" column="60" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
+      <jump line="98" column="15" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
+      <jump line="199" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
