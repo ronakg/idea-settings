@@ -110,12 +110,12 @@
       <file name="$USER_HOME$/work/isepy/resources/te/SJC.xml" timestamp="1587602881793">
         <mark key="'" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588031401846">
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588032470220">
         <mark key="'" line="33" column="4" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="105" column="50" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="42" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="73" column="42" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1588026470857">
         <mark key="'" line="96" column="0" />
@@ -361,7 +361,7 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIGNsaWVudDMuY2xlYW51cChkZWxldGVfcHhncmlkX25vZGU9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGNsaWVudDEucHhncmlkLnB4Z3JpZF9hY2NvdW50X2NyZWF0ZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>'automation'</text>
@@ -370,7 +370,7 @@
         <text encoding="base64">XDxjbGllbnRfcHVic3ViXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVpLnB4Z3JpZF9kZWxldGVfbm9kZShjbGllbnQxLnB4Z3JpZC5ub2RlX25hbWUpCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudDEucHhncmlkLnB4Z3JpZF9hY2NvdW50X2NyZWF0ZSgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNsaWVudDMuY2xlYW51cChkZWxldGVfcHhncmlkX25vZGU9VHJ1ZSkK</text>
