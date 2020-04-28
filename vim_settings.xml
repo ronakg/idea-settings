@@ -44,9 +44,9 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>action FindUsages</entry>
         <entry>action Find</entry>
+        <entry>action Back</entry>
         <entry>w</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,10 +115,10 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/workspace.py" timestamp="1588099984027">
         <mark key="'" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588097275977">
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588105026565">
         <mark key="'" line="199" column="8" />
-        <mark key="[" line="304" column="8" />
-        <mark key="]" line="305" column="38" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="121" column="14" />
         <mark key="." line="305" column="37" />
         <mark key="^" line="305" column="38" />
       </file>
@@ -362,8 +362,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>e</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIHVpID0gSVNFdWkoJ1Bvc2l0cm9uJywgJzEwLjAuMTAuMTMwJykKICAgIHVpLmxvZ2luKCdhZG1pbicsICdMYWJAMTIzJykKICAgIHVpLnB4Z3JpZF9kZWxldGVfbm9kZShjbGllbnQxLnB4Z3JpZC5ub2RlX25hbWUpCiAgICB1aS5weGdyaWRfZGVsZXRlX25vZGUoY2xpZW50Mi5weGdyaWQubm9kZV9uYW1lKQogICAgdWkucHhncmlkX2RlbGV0ZV9ub2RlKGNsaWVudDMucHhncmlkLm5vZGVfbmFtZSkKICAgIHVpLmxvZ291dCgpCiAgICB1aS5jbG9zZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -372,7 +372,7 @@
         <text>automation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3NsX2N0eCA9IHNlbGYud29ya3NwYWNlLmdldF9zc2xfY29udGV4dCgpCg==</text>
+        <text encoding="base64">ICAgIHVpID0gSVNFdWkoJ1Bvc2l0cm9uJywgJzEwLjAuMTAuMTMwJykKICAgIHVpLmxvZ2luKCdhZG1pbicsICdMYWJAMTIzJykKICAgIHVpLnB4Z3JpZF9kZWxldGVfbm9kZShjbGllbnQxLnB4Z3JpZC5ub2RlX25hbWUpCiAgICB1aS5weGdyaWRfZGVsZXRlX25vZGUoY2xpZW50Mi5weGdyaWQubm9kZV9uYW1lKQogICAgdWkucHhncmlkX2RlbGV0ZV9ub2RlKGNsaWVudDMucHhncmlkLm5vZGVfbmFtZSkKICAgIHVpLmxvZ291dCgpCiAgICB1aS5jbG9zZSgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -405,7 +405,7 @@
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oInB4Z3JpZF9hcGlfcmVzdCByZXE9IiArIGpzb25fc3RyaW5nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
   </component>
