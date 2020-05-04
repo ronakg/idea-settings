@@ -44,9 +44,9 @@
         <entry>action FindUsages</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz4lcy8xLzI=</entry>
-        <entry>w</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -156,6 +156,12 @@
         <mark key="'" line="27" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588631887537">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="45" />
+        <mark key="^" line="12" column="45" />
+        <mark key="." line="12" column="44" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588575237123">
         <mark key="'" line="92" column="25" />
@@ -352,16 +358,16 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>o</text>
+        <text>pxgrid_clients</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>pxgrid_clients</text>
       </register>
       <register name="/" type="4">
         <text>commonset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsaWVudDEgPSBQeGdyaWRDb250cm9sKGhvc3RuYW1lPWhvc3QsIG5vZGVfbmFtZT0nY2xpZW50MScsIHNzbF9jdHg9aGVscGVyLnNzbF9jdHgpCiAgICBjbGllbnQxLnB4Z3JpZF9hY2NvdW50X2FjdGl2YXRlKGRlc2NyaXB0aW9uPSdhdXRvbWF0aW9uIHRlc3QgY2xpZW50MScpCg==</text>
+        <text encoding="base64">ICAgIHJ1bih0ZXN0c2NyaXB0PW9zLnBhdGguam9pbih1aWFwaV9wYXRoLCAncHhncmlkX2NsaWVudHMucHknKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNsaWVudDIgPSBDb21tb25TZXR1cEhlbHBlcignY2xpZW50MicpCiAgICBjbGllbnQyLnB4Z3JpZC5weGdyaWRfYWNjb3VudF9hY3RpdmF0ZSgnY2xpZW50MicpCgogICAgY2xpZW50MyA9IENvbW1vblNldHVwSGVscGVyKCdjbGllbnQzJykKICAgIGNsaWVudDMucHhncmlkLnB4Z3JpZF9hY2NvdW50X2FjdGl2YXRlKCdjbGllbnQzJykK</text>
@@ -394,7 +400,7 @@
         <text encoding="base64">ICAgICAgICBpZiBkZWxldGVfcHhncmlkX25vZGU6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
