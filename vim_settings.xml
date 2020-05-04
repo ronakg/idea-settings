@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxoZWxwZXIyXD4=</entry>
         <entry encoding="base64">XDxoZWxwZXIzXD4=</entry>
         <entry encoding="base64">XDxweGdyaWRcPg==</entry>
         <entry encoding="base64">XDxLSUxMX1NJR05BTFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxQb3NpdHJvblw+</entry>
         <entry>commonsetuphelper</entry>
         <entry>1</entry>
+        <entry>commonset</entry>
       </history-search>
       <history-cmd>
         <entry>172</entry>
@@ -44,9 +44,9 @@
         <entry>action FindUsages</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz4lcy8xLzI=</entry>
+        <entry>w</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -157,11 +157,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588573569543">
-        <mark key="'" line="299" column="8" />
-        <mark key="[" line="76" column="75" />
-        <mark key="]" line="76" column="75" />
-        <mark key="." line="76" column="75" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588575237123">
+        <mark key="'" line="92" column="25" />
+        <mark key="[" line="92" column="25" />
+        <mark key="]" line="92" column="25" />
+        <mark key="." line="92" column="25" />
         <mark key="^" line="98" column="44" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1588375717993">
@@ -176,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" />
       <jump line="19" column="25" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="131" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
       <jump line="21" column="26" filename="$USER_HOME$/work/isepy/tests/suites/spog/locale_requests_ft.py" />
@@ -276,6 +275,7 @@
       <jump line="85" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
       <jump line="90" column="10" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="299" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
+      <jump line="92" column="25" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -352,13 +352,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>)</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>commonset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNsaWVudDEgPSBQeGdyaWRDb250cm9sKGhvc3RuYW1lPWhvc3QsIG5vZGVfbmFtZT0nY2xpZW50MScsIHNzbF9jdHg9aGVscGVyLnNzbF9jdHgpCiAgICBjbGllbnQxLnB4Z3JpZF9hY2NvdW50X2FjdGl2YXRlKGRlc2NyaXB0aW9uPSdhdXRvbWF0aW9uIHRlc3QgY2xpZW50MScpCg==</text>
@@ -394,15 +394,15 @@
         <text encoding="base64">ICAgICAgICBpZiBkZWxldGVfcHhncmlkX25vZGU6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>1</last-search>
+      <last-search>commonset</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>commonset</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
