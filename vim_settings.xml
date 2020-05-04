@@ -157,11 +157,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588631887537">
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588632797560">
         <mark key="[" line="12" column="45" />
-        <mark key="]" line="12" column="45" />
-        <mark key="^" line="12" column="45" />
-        <mark key="." line="12" column="44" />
+        <mark key="]" line="12" column="70" />
+        <mark key="^" line="12" column="70" />
+        <mark key="." line="12" column="69" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588575237123">
         <mark key="'" line="92" column="25" />
