@@ -14,6 +14,9 @@
       <webServer id="edca3592-ea1a-4dfc-b5db-6b8e92d271c0" name="SJC-DC-540" url="http:///">
         <fileTransfer accessType="SFTP" host="172.23.160.173" port="32770" sshConfigId="81d38012-7c99-43e5-8414-fde7d619b6ed" sshConfig="SJC-DC-540" />
       </webServer>
+      <webServer id="674ab794-e276-4565-96b8-d2e7483167d8" name="SJC-DC-197 (1)">
+        <fileTransfer accessType="SFTP" host="172.21.75.97" port="32770" sshConfigId="8820decc-bcba-4bbd-89b2-8644ca24d0b0" sshConfig="SJC-DC-197" />
+      </webServer>
     </option>
   </component>
 </application>
