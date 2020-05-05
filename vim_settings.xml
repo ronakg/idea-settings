@@ -37,7 +37,6 @@
         <entry>308</entry>
         <entry>274</entry>
         <entry>70</entry>
-        <entry>action CloseContent</entry>
         <entry>action RenameElement</entry>
         <entry>action QuickJavaDoc</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -47,6 +46,7 @@
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
         <entry>w</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -140,7 +140,7 @@
         <mark key="[" line="4" column="42" />
         <mark key="]" line="4" column="42" />
         <mark key="." line="4" column="42" />
-        <mark key="^" line="5" column="87" />
+        <mark key="^" line="4" column="87" />
       </file>
       <file name="$USER_HOME$/work/isac/automation/aca/apis/resources/upn_api.py" timestamp="1584051828506">
         <mark key="[" line="1" column="0" />
@@ -406,7 +406,7 @@
         <text encoding="base64">ZnJvbSB0ZXN0cy5zdWl0ZXMucHhncmlkLnRlc3RzX2Zvcl9zdGFuZGFsb25lLnB4Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
   </component>
