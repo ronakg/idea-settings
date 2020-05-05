@@ -136,11 +136,11 @@
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="54" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/easypy_runner.py" timestamp="1588647533030">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="49" />
-        <mark key="." line="4" column="48" />
-        <mark key="^" line="4" column="49" />
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/easypy_runner.py" timestamp="1588652171491">
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="5" column="87" />
       </file>
       <file name="$USER_HOME$/work/isac/automation/aca/apis/resources/upn_api.py" timestamp="1584051828506">
         <mark key="[" line="1" column="0" />
@@ -364,10 +364,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>tests_for_standalone</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>tests_for_standalone</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0X3dlYnNvY2tldF90b3BpY3NfYXBpXD4=</text>
