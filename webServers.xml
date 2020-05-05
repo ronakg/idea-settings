@@ -2,30 +2,24 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="863a07c7-311d-4b99-9b14-5ae1e1f9cf54" name="SJC-DC-541" url="http:///">
-        <fileTransfer host="172.23.160.177" port="32770" accessType="SFTP">
-          <option name="port" value="32770" />
-        </fileTransfer>
+        <fileTransfer accessType="SFTP" sshConfigId="b5261cfc-0614-4706-9f74-5b45aadf1059" sshConfig="SJC-DC-541" />
       </webServer>
       <webServer id="788678f7-8e41-4621-b71a-74bc21bb3bf3" name="SJC-DC-197" url="http://172.21.75.97">
-        <fileTransfer host="172.21.75.97" port="32770" accessType="SFTP">
+        <fileTransfer accessType="SFTP" host="172.21.75.97" port="32770" sshConfigId="29e928ef-2233-4021-ab59-aff9ace40989" sshConfig="SJC-DC-197">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="32770" />
         </fileTransfer>
       </webServer>
       <webServer id="b9c90d5e-a3b8-443c-a95d-cbe6b0665940" name="SJC-DC-519" url="http://172.23.160.85">
-        <fileTransfer host="172.23.160.85" port="32770" accessType="SFTP">
+        <fileTransfer accessType="SFTP" sshConfigId="89740e71-9c73-4abb-b5f8-74627da511e2" sshConfig="SJC-DC-519">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="32770" />
         </fileTransfer>
       </webServer>
       <webServer id="edca3592-ea1a-4dfc-b5db-6b8e92d271c0" name="SJC-DC-540" url="http:///">
-        <fileTransfer host="172.23.160.173" port="32770" accessType="SFTP">
-          <option name="port" value="32770" />
-        </fileTransfer>
+        <fileTransfer accessType="SFTP" host="172.23.160.173" port="32770" sshConfigId="94c10f61-658c-4567-920b-650771079660" sshConfig="SJC-DC-540" />
       </webServer>
     </option>
   </component>
