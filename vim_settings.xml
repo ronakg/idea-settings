@@ -43,10 +43,10 @@
         <entry>action FindUsages</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz4lcy8xLzI=</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action Back</entry>
-        <entry>w</entry>
         <entry>action CloseContent</entry>
+        <entry>action Back</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -131,10 +131,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="83" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1588034035092">
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1588662576804">
         <mark key="'" line="0" column="19" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="54" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/easypy_runner.py" timestamp="1588652171491">
         <mark key="[" line="4" column="42" />
@@ -363,8 +365,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">VHJhY2ViYWNrIChtb3N0IHJlY2VudCBjYWxsIGxhc3QpOgogIEZpbGUgIi9yb290L2lzZXB5L2NvcmVsaWIvZWFzeXB5L2lzZXB5X3BsdWdpbi5weSIsIGxpbmUgNTUsIGluIHByZV9qb2IKICAgIGJlZm9yZVN1aXRlKCkKICBGaWxlICIvcm9vdC9pc2VweS9jb3JlbGliL2Vhc3lweS9pc2VweV9wbHVnaW4ucHkiLCBsaW5lIDEyMCwgaW4gYmVmb3JlU3VpdGUKICAgIHJhaXNlIGUKICBGaWxlICIvcm9vdC9pc2VweS9jb3JlbGliL2Vhc3lweS9pc2VweV9wbHVnaW4ucHkiLCBsaW5lIDgwLCBpbiBiZWZvcmVTdWl0ZQogICAgc3RhcnR1cF9yZXZlcnRfdG9fc25hcHNob3QoKQogIEZpbGUgIi9yb290L2lzZXB5L2NvcmVsaWIvZWFzeXB5L2lzZXB5X3BsdWdpbi5weSIsIGxpbmUgMzI2LCBpbiBzdGFydHVwX3JldmVydF90b19zbmFwc2hvdAogICAgcGFzc3dvcmQ9Y2ZnLnN1aXRlLmdldF9FU1goKS5nZXRfcGFzc3dvcmQoKSkKICBGaWxlICIvcm9vdC9pc2VweS9jb3JlbGliL3ZTcGhlcmUvRVNYLnB5IiwgbGluZSAzOCwgaW4gX19pbml0X18KICAgIHNlbGYudm1XYXJlTG9naW4oKQogIEZpbGUgIi9yb290L2lzZXB5L2NvcmVsaWIvdlNwaGVyZS9FU1gucHkiLCBsaW5lIDYyLCBpbiB2bVdhcmVMb2dpbgo=</text>
+      <register name="*" type="8">
+        <text encoding="base64">L3dvcmtzcGFjZTY0L2Jpbi9lYXN5cHkgL3Jvb3QvaXNlcHkvdGVzdHMvam9icy9QeEdyaWQvdGVzdHNfZm9yX3N0YW5kYWxvbmUucHkgLWNvbmZpZ3VyYXRpb24gL3Jvb3QvaXNlcHkvdGVzdHMvam9icy9QeEdyaWQvLi4vLi4vLi4vY29yZWxpYi9lYXN5cHkvZWFzeXB5X2NvbmZpZy55YW1sIC1ub19hcmNoaXZlIC0tY29kZV9jb3ZlcmFnZSBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -372,8 +374,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0X3dlYnNvY2tldF90b3BpY3NfYXBpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">VHJhY2ViYWNrIChtb3N0IHJlY2VudCBjYWxsIGxhc3QpOgogIEZpbGUgIi9yb290L2lzZXB5L2NvcmVsaWIvZWFzeXB5L2lzZXB5X3BsdWdpbi5weSIsIGxpbmUgNTUsIGluIHByZV9qb2IKICAgIGJlZm9yZVN1aXRlKCkKICBGaWxlICIvcm9vdC9pc2VweS9jb3JlbGliL2Vhc3lweS9pc2VweV9wbHVnaW4ucHkiLCBsaW5lIDEyMCwgaW4gYmVmb3JlU3VpdGUKICAgIHJhaXNlIGUKICBGaWxlICIvcm9vdC9pc2VweS9jb3JlbGliL2Vhc3lweS9pc2VweV9wbHVnaW4ucHkiLCBsaW5lIDgwLCBpbiBiZWZvcmVTdWl0ZQogICAgc3RhcnR1cF9yZXZlcnRfdG9fc25hcHNob3QoKQogIEZpbGUgIi9yb290L2lzZXB5L2NvcmVsaWIvZWFzeXB5L2lzZXB5X3BsdWdpbi5weSIsIGxpbmUgMzI2LCBpbiBzdGFydHVwX3JldmVydF90b19zbmFwc2hvdAogICAgcGFzc3dvcmQ9Y2ZnLnN1aXRlLmdldF9FU1goKS5nZXRfcGFzc3dvcmQoKSkKICBGaWxlICIvcm9vdC9pc2VweS9jb3JlbGliL3ZTcGhlcmUvRVNYLnB5IiwgbGluZSAzOCwgaW4gX19pbml0X18KICAgIHNlbGYudm1XYXJlTG9naW4oKQogIEZpbGUgIi9yb290L2lzZXB5L2NvcmVsaWIvdlNwaGVyZS9FU1gucHkiLCBsaW5lIDYyLCBpbiB2bVdhcmVMb2dpbgo=</text>
+      <register name="0" type="8">
+        <text encoding="base64">L3dvcmtzcGFjZTY0L2Jpbi9lYXN5cHkgL3Jvb3QvaXNlcHkvdGVzdHMvam9icy9QeEdyaWQvdGVzdHNfZm9yX3N0YW5kYWxvbmUucHkgLWNvbmZpZ3VyYXRpb24gL3Jvb3QvaXNlcHkvdGVzdHMvam9icy9QeEdyaWQvLi4vLi4vLi4vY29yZWxpYi9lYXN5cHkvZWFzeXB5X2NvbmZpZy55YW1sIC1ub19hcmNoaXZlIC0tY29kZV9jb3ZlcmFnZSBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -406,7 +408,7 @@
         <text encoding="base64">ZnJvbSB0ZXN0cy5zdWl0ZXMucHhncmlkLnRlc3RzX2Zvcl9zdGFuZGFsb25lLnB4Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
