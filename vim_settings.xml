@@ -43,10 +43,10 @@
         <entry>action FindUsages</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz4lcy8xLzI=</entry>
-        <entry>action CloseContent</entry>
         <entry>action Back</entry>
         <entry>action GotoImplementation</entry>
         <entry>w</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -131,7 +131,7 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="83" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1588662576804">
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1588663002648">
         <mark key="'" line="0" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
@@ -408,7 +408,7 @@
         <text encoding="base64">ZnJvbSB0ZXN0cy5zdWl0ZXMucHhncmlkLnRlc3RzX2Zvcl9zdGFuZGFsb25lLnB4Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
   </component>
