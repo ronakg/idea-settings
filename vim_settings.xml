@@ -136,6 +136,12 @@
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="54" />
       </file>
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/easypy_runner.py" timestamp="1588647533030">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="49" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="49" />
+      </file>
       <file name="$USER_HOME$/work/isac/automation/aca/apis/resources/upn_api.py" timestamp="1584051828506">
         <mark key="[" line="1" column="0" />
       </file>
@@ -157,10 +163,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588641634114">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588647124060">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="9" column="47" />
+        <mark key="^" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588575237123">
         <mark key="'" line="92" column="25" />
@@ -356,11 +363,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="*" type="4">
+        <text>tests_for_standalone</text>
       </register>
       <register name="-" type="4">
-        <text>pxgrid_clients.py</text>
+        <text>tests_for_standalone</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0X3dlYnNvY2tldF90b3BpY3NfYXBpXD4=</text>
