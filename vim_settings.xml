@@ -134,8 +134,8 @@
         <mark key="." line="12" column="51" />
         <mark key="^" line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1588802336797">
-        <mark key="'" line="13" column="18" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1588803625911">
+        <mark key="'" line="132" column="0" />
         <mark key="[" line="180" column="0" />
         <mark key="]" line="180" column="0" />
         <mark key="." line="180" column="0" />
@@ -157,8 +157,8 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1588802043533">
         <mark key="'" line="88" column="42" />
       </file>
-      <file name="$USER_HOME$/work/isepy/resources/te/SJC.xml" timestamp="1587602881793">
-        <mark key="'" line="15" column="27" />
+      <file name="$USER_HOME$/work/isepy/corelib/base/SetupInit.py" timestamp="1588803637673">
+        <mark key="'" line="214" column="8" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/workspace.py" timestamp="1588099984027">
         <mark key="'" line="23" column="34" />
@@ -193,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="31" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="46" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="89" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
@@ -293,6 +291,8 @@
       <jump line="70" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="176" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="13" column="18" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="214" column="8" filename="$USER_HOME$/work/isepy/corelib/base/SetupInit.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
