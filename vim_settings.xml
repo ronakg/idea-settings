@@ -134,11 +134,11 @@
         <mark key="." line="12" column="51" />
         <mark key="^" line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1588798649402">
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1588799364902">
         <mark key="'" line="240" column="15" />
-        <mark key="[" line="257" column="33" />
-        <mark key="]" line="257" column="34" />
-        <mark key="." line="257" column="34" />
+        <mark key="[" line="131" column="34" />
+        <mark key="]" line="131" column="34" />
+        <mark key="." line="131" column="34" />
         <mark key="^" line="255" column="39" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1588663002648">
@@ -172,7 +172,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588798664029">
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588799568388">
         <mark key="[" line="9" column="47" />
         <mark key="]" line="9" column="48" />
         <mark key="." line="9" column="47" />
@@ -372,8 +372,10 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIEBhZXRlc3QudGVzdAogICAgZGVmIHRlc3RfZmlsdGVyX2J5X25hbWUoc2VsZik6CiAgICAgICAgcGFyYW1zID0gewogICAgICAgICAgICBUT1BJQ19OQU1FX0tFWTogJ3RvcGljMScKICAgICAgICB9CiAgICAgICAgcmVzcCA9IHNlbGYuc2Vzc2lvbi5zZW5kX2dldF9yZXF1ZXN0KFdTX1RPUElDX1VSTCwgcGFyYW1zPXBhcmFtcykKICAgICAgICBhc3NlcnQgcmVzcC5zdGF0dXNfY29kZSA9PSAyMDAsICdGYWlsZWQgdG8gZmV0Y2ggd2Vic29ja2V0IHRvcGljcycKICAgICAgICBqc29uX3Jlc3AgPSByZXNwLmpzb24oKQogICAgICAgIHNfbG9nLmluZm8oanNvbi5kdW1wcyhqc29uX3Jlc3AsIGluZGVudD00KSkKICAgICAgICBhc3NlcnQgbGVuKGpzb25fcmVzcCkgPT0gMSwgJ0V4cGVjdGVkIDEgdG9waWMsIHJlY2VpdmVkIHt9Jy5mb3JtYXQobGVuKGpzb25fcmVzcCkpCiAgICAgICAgYXNzZXJ0IGpzb25fcmVzcFswXVtUT1BJQ19OQU1FX0tFWV0gPT0gVE9QSUMxCg==</text>
+      <register name="*" type="8">
+        <text>pxgrid.
+pxgrid.
+pxgrid.</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -384,35 +386,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBhZXRlc3QudGVzdAogICAgZGVmIHRlc3RfZmlsdGVyX2J5X25hbWUoc2VsZik6CiAgICAgICAgcGFyYW1zID0gewogICAgICAgICAgICBUT1BJQ19OQU1FX0tFWTogJ3RvcGljMScKICAgICAgICB9CiAgICAgICAgcmVzcCA9IHNlbGYuc2Vzc2lvbi5zZW5kX2dldF9yZXF1ZXN0KFdTX1RPUElDX1VSTCwgcGFyYW1zPXBhcmFtcykKICAgICAgICBhc3NlcnQgcmVzcC5zdGF0dXNfY29kZSA9PSAyMDAsICdGYWlsZWQgdG8gZmV0Y2ggd2Vic29ja2V0IHRvcGljcycKICAgICAgICBqc29uX3Jlc3AgPSByZXNwLmpzb24oKQogICAgICAgIHNfbG9nLmluZm8oanNvbi5kdW1wcyhqc29uX3Jlc3AsIGluZGVudD00KSkKICAgICAgICBhc3NlcnQgbGVuKGpzb25fcmVzcCkgPT0gMSwgJ0V4cGVjdGVkIDEgdG9waWMsIHJlY2VpdmVkIHt9Jy5mb3JtYXQobGVuKGpzb25fcmVzcCkpCiAgICAgICAgYXNzZXJ0IGpzb25fcmVzcFswXVtUT1BJQ19OQU1FX0tFWV0gPT0gVE9QSUMxCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQganNvbl9yZXNwWzBdW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19ESVNUUklCVVRFRAo=</text>
+      <register name="1" type="8">
+        <text>pxgrid.
+pxgrid.
+pxgrid.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVzdF90b3BpY3NbNV1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX0RJU1RSSUJVVEVECg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQganNvbl9yZXNwWzBdW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19ESVNUUklCVVRFRAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVzdF90b3BpY3NbNF1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX0lOVEVSTkFMCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVzdF90b3BpY3NbNV1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX0RJU1RSSUJVVEVECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVzdF90b3BpY3NbMl1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX1dJTERDQVJECg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVzdF90b3BpY3NbNF1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX0lOVEVSTkFMCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQganNvbl9yZXNwWzRdW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19ESVNUUklCVVRFRAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVzdF90b3BpY3NbMl1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX1dJTERDQVJECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQganNvbl9yZXNwWzBdW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19XSUxEQ0FSRAogICAgICAgIGFzc2VydCBqc29uX3Jlc3BbMV1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX0lOVEVSTkFMCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQganNvbl9yZXNwWzRdW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19ESVNUUklCVVRFRAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQganNvbl9yZXNwWzBdW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19XSUxEQ0FSRAogICAgICAgIGFzc2VydCBqc29uX3Jlc3BbMV1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX0lOVEVSTkFMCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGZpbHRlcl9qc29uX3RvcGljcyhhbGxfdG9waWNzKToKICAgICIiIgogICAgRmlsdGVyIG91dCB0aGUgdG9waWNzIHVuZGVyIHRlc3QgYW5kIGRpc2NhcmQgZXZlcnl0aGluZyBlbHNlLiBPdGhlcndpc2UgdGhlIHRlc3QgY2FzZXMgd2lsbCBmYWlsCiAgICBldmVyeSB0aW1lIHRoZXJlJ3MgYSBuZXcgdG9waWMgYWRkZWQgb3IgcmVtb3ZlZC4KICAgICIiIgogICAgcmV0dXJuIFt0b3BpYyBmb3IgdG9waWMgaW4gYWxsX3RvcGljcyBpZiB0b3BpY1sndG9waWNOYW1lJ10gaW4gVE9QSUNTX1VOREVSX1RFU1RdCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
