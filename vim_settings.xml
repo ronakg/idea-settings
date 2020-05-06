@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>setup</entry>
-        <entry encoding="base64">XDxDb21tb25TZXR1cEhlbHBlclw+</entry>
         <entry encoding="base64">XDxjbGllbnRfcHVic3ViXD4=</entry>
         <entry>accountcreate</entry>
         <entry>node_name</entry>
@@ -25,9 +23,10 @@
         <entry>assert session['mac</entry>
         <entry>macaddress</entry>
         <entry>start_bg_thread</entry>
+        <entry>json_resp\[</entry>
+        <entry>wildcard</entry>
       </history-search>
       <history-cmd>
-        <entry>126</entry>
         <entry>191</entry>
         <entry>30</entry>
         <entry>114</entry>
@@ -43,9 +42,10 @@
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz4lcy8xLzI=</entry>
         <entry>action Back</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action CloseContent</entry>
         <entry>314</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>%s/json_resp\[/test_topics\[/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -134,11 +134,12 @@
         <mark key="." line="12" column="51" />
         <mark key="^" line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1588797591138">
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="28" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1588798649402">
+        <mark key="'" line="240" column="15" />
+        <mark key="[" line="257" column="33" />
+        <mark key="]" line="257" column="34" />
+        <mark key="." line="257" column="34" />
+        <mark key="^" line="255" column="39" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1588663002648">
         <mark key="'" line="0" column="19" />
@@ -171,7 +172,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588795436574">
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588798664029">
         <mark key="[" line="9" column="47" />
         <mark key="]" line="9" column="48" />
         <mark key="." line="9" column="47" />
@@ -196,10 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="54" column="46" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="91" column="53" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="88" column="21" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="125" column="21" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="34" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
       <jump line="13" column="0" filename="$USER_HOME$/work/isepy/tests/suites/spog/locale_requests_ft.py" />
@@ -296,6 +293,10 @@
       <jump line="349" column="44" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_session.py" />
       <jump line="76" column="39" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="79" column="4" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="185" column="7" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="191" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="214" column="21" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="240" column="15" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -371,47 +372,47 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>(</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIEBhZXRlc3QudGVzdAogICAgZGVmIHRlc3RfZmlsdGVyX2J5X25hbWUoc2VsZik6CiAgICAgICAgcGFyYW1zID0gewogICAgICAgICAgICBUT1BJQ19OQU1FX0tFWTogJ3RvcGljMScKICAgICAgICB9CiAgICAgICAgcmVzcCA9IHNlbGYuc2Vzc2lvbi5zZW5kX2dldF9yZXF1ZXN0KFdTX1RPUElDX1VSTCwgcGFyYW1zPXBhcmFtcykKICAgICAgICBhc3NlcnQgcmVzcC5zdGF0dXNfY29kZSA9PSAyMDAsICdGYWlsZWQgdG8gZmV0Y2ggd2Vic29ja2V0IHRvcGljcycKICAgICAgICBqc29uX3Jlc3AgPSByZXNwLmpzb24oKQogICAgICAgIHNfbG9nLmluZm8oanNvbi5kdW1wcyhqc29uX3Jlc3AsIGluZGVudD00KSkKICAgICAgICBhc3NlcnQgbGVuKGpzb25fcmVzcCkgPT0gMSwgJ0V4cGVjdGVkIDEgdG9waWMsIHJlY2VpdmVkIHt9Jy5mb3JtYXQobGVuKGpzb25fcmVzcCkpCiAgICAgICAgYXNzZXJ0IGpzb25fcmVzcFswXVtUT1BJQ19OQU1FX0tFWV0gPT0gVE9QSUMxCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>start_bg_thread</text>
+        <text>wildcard</text>
       </register>
-      <register name="0" type="4">
-        <text>/topic/com.cisco.ise.pxgrid.admin.log</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBhZXRlc3QudGVzdAogICAgZGVmIHRlc3RfZmlsdGVyX2J5X25hbWUoc2VsZik6CiAgICAgICAgcGFyYW1zID0gewogICAgICAgICAgICBUT1BJQ19OQU1FX0tFWTogJ3RvcGljMScKICAgICAgICB9CiAgICAgICAgcmVzcCA9IHNlbGYuc2Vzc2lvbi5zZW5kX2dldF9yZXF1ZXN0KFdTX1RPUElDX1VSTCwgcGFyYW1zPXBhcmFtcykKICAgICAgICBhc3NlcnQgcmVzcC5zdGF0dXNfY29kZSA9PSAyMDAsICdGYWlsZWQgdG8gZmV0Y2ggd2Vic29ja2V0IHRvcGljcycKICAgICAgICBqc29uX3Jlc3AgPSByZXNwLmpzb24oKQogICAgICAgIHNfbG9nLmluZm8oanNvbi5kdW1wcyhqc29uX3Jlc3AsIGluZGVudD00KSkKICAgICAgICBhc3NlcnQgbGVuKGpzb25fcmVzcCkgPT0gMSwgJ0V4cGVjdGVkIDEgdG9waWMsIHJlY2VpdmVkIHt9Jy5mb3JtYXQobGVuKGpzb25fcmVzcCkpCiAgICAgICAgYXNzZXJ0IGpzb25fcmVzcFswXVtUT1BJQ19OQU1FX0tFWV0gPT0gVE9QSUMxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGpzb25fcmVzcCkgPT0gNiwgJ0V4cGVjdGVkIDYgdG9waWNzLCByZWNlaXZlZCB7fScuZm9ybWF0KGxlbihqc29uX3Jlc3ApKQogICAgICAgIGZvciB0b3BpYyBpbiBqc29uX3Jlc3A6CiAgICAgICAgICAgIGlmIHRvcGljW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQzE6CiAgICAgICAgICAgICAgICBhc3NlcnQgdG9waWNbUFVCX0NPVU5UX0tFWV0gPT0gMgogICAgICAgICAgICAgICAgYXNzZXJ0IHRvcGljW1NVQl9DT1VOVF9LRVldID09IDEKICAgICAgICAgICAgZWxpZiB0b3BpY1tUT1BJQ19OQU1FX0tFWV0gPT0gVE9QSUMyOgogICAgICAgICAgICAgICAgYXNzZXJ0IHRvcGljW1BVQl9DT1VOVF9LRVldID09IDEKICAgICAgICAgICAgICAgIGFzc2VydCB0b3BpY1tTVUJfQ09VTlRfS0VZXSA9PSAyCiAgICAgICAgICAgIGVsaWYgdG9waWNbVE9QSUNfTkFNRV9LRVldID09IFRPUElDMzoKICAgICAgICAgICAgICAgIGFzc2VydCB0b3BpY1tQVUJfQ09VTlRfS0VZXSA9PSAxCiAgICAgICAgICAgICAgICBhc3NlcnQgdG9waWNbU1VCX0NPVU5UX0tFWV0gPT0gMgogICAgICAgICAgICBlbGlmIHRvcGljW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19JTlRFUk5BTDoKICAgICAgICAgICAgICAgIGFzc2VydCB0b3BpY1tQVUJfQ09VTlRfS0VZXSA9PSAxCiAgICAgICAgICAgICAgICBhc3NlcnQgdG9waWNbU1VCX0NPVU5UX0tFWV0gPT0gMQogICAgICAgICAgICBlbGlmIHRvcGljW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19ESVNUUklCVVRFRDoKICAgICAgICAgICAgICAgIGFzc2VydCB0b3BpY1tQVUJfQ09VTlRfS0VZXSA9PSAxCiAgICAgICAgICAgICAgICBhc3NlcnQgdG9waWNbU1VCX0NPVU5UX0tFWV0gPT0gMQogICAgICAgICAgICBlbGlmIHRvcGljW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19XSUxEQ0FSRDoKICAgICAgICAgICAgICAgIGFzc2VydCB0b3BpY1tQVUJfQ09VTlRfS0VZXSA9PSAwCiAgICAgICAgICAgICAgICBhc3NlcnQgdG9waWNbU1VCX0NPVU5UX0tFWV0gPT0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQganNvbl9yZXNwWzBdW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19ESVNUUklCVVRFRAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQgPSBlYXN5cHlfcGF0aCArIGpvCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVzdF90b3BpY3NbNV1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX0RJU1RSSUJVVEVECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVzdF90b3BpY3NbNF1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX0lOVEVSTkFMCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVzdF90b3BpY3NbMl1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX1dJTERDQVJECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgcnVuKHRlc3RzY3JpcHQ9b3MucGF0aC5qb2luKGhlcmUsICcuLi8uLi9zdWl0ZXMvcHhncmlkL3Rlc3RzX2Zvcl9zdGFuZGFsb25lJywgJ3Rlc3Rfc2V0dXAucHknKSkKICAgIHJ1bih0ZXN0c2NyaXB0PW9zLnBhdGguam9pbihoZXJlLCAnLi4vLi4vc3VpdGVzL3B4Z3JpZC91aWFwaS8nLCAncHhncmlkX2NsaWVudHMucHknKSkKICAgIHJ1bih0ZXN0c2NyaXB0PW9zLnBhdGguam9pbihoZXJlLCAnLi4vLi4vc3VpdGVzL3B4Z3JpZC91aWFwaScsICcnKSkKICAgIHJ1bih0ZXN0c2NyaXB0PW9zLnBhdGguam9pbihoZXJlLCAnLi4vLi4vc3VpdGVzL3B4Z3JpZC91aWFwaScsICcnKSkKICAgIHJ1bih0ZXN0c2NyaXB0PW9zLnBhdGguam9pbihoZXJlLCAnLi4vLi4vc3VpdGVzL3B4Z3JpZC90ZXN0c19mb3Jfc3RhbmRhbG9uZScsICd0ZXN0X2NsZWFudXAucHknKSkKPj4+Pj4+PiBkZXZlbG9wbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQganNvbl9yZXNwWzRdW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19ESVNUUklCVVRFRAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cnVuKHRlc3RzY3JpcHQ9b3MucGF0aC5qb2luKHVpYXBpX3BhdGgsICdweGdyaWRfY2xpZW50cy5weScpKQpydW4odGVzdHNjcmlwdD1vcy5wYXRoLmpvaW4odWlhcGlfcGF0aCwgJ3B4Z3JpZF9jbGllbnRzLnB5JykpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQganNvbl9yZXNwWzBdW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19XSUxEQ0FSRAogICAgICAgIGFzc2VydCBqc29uX3Jlc3BbMV1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX0lOVEVSTkFMCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsaWVudDIgPSBDb21tb25TZXR1cEhlbHBlcignY2xpZW50MicpCiAgICBjbGllbnQyLnB4Z3JpZC5weGdyaWRfYWNjb3VudF9hY3RpdmF0ZSgnY2xpZW50MicpCgogICAgY2xpZW50MyA9IENvbW1vblNldHVwSGVscGVyKCdjbGllbnQzJykKICAgIGNsaWVudDMucHhncmlkLnB4Z3JpZF9hY2NvdW50X2FjdGl2YXRlKCdjbGllbnQzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhvc3QgPSAnMTAuJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudDEgPSBDb21tb25TZXR1cEhlbHBlcignY2xpZW50MScpCg==</text>
+        <text encoding="base64">ZGVmIGZpbHRlcl9qc29uX3RvcGljcyhhbGxfdG9waWNzKToKICAgICIiIgogICAgRmlsdGVyIG91dCB0aGUgdG9waWNzIHVuZGVyIHRlc3QgYW5kIGRpc2NhcmQgZXZlcnl0aGluZyBlbHNlLiBPdGhlcndpc2UgdGhlIHRlc3QgY2FzZXMgd2lsbCBmYWlsCiAgICBldmVyeSB0aW1lIHRoZXJlJ3MgYSBuZXcgdG9waWMgYWRkZWQgb3IgcmVtb3ZlZC4KICAgICIiIgogICAgcmV0dXJuIFt0b3BpYyBmb3IgdG9waWMgaW4gYWxsX3RvcGljcyBpZiB0b3BpY1sndG9waWNOYW1lJ10gaW4gVE9QSUNTX1VOREVSX1RFU1RdCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -420,11 +421,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>start_bg_thread</last-search>
+      <last-search>wildcard</last-search>
       <last-offset />
-      <last-pattern>start_bg_thread</last-pattern>
-      <last-replace>2</last-replace>
-      <last-substitute>1</last-substitute>
+      <last-pattern>wildcard</last-pattern>
+      <last-replace>test_topics\[</last-replace>
+      <last-substitute>json_resp\[</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
