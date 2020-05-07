@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDbGllbnQxXD4=</entry>
-        <entry>automation</entry>
-        <entry encoding="base64">XDxQb3NpdHJvblw+</entry>
         <entry>commonsetuphelper</entry>
         <entry>1</entry>
         <entry>commonset</entry>
@@ -21,10 +18,13 @@
         <entry>ui</entry>
         <entry>topicName</entry>
         <entry>cfg</entry>
-        <entry>host</entry>
         <entry>get_ip</entry>
         <entry>positron</entry>
         <entry>password</entry>
+        <entry>ISErequest</entry>
+        <entry>iserequest</entry>
+        <entry encoding="base64">XDxsYXN0X3RvdGFsXD4=</entry>
+        <entry>host</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
@@ -43,9 +43,9 @@
         <entry>action CloseContent</entry>
         <entry>314</entry>
         <entry>%s/json_resp\[/test_topics\[/g</entry>
+        <entry>action QuickJavaDoc</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
-        <entry>action QuickJavaDoc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -95,56 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/isepy/resources/run_parameters.json" timestamp="1588751673398">
-        <mark key="'" line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/corelib/base/BaseTestCase.py" timestamp="1588803695000">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/uiapi_tests_wrapper.py" timestamp="1588791152833">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="51" />
-        <mark key="^" line="10" column="46" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1588663002648">
-        <mark key="'" line="0" column="19" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="^" line="0" column="35" />
-        <mark key="." line="0" column="34" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/easypy_runner.py" timestamp="1588751379421">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="61" />
-        <mark key="." line="10" column="35" />
-        <mark key="^" line="10" column="36" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1588802043533">
-        <mark key="'" line="88" column="42" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/corelib/base/SetupInit.py" timestamp="1588803637673">
-        <mark key="'" line="214" column="8" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/workspace.py" timestamp="1588099984027">
-        <mark key="'" line="23" column="34" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588802372322">
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="9" column="48" />
-        <mark key="." line="9" column="47" />
-        <mark key="^" line="9" column="48" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588575237123">
-        <mark key="'" line="92" column="25" />
-        <mark key="[" line="92" column="25" />
-        <mark key="]" line="92" column="25" />
-        <mark key="." line="92" column="25" />
-        <mark key="^" line="98" column="44" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1588375717993">
-        <mark key="'" line="98" column="11" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588744035856">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,6 +102,12 @@
         <mark key="'" line="14" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/resources/run_parameters.json" timestamp="1588751673398">
+        <mark key="'" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/corelib/base/BaseTestCase.py" timestamp="1588803695000">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/UI/test_web_clients.py" timestamp="1588572838264">
         <mark key="[" line="1" column="0" />
@@ -169,12 +125,44 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="83" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1588805361628">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="0" />
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/uiapi_tests_wrapper.py" timestamp="1588791152833">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="51" />
+        <mark key="^" line="10" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1588822122359">
+        <mark key="'" line="144" column="26" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="52" />
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1588663002648">
+        <mark key="'" line="0" column="19" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/easypy_runner.py" timestamp="1588751379421">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="61" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1588822363584">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="82" column="59" />
+        <mark key="]" line="82" column="59" />
+        <mark key="^" line="82" column="44" />
+        <mark key="." line="82" column="59" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/corelib/base/SetupInit.py" timestamp="1588803637673">
+        <mark key="'" line="214" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/workspace.py" timestamp="1588099984027">
+        <mark key="'" line="23" column="34" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" timestamp="1588093759093">
         <mark key="'" line="12" column="0" />
@@ -182,6 +170,22 @@
         <mark key="]" line="28" column="20" />
         <mark key="." line="28" column="20" />
         <mark key="^" line="31" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588802372322">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="9" column="47" />
+        <mark key="^" line="9" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588575237123">
+        <mark key="'" line="92" column="25" />
+        <mark key="[" line="92" column="25" />
+        <mark key="]" line="92" column="25" />
+        <mark key="." line="92" column="25" />
+        <mark key="^" line="98" column="44" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1588375717993">
+        <mark key="'" line="98" column="11" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/mnt/Licensing_3.0/validate_license_type_in_current_active_session.py" timestamp="1588803684917">
         <mark key="'" line="0" column="0" />
@@ -191,18 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="56" column="4" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="59" column="4" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="110" column="45" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="120" column="17" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="270" column="33" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
-      <jump line="24" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" />
-      <jump line="25" column="35" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" />
-      <jump line="37" column="49" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" />
-      <jump line="55" column="49" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" />
       <jump line="59" column="49" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" />
       <jump line="12" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" />
       <jump line="271" column="21" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" />
@@ -291,6 +283,18 @@
       <jump line="1993" column="14" filename="$USER_HOME$/work/isepy/corelib/TE/TE.py" />
       <jump line="1995" column="42" filename="$USER_HOME$/work/isepy/corelib/TE/TE.py" />
       <jump line="1997" column="52" filename="$USER_HOME$/work/isepy/corelib/TE/TE.py" />
+      <jump line="91" column="39" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="44" column="17" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="54" column="10" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="2" column="42" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="139" column="19" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="144" column="26" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="43" column="35" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="34" column="40" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -366,17 +370,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>, headers=headers, verify=False</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, headers=headers, verify=False</text>
       </register>
       <register name="/" type="4">
-        <text>password</text>
+        <text>host</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBhZXRlc3QudGVzdAogICAgZGVmIHRlc3RfZmlsdGVyX2J5X25hbWUoc2VsZik6CiAgICAgICAgcGFyYW1zID0gewogICAgICAgICAgICBUT1BJQ19OQU1FX0tFWTogJ3RvcGljMScKICAgICAgICB9CiAgICAgICAgcmVzcCA9IHNlbGYuc2Vzc2lvbi5zZW5kX2dldF9yZXF1ZXN0KFdTX1RPUElDX1VSTCwgcGFyYW1zPXBhcmFtcykKICAgICAgICBhc3NlcnQgcmVzcC5zdGF0dXNfY29kZSA9PSAyMDAsICdGYWlsZWQgdG8gZmV0Y2ggd2Vic29ja2V0IHRvcGljcycKICAgICAgICBqc29uX3Jlc3AgPSByZXNwLmpzb24oKQogICAgICAgIHNfbG9nLmluZm8oanNvbi5kdW1wcyhqc29uX3Jlc3AsIGluZGVudD00KSkKICAgICAgICBhc3NlcnQgbGVuKGpzb25fcmVzcCkgPT0gMSwgJ0V4cGVjdGVkIDEgdG9waWMsIHJlY2VpdmVkIHt9Jy5mb3JtYXQobGVuKGpzb25fcmVzcCkpCiAgICAgICAgYXNzZXJ0IGpzb25fcmVzcFswXVtUT1BJQ19OQU1FX0tFWV0gPT0gVE9QSUMxCg==</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5zdWl0ZXMuc3BvZy5hcGlfaGVscGVycyBpbXBvcnQgSVNFUmVxdWVzdAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -385,30 +389,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoY2ZnLnN1aXRlLmR1bXBfVEUoKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzID0geydBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsICdPV0FTUF9DU1JGVE9LRU4nOiB0b2tlbn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoY2ZnLnN1aXRlLmR1bXBfVEUoKSkKCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiB0b3BpY1tUT1BJQ19OQWoKICAgICAgICAgICAgICAgIGFzc2VydCB0b3BpY1tQVUJfQ09VTlRfS0VZXSA9PSAxCiAgICAgICAgICAgICAgICBhc3NlcnQgdG9waWNbU1VCX0NPVU5UX0tFWV0gPT0gMQogICAgICAgICAgICBlbGlmIHRvcGljW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19ESVNUUklCVVRFRDoKICAgICAgICAgICAgICAgIGFzc2VydCB0b3BpY1tQVUJfQ09VTlRfS0VZXSA9PSAxCiAgICAgICAgICAgICAgICBhc3NlcnQgdG9waWNbU1VCX0NPVU5UX0tFWV0gPT0gMQogICAgICAgICAgICBlbGlmIHRvcGljW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19XSUxEQ0FSRDoKICAgICAgICAgICAgICAgIGFzc2VydCB0b3BpY1tQVUJfQ09VTlRfS0VZXSA9PSAwCiAgICAgICAgICAgICAgICBhc3NlcnQgdG9waWNbU1VCX0NPVU5UX0tFWV0gPT0gMQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0b2tlbiA9IHNlbGYuX19nZXRfbG9naW5fdG9rZW4oc2Vzc2lvbiwgaG9zdCkK</text>
       </register>
-      <register name="7" type="8">
-        <text>pxgrid.
-pxgrid.
-pxgrid.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gcmVxdWVzdHMuU2Vzc2lvbigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBob3N0ID0gJ1Bvc2l0cm9uLmRlbW8ubG9jYWwnCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQganNvbl9yZXNwWzBdW1RPUElDX05BTUVfS0VZXSA9PSBUT1BJQ19ESVNUUklCVVRFRAo=</text>
+        <text encoding="base64">ICAgICAgICBob3N0ID0gJ1Bvc2l0cm9uLmRlbW8ubG9jYWwnCiAgICAgICAgYWN0aXZpdGllc191cmwgPSAnaHR0cHM6Ly8lcy9hZG1pbi9ycy91aWFwaS9weEdyaWQvc3VtbWFyeS9hY3Rpdml0aWVzJyAlIGhvc3QKCiAgICAgICAgc2Vzc2lvbiA9IHJlcXVlc3RzLlNlc3Npb24oKQogICAgICAgIHRva2VuID0gc2VsZi5fX2dldF9sb2dpbl90b2tlbihzZXNzaW9uLCBob3N0KQoKICAgICAgICBoZWFkZXJzID0geydBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsICdPV0FTUF9DU1JGVE9LRU4nOiB0b2tlbn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVzdF90b3BpY3NbNV1bVE9QSUNfTkFNRV9LRVldID09IFRPUElDX0RJU1RSSUJVVEVECg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gc2Vzc2lvbi5nZXQoc3VtbWFyeV91cmwsIGhlYWRlcnM9aGVhZGVycywgdmVyaWZ5PUZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -417,9 +419,9 @@ pxgrid.</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>password</last-search>
+      <last-search>host</last-search>
       <last-offset />
-      <last-pattern>password</last-pattern>
+      <last-pattern>host</last-pattern>
       <last-replace>test_topics\[</last-replace>
       <last-substitute>json_resp\[</last-substitute>
       <last-dir>1</last-dir>
