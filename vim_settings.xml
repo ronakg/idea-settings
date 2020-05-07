@@ -45,8 +45,8 @@
         <entry>action QuickJavaDoc</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
-        <entry>w</entry>
         <entry>action CloseContent</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -98,7 +98,7 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" timestamp="1588831146440">
         <mark key="'" line="93" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588831517780">
+      <file name="/Dummy.txt" timestamp="1588831749299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/resources/run_parameters.json" timestamp="1588751673398">
@@ -123,11 +123,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="83" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/uiapi_tests_wrapper.py" timestamp="1588791152833">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="51" />
-        <mark key="^" line="10" column="46" />
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/uiapi_tests_wrapper.py" timestamp="1588831937366">
+        <mark key="'" line="16" column="3" />
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1588822122359">
         <mark key="'" line="144" column="26" />
@@ -136,10 +137,10 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1588831226663">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1588831825326">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/easypy_runner.py" timestamp="1588751379421">
         <mark key="[" line="10" column="15" />
@@ -147,10 +148,12 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1588831240319">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1588831810044">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="/" timestamp="1588822556902">
         <mark key="[" line="0" column="0" />
@@ -161,10 +164,10 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/workspace.py" timestamp="1588099984027">
         <mark key="'" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588831232659">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588831800167">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_websocket_topics_api.py" timestamp="1588575237123">
         <mark key="'" line="92" column="25" />
@@ -187,10 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="57" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
-      <jump line="30" column="43" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
-      <jump line="46" column="68" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
-      <jump line="56" column="54" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
       <jump line="61" column="46" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
       <jump line="84" column="44" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
       <jump line="86" column="42" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
@@ -287,6 +286,10 @@
       <jump line="102" column="11" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
       <jump line="11" column="3" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" />
       <jump line="50" column="7" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="13" column="3" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
+      <jump line="16" column="3" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/uiapi_tests_wrapper.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -363,7 +366,7 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -375,37 +378,37 @@
         <text encoding="base64">ZnJvbSB0ZXN0cy5zdWl0ZXMuc3BvZy5hcGlfaGVscGVycyBpbXBvcnQgSVNFUmVxdWVzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oInB4Z3JpZF9hcGlfcmVzdCB1cmwgPSB7fSwgcmVxID0ge30iLmZvcm1hdChzZWxmLmhvc3RuYW1lICsgdXJsLCBqc29uX3N0cmluZykpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oInB4Z3JpZF9hcGlfcmVzdCB1cmwgPSB7fSwgcmVxID0ge30iLmZvcm1hdChzZWxmLmhvc3RuYW1lICsgdXJsLCBqc29uX3N0cmluZykpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChob3N0KQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NzbF9jdHg9c3NsX2N0eCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oInB4Z3JpZF9hcGlfcmVzdCB1cmwgPSB7fSwgcmVxID0ge30iLmZvcm1hdChzZWxmLmhvc3RuYW1lICsgdXJsLCBqc29uX3N0cmluZykpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
