@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>get_ip</entry>
         <entry>ISErequest</entry>
         <entry>iserequest</entry>
         <entry encoding="base64">XDxsYXN0X3RvdGFsXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>get_login</entry>
         <entry encoding="base64">XDx3b3Jrc3BhY2VcPg==</entry>
         <entry>vnc2flv</entry>
+        <entry>logs</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
@@ -378,7 +378,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>vnc2flv</text>
+        <text>logs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmlzZV9ub2RlID0gY2ZnLnN1aXRlLmdldF9JU0VieU5hbWUoaXNlX2hvc3RuYW1lKQogICAgICAgIGhvc3RuYW1lID0gc2VsZi5pc2Vfbm9kZS5nZXRfaG9zdG5hbWUoKQogICAgICAgIGlwID0gc2VsZi5pc2Vfbm9kZS5nZXRfaXAoKQo=</text>
@@ -420,9 +420,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>vnc2flv</last-search>
+      <last-search>logs</last-search>
       <last-offset />
-      <last-pattern>vnc2flv</last-pattern>
+      <last-pattern>logs</last-pattern>
       <last-replace>test_topics\[</last-replace>
       <last-substitute>json_resp\[</last-substitute>
       <last-dir>1</last-dir>
