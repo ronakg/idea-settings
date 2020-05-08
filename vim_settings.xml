@@ -175,12 +175,12 @@
         <mark key="^" line="79" column="8" />
         <mark key="." line="79" column="7" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588901159243">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1588914209228">
+        <mark key="'" line="16" column="3" />
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1588829675832">
         <mark key="'" line="98" column="11" />
@@ -196,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" />
       <jump line="318" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" />
       <jump line="324" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" />
       <jump line="330" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" />
@@ -296,6 +295,7 @@
       <jump line="54" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
       <jump line="116" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
       <jump line="12" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="16" column="3" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -372,7 +372,7 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcnVuKHRlc3RzY3JpcHQ9b3MucGF0aC5qb2luKHN0YW5kYWxvbmVfcGF0aCwgJ3Rlc3RfY2xlYW51cC5weScpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>ssl_ctx</text>
@@ -384,7 +384,7 @@
         <text>, params=url_params</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcnVuKHRlc3RzY3JpcHQ9b3MucGF0aC5qb2luKHN0YW5kYWxvbmVfcGF0aCwgJ3Rlc3RfY2xlYW51cC5weScpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -396,10 +396,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQXNzZXJ0RXJyb3I6CiAgICBkZWYgX19pbml0X18oc2VsZiwgZXJyb3IpOgogICAgICAgIHNlbGYuZXJyb3IgPSBlcnJvcgoKICAgIGRlZiBfX2VudGVyX18oc2VsZik6CiAgICAgICAgcGFzcwoKICAgIGRlZiBfX2V4aXRfXyhzZWxmLCBleGNfdHlwZSwgZXhjX3ZhbCwgZXhjX3RiKToKICAgICAgICAjIEVuc3VyZSB3ZSBnZXQgdGhlIHNhbWUgZXJyb3IKICAgICAgICBhc3NlcnQgc2VsZi5lcnJvciA9PSBleGNfdHlwZQogICAgICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwID0gc2Vzc2lvbi5nZXQobG9nX3VybCwgaGVhZGVycz1oZWFkZXJzLCBwYXJhbXM9dXJsX3BhcmFtcywgdmVyaWZ5PUZhbHNlKQo=</text>
+        <text encoding="base64">Y2xhc3MgQXNzZXJ0RXJyb3I6CiAgICBkZWYgX19pbml0X18oc2VsZiwgZXJyb3IpOgogICAgICAgIHNlbGYuZXJyb3IgPSBlcnJvcgoKICAgIGRlZiBfX2VudGVyX18oc2VsZik6CiAgICAgICAgcGFzcwoKICAgIGRlZiBfX2V4aXRfXyhzZWxmLCBleGNfdHlwZSwgZXhjX3ZhbCwgZXhjX3RiKToKICAgICAgICAjIEVuc3VyZSB3ZSBnZXQgdGhlIHNhbWUgZXJyb3IKICAgICAgICBhc3NlcnQgc2VsZi5lcnJvciA9PSBleGNfdHlwZQogICAgICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXNwID0gc2Vzc2lvbi5nZXQobG9nX3VybCwgaGVhZGVycz1oZWFkZXJzLCBwYXJhbXM9dXJsX3BhcmFtcywgdmVyaWZ5PUZhbHNlKQo=</text>
