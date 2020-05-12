@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>positron</entry>
-        <entry>username</entry>
         <entry>user</entry>
         <entry>password</entry>
         <entry>class POSITRON</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx3c191cmxcPg==</entry>
         <entry encoding="base64">XDxzZWNyZXRcPg==</entry>
         <entry>get_ssl_con</entry>
+        <entry encoding="base64">XDxzdW1tYXJ5XD4=</entry>
+        <entry>automation-ui-summary</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
@@ -44,9 +44,9 @@
         <entry>action QuickJavaDoc</entry>
         <entry>action CloseContent</entry>
         <entry>501</entry>
+        <entry>w</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,10 +128,10 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1589260016439">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="63" column="70" />
-        <mark key="]" line="63" column="77" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1589261769931">
+        <mark key="'" line="36" column="61" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="113" />
         <mark key="^" line="63" column="77" />
         <mark key="." line="63" column="76" />
       </file>
@@ -180,9 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="18" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
-      <jump line="102" column="11" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
-      <jump line="11" column="3" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" />
       <jump line="50" column="7" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
       <jump line="13" column="3" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" />
       <jump line="17" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
@@ -280,6 +277,9 @@
       <jump line="30" column="25" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
       <jump line="115" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
       <jump line="14" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="46" column="43" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="36" column="61" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -356,16 +356,16 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBweGdyaWQgPSBQeGdyaWRDb250cm9sKGhvc3RuYW1lPWhvc3RuYW1lLCBub2RlX25hbWU9J2F1dG9tYXRpb24tdWktc3VtbWFyeScsIHNzbF9jdHg9c2VsZi5oZWxwZXIuc3NsX2N0eCkK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>get_ssl_con</text>
+        <text>automation-ui-summary</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5zdWl0ZXMuc3BvZy5hcGlfaGVscGVycyBpbXBvcnQgSVNFUmVxdWVzdAo=</text>
+        <text encoding="base64">ICAgICAgICBweGdyaWQgPSBQeGdyaWRDb250cm9sKGhvc3RuYW1lPWhvc3RuYW1lLCBub2RlX25hbWU9J2F1dG9tYXRpb24tdWktc3VtbWFyeScsIHNzbF9jdHg9c2VsZi5oZWxwZXIuc3NsX2N0eCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -398,15 +398,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>get_ssl_con</last-search>
+      <last-search>automation-ui-summary</last-search>
       <last-offset />
-      <last-pattern>get_ssl_con</last-pattern>
+      <last-pattern>automation-ui-summary</last-pattern>
       <last-replace>test_topics\[</last-replace>
       <last-substitute>json_resp\[</last-substitute>
       <last-dir>1</last-dir>
