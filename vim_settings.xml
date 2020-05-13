@@ -11,7 +11,6 @@
         <entry>logout</entry>
         <entry>appro</entry>
         <entry>setup</entry>
-        <entry>ise_node</entry>
         <entry encoding="base64">XDxURVNUX05PREVcPg==</entry>
         <entry encoding="base64">XDxnZXRfSVNFQnlOYW1lXD4=</entry>
         <entry>approve</entry>
@@ -25,6 +24,7 @@
         <entry>app</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry>auto_approve_clients</entry>
+        <entry>ise_node</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
@@ -144,12 +144,12 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/px_constants.py" timestamp="1589349219299">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1589349320706">
-        <mark key="'" line="308" column="11" />
-        <mark key="[" line="309" column="10" />
-        <mark key="]" line="309" column="11" />
-        <mark key="." line="309" column="11" />
-        <mark key="^" line="143" column="16" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1589350181462">
+        <mark key="'" line="98" column="37" />
+        <mark key="[" line="98" column="37" />
+        <mark key="]" line="98" column="46" />
+        <mark key="." line="98" column="45" />
+        <mark key="^" line="98" column="46" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" timestamp="1589264034404">
         <mark key="'" line="57" column="8" />
@@ -167,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_diagnostics_logs.py" />
-      <jump line="61" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_diagnostics_logs.py" />
       <jump line="8" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_diagnostics_logs.py" />
       <jump line="21" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_diagnostics_logs.py" />
       <jump line="101" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
@@ -222,10 +220,6 @@
       <jump line="47" column="35" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="49" column="47" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="172" column="47" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
-      <jump line="95" column="37" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
-      <jump line="98" column="37" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
-      <jump line="92" column="45" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
-      <jump line="30" column="21" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="18" column="26" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
       <jump line="55" column="35" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="81" column="35" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
@@ -267,6 +261,12 @@
       <jump line="316" column="16" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="144" column="11" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="308" column="11" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="133" column="16" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="30" column="11" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="92" column="37" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="95" column="37" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="98" column="37" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -343,46 +343,46 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>disable</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>disable</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>auto_approve_clients</text>
+        <text>ise_node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIGRpc2FibGUgYXV0by1hcHByb3ZlIGNlcnQgYmFzZWQgY2xpZW50cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhZ2UubmF2aWdhdGVfZGlyZWN0bHkoKQo=</text>
+        <text encoding="base64">SVNFX05PREUgPSBjZmcuc3VpdGUuZ2V0X0lTRUJ5TmFtZSgnUG9zaXRyb24nKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhZ2UgPSBQeEdyaWRTZXJ2aWNlcyhzZWxmLmFwcCwgc19sb2cpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhZ2UubmF2aWdhdGVfZGlyZWN0bHkoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5zdWl0ZXMucHhncmlkLnB4Z3JpZF9jb250cm9sIGltcG9ydCBQeGdyaWRDb250cm9sCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhZ2UgPSBQeEdyaWRTZXJ2aWNlcyhzZWxmLmFwcCwgc19sb2cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5zdWl0ZXMucHhncmlkLnB4Z3JpZF9jb250cm9sIGltcG9ydCBQeGdyaWRDb250cm9sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5zdWl0ZXMucHhncmlkLmlzZV91aSBpbXBvcnQgSVNFdWkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlLmZpbGxfc2V0dGluZ3NfZm9ybShlbmFibGVfYXV0b21hdGljX2FwcHJvdmFscz1UcnVlLCBlbmFibGVfYWxsb3dfcGFzc3dvcmQ9RmFsc2UsIGNsaWNrX3VzZV9kZWZhdWx0PUZhbHNlKQo=</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5zdWl0ZXMucHhncmlkLmlzZV91aSBpbXBvcnQgSVNFdWkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWdlLmZpbGxfc2V0dGluZ3NfZm9ybShlbmFibGVfYXV0b21hdGljX2FwcHJvdmFscz1UcnVlLCBlbmFibGVfYWxsb3dfcGFzc3dvcmQ9RmFsc2UsIGNsaWNrX3VzZV9kZWZhdWx0PUZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzX2xvZy5pbmZvKCdDbGVhbnVwIGNvbXBsZXRlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -391,9 +391,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>auto_approve_clients</last-search>
+      <last-search>ise_node</last-search>
       <last-offset />
-      <last-pattern>auto_approve_clients</last-pattern>
+      <last-pattern>ise_node</last-pattern>
       <last-replace>test_topics\[</last-replace>
       <last-substitute>json_resp\[</last-substitute>
       <last-dir>1</last-dir>
