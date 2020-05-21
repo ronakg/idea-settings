@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBcPg==</entry>
-        <entry>auto_appro</entry>
         <entry>self.app</entry>
         <entry>workspace</entry>
         <entry>page</entry>
@@ -14,7 +12,6 @@
         <entry>login_to</entry>
         <entry>approv</entry>
         <entry>30</entry>
-        <entry>password</entry>
         <entry>allow</entry>
         <entry>certificate based</entry>
         <entry>automatically</entry>
@@ -25,6 +22,9 @@
         <entry>approve</entry>
         <entry>approve_cert_based</entry>
         <entry>delete_node</entry>
+        <entry encoding="base64">XDxURVNUX05PREVcPg==</entry>
+        <entry>password</entry>
+        <entry>sdk</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
@@ -114,6 +114,9 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/px_constants.py" timestamp="1589349219299">
         <mark key="'" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1590040965819">
+        <mark key="'" line="10" column="22" />
+      </file>
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/uiapi_tests_wrapper.py" timestamp="1588834400235">
         <mark key="[" line="1" column="9" />
       </file>
@@ -122,7 +125,7 @@
         <mark key="[" line="246" column="0" />
         <mark key="]" line="246" column="63" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1589360372756">
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1589923192091">
         <mark key="'" line="312" column="30" />
         <mark key="[" line="148" column="91" />
         <mark key="]" line="148" column="91" />
@@ -137,8 +140,8 @@
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="27" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1589348666841">
-        <mark key="'" line="18" column="26" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1589923229304">
+        <mark key="'" line="11" column="0" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="113" />
         <mark key="^" line="63" column="77" />
@@ -149,11 +152,6 @@
       </file>
       <file name="/" timestamp="1589572764699">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/workspace.py" timestamp="1588834248824">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/setup_helper.py" timestamp="1589354258398">
         <mark key="'" line="21" column="28" />
@@ -182,9 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="581" column="48" filename="$USER_HOME$/work/isepy/tests/configurations/ise/ui/administration/pxgrid_services.py" />
-      <jump line="592" column="48" filename="$USER_HOME$/work/isepy/tests/configurations/ise/ui/administration/pxgrid_services.py" />
-      <jump line="607" column="48" filename="$USER_HOME$/work/isepy/tests/configurations/ise/ui/administration/pxgrid_services.py" />
       <jump line="618" column="48" filename="$USER_HOME$/work/isepy/tests/configurations/ise/ui/administration/pxgrid_services.py" />
       <jump line="744" column="8" filename="$USER_HOME$/work/isepy/tests/configurations/ise/ui/administration/pxgrid_services.py" />
       <jump line="749" column="48" filename="$USER_HOME$/work/isepy/tests/configurations/ise/ui/administration/pxgrid_services.py" />
@@ -282,6 +277,9 @@
       <jump line="312" column="30" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="293" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="4" column="0" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" />
+      <jump line="35" column="29" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="10" column="22" filename="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -364,7 +362,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>delete_node</text>
+        <text>sdk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnVpLndhaXQoQnkuWFBBVEgsICIvL3NwYW5bdGV4dCgpPSdBbGwgQ2xpZW50cyddIikK</text>
@@ -406,9 +404,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>delete_node</last-search>
+      <last-search>sdk</last-search>
       <last-offset />
-      <last-pattern>delete_node</last-pattern>
+      <last-pattern>sdk</last-pattern>
       <last-replace>test_topics\[</last-replace>
       <last-substitute>json_resp\[</last-substitute>
       <last-dir>1</last-dir>
