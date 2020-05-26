@@ -44,8 +44,8 @@
         <entry>action Find</entry>
         <entry>action CloseContent</entry>
         <entry>156</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
+        <entry>action GotoImplementation</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -182,12 +182,12 @@
         <mark key="." line="15" column="82" />
         <mark key="^" line="15" column="83" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_banners.py" timestamp="1590477494374">
-        <mark key="'" line="22" column="41" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="55" column="27" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_banners.py" timestamp="1590478918382">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
+        <mark key="^" line="26" column="15" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/test_psq.py" timestamp="1589353213087">
         <mark key="'" line="31" column="43" />
@@ -196,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="598" column="28" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
-      <jump line="606" column="52" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="609" column="26" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="103" column="3" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="240" column="15" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
@@ -296,6 +294,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_sdk.py" />
       <jump line="71" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_sdk.py" />
       <jump line="101" column="16" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_sdk.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_banners.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_banners.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -372,7 +372,7 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBjZXJ0X3BhdGggPSBzZWxmLmhlbHBlci53b3Jrc3BhY2UuZ2V0X2NlcnRpZmljYXRlX3BhdGgoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfY19ydW5fYW5kX2V4cGVjdChzZWxmLCB2ZXJzaW9uLCBjb21tYW5kLCBhcmdzLCBwcm9tcHQ9Tm9uZSwgcHJvbXB0X3ZhbHVlPU5vbmUsIGV4cGVjdD1Ob25lKToKICAgICAgICBzX2xvZy5pbmZvKCJUZXN0aW5nIHZlcnNpb249JXMgY29tbWFuZD0lcy4uLiIgJSAodmVyc2lvbiwgY29tbWFuZCkpCiAgICAgICAgY2djbF9wYXRoID0gb3MucGF0aC5qb2luKHNlbGYuYmFzZV9kaXIsICdweGdyaWQtc2RrLSVzJyAlIHZlcnNpb24sICdjZ2NsJykKICAgICAgICBjZ2NsX3Nka190YXJneiA9IHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KFsnbHMnLCAnLWInLCBjZ2NsX3BhdGhdLCB1bml2ZXJzYWxfbmV3bGluZXM9VHJ1ZSkuc3BsaXQoKVswXQogICAgICAgIGNnY2xfc2RrX3ZlcnNpb24gPSBjZ2NsX3Nka190YXJnei5yc3RyaXAoJy50YXIuZ3onKQogICAgICAgIGNnY2xfc2RrX3BhdGggPSBvcy5wYXRoLmpvaW4oY2djbF9wYXRoLCBjZ2NsX3Nka192ZXJzaW9uKQogICAgICAgIGNnY2xfc2RrX2VudiA9IG9zLmVudmlyb24uY29weSgpCiAgICAgICAgamFiYmVyX2xpYl9wYXRoID0gb3MucGF0aC5qb2luKGNnY2xfc2RrX3BhdGgsICJqYWJiZXJ3ZXJ4Yy1yZWxlYXNlLTIwMTMuMTAiLCAibGliIikKICAgICAgICBnY2xfbGliX3BhdGggPSBvcy5wYXRoLmpvaW4oY2djbF9zZGtfcGF0aCwgImdjbCIsICJsaWIiKQogICAgICAgIGNnY2xfc2RrX2VudlsiTERfTElCUkFSWV9QQVRIIl0gPSBqYWJiZXJfbGliX3BhdGggKyAiOiIgKyBnY2xfbGliX3BhdGgKICAgICAgICBzYW1wbGVfYmluID0gb3MucGF0aC5qb2luKGNnY2xfc2RrX3BhdGgsICJzYW1wbGVzIiwgImJpbiIpCiAgICAgICAgc2FtcGxlX2V4ZWMgPSBvcy5wYXRoLmpvaW4oc2FtcGxlX2JpbiwgY29tbWFuZCkKICAgICAgICBwID0gcGV4cGVjdC5zcGF3bnUoc2FtcGxlX2V4ZWMsIGVudj1jZ2NsX3Nka19lbnYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyZ3M9YXJncykKICAgICAgICBwLmxvZ2ZpbGUgPSBzeXMuc3Rkb3V0CiAgICAgICAgaWYgcHJvbXB0ICE9IE5vbmU6CiAgICAgICAgICAgIHAuZXhwZWN0X2V4YWN0KHByb21wdCkKICAgICAgICAgICAgcC5zZW5kbGluZShwcm9tcHRfdmFsdWUpCiAgICAgICAgcC5leHBlY3RfZXhhY3QoZXhwZWN0KQogICAgICAgIHAudGVybWluYXRlKGZvcmNlPVRydWUpCgo=</text>
       </register>
       <register name="-" type="4">
         <text>version</text>
@@ -384,45 +384,39 @@
         <text encoding="base64">ICAgICAgICBhcmdzID0gWyctYScsICdQb3NpdHJvbicsCiAgICAgICAgICAgICAgICAnLXUnLCBzZWxmLmhlbHBlci5weGdyaWQuZ2V0X25vZGVfbmFtZSgpLAogICAgICAgICAgICAgICAgJy1jJywgc2VsZi5oZWxwZXIud29ya3NwYWNlLmdldF9jZXJ0aWZpY2F0ZV9jZXJ0ZmlsZSgpLAogICAgICAgICAgICAgICAgJy1rJywgc2VsZi5oZWxwZXIud29ya3NwYWNlLmdldF9jZXJ0aWZpY2F0ZV9rZXlmaWxlKCksCiAgICAgICAgICAgICAgICAnLXAnLCBzZWxmLmhlbHBlci53b3Jrc3BhY2UuZ2V0X2NlcnRpZmljYXRlX2tleXBhc3MoKSwKICAgICAgICAgICAgICAgICctcycsIHNlbGYuaGVscGVyLndvcmtzcGFjZS5nZXRfY2VydGlmaWNhdGVfcGF0aCgpICsgIi9DZXJ0aWZpY2F0ZVNlcnZpY2VzUm9vdENBLVBvc2l0cm9uXy5jZXIiLAogICAgICAgICAgICAgICAgJy1iJywgc2VsZi5oZWxwZXIud29ya3NwYWNlLmdldF9jZXJ0aWZpY2F0ZV9wYXRoKCkgKyAiL0NlcnRpZmljYXRlU2VydmljZXNSb290Q0EtUG9zaXRyb25fLmNlciJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjZXJ0X3BhdGggPSBzZWxmLmhlbHBlci53b3Jrc3BhY2UuZ2V0X2NlcnRpZmljYXRlX3BhdGgoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfY19ydW5fYW5kX2V4cGVjdChzZWxmLCB2ZXJzaW9uLCBjb21tYW5kLCBhcmdzLCBwcm9tcHQ9Tm9uZSwgcHJvbXB0X3ZhbHVlPU5vbmUsIGV4cGVjdD1Ob25lKToKICAgICAgICBzX2xvZy5pbmZvKCJUZXN0aW5nIHZlcnNpb249JXMgY29tbWFuZD0lcy4uLiIgJSAodmVyc2lvbiwgY29tbWFuZCkpCiAgICAgICAgY2djbF9wYXRoID0gb3MucGF0aC5qb2luKHNlbGYuYmFzZV9kaXIsICdweGdyaWQtc2RrLSVzJyAlIHZlcnNpb24sICdjZ2NsJykKICAgICAgICBjZ2NsX3Nka190YXJneiA9IHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KFsnbHMnLCAnLWInLCBjZ2NsX3BhdGhdLCB1bml2ZXJzYWxfbmV3bGluZXM9VHJ1ZSkuc3BsaXQoKVswXQogICAgICAgIGNnY2xfc2RrX3ZlcnNpb24gPSBjZ2NsX3Nka190YXJnei5yc3RyaXAoJy50YXIuZ3onKQogICAgICAgIGNnY2xfc2RrX3BhdGggPSBvcy5wYXRoLmpvaW4oY2djbF9wYXRoLCBjZ2NsX3Nka192ZXJzaW9uKQogICAgICAgIGNnY2xfc2RrX2VudiA9IG9zLmVudmlyb24uY29weSgpCiAgICAgICAgamFiYmVyX2xpYl9wYXRoID0gb3MucGF0aC5qb2luKGNnY2xfc2RrX3BhdGgsICJqYWJiZXJ3ZXJ4Yy1yZWxlYXNlLTIwMTMuMTAiLCAibGliIikKICAgICAgICBnY2xfbGliX3BhdGggPSBvcy5wYXRoLmpvaW4oY2djbF9zZGtfcGF0aCwgImdjbCIsICJsaWIiKQogICAgICAgIGNnY2xfc2RrX2VudlsiTERfTElCUkFSWV9QQVRIIl0gPSBqYWJiZXJfbGliX3BhdGggKyAiOiIgKyBnY2xfbGliX3BhdGgKICAgICAgICBzYW1wbGVfYmluID0gb3MucGF0aC5qb2luKGNnY2xfc2RrX3BhdGgsICJzYW1wbGVzIiwgImJpbiIpCiAgICAgICAgc2FtcGxlX2V4ZWMgPSBvcy5wYXRoLmpvaW4oc2FtcGxlX2JpbiwgY29tbWFuZCkKICAgICAgICBwID0gcGV4cGVjdC5zcGF3bnUoc2FtcGxlX2V4ZWMsIGVudj1jZ2NsX3Nka19lbnYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyZ3M9YXJncykKICAgICAgICBwLmxvZ2ZpbGUgPSBzeXMuc3Rkb3V0CiAgICAgICAgaWYgcHJvbXB0ICE9IE5vbmU6CiAgICAgICAgICAgIHAuZXhwZWN0X2V4YWN0KHByb21wdCkKICAgICAgICAgICAgcC5zZW5kbGluZShwcm9tcHRfdmFsdWUpCiAgICAgICAgcC5leHBlY3RfZXhhY3QoZXhwZWN0KQogICAgICAgIHAudGVybWluYXRlKGZvcmNlPVRydWUpCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzID0gWyctYScsICdQb3NpdHJvbicsCiAgICAgICAgICAgICAgICAnLXUnLCBzZWxmLmhlbHBlci5weGdyaWQuZ2V0X25vZGVfbmFtZSgpLAogICAgICAgICAgICAgICAgJy1rJywgb3MucGF0aC5qb2luKGNlcnRfcGF0aCwgImtleWNlcnQuamtzIiksCiAgICAgICAgICAgICAgICAnLXAnLCBzZWxmLmhlbHBlci53b3Jrc3BhY2UuZ2V0X2NlcnRpZmljYXRlX2tleXBhc3MoKSwKICAgICAgICAgICAgICAgICctdCcsIG9zLnBhdGguam9pbihjZXJ0X3BhdGgsICJ0cnVzdC5qa3MiKSwKICAgICAgICAgICAgICAgICctcScsIHNlbGYuaGVscGVyLndvcmtzcGFjZS5nZXRfY2VydGlmaWNhdGVfa2V5cGFzcygpXQo=</text>
+      <register name="2" type="8">
+        <text>self.
+self.
+self.
+self.
+self.
+self.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmphdmFfc2RrX2VudiA9IG9zLmVudmlyb24uY29weSgpCiAgICAgICAgamF2YV9ob21lID0gc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoImRpcm5hbWUgJChkaXJuYW1lICQocmVhZGxpbmsgLWYgJCh3aGljaCBqYXZhKSkpIiwgc2hlbGw9VHJ1ZSwgdW5pdmVyc2FsX25ld2xpbmVzPVRydWUpLnJzdHJpcCgpCiAgICAgICAgc2VsZi5qYXZhX3Nka19lbnZbIkpBVkFfSE9NRSJdID0gamF2YV9ob21lCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzID0gWyctYScsICdQb3NpdHJvbicsCiAgICAgICAgICAgICAgICAnLXUnLCBzZWxmLmhlbHBlci5weGdyaWQuZ2V0X25vZGVfbmFtZSgpLAogICAgICAgICAgICAgICAgJy1jJywgc2VsZi5oZWxwZXIud29ya3NwYWNlLmdldF9jZXJ0aWZpY2F0ZV9jZXJ0ZmlsZSgpLAogICAgICAgICAgICAgICAgJy1rJywgc2VsZi5oZWxwZXIud29ya3NwYWNlLmdldF9jZXJ0aWZpY2F0ZV9rZXlmaWxlKCksCiAgICAgICAgICAgICAgICAnLXAnLCBzZWxmLmhlbHBlci53b3Jrc3BhY2UuZ2V0X2NlcnRpZmljYXRlX2tleXBhc3MoKSwKICAgICAgICAgICAgICAgICctcycsIHNlbGYuaGVscGVyLndvcmtzcGFjZS5nZXRfY2VydGlmaWNhdGVfcGF0aCgpICsgIi9DZXJ0aWZpY2F0ZVNlcnZpY2VzUm9vdENBLVBvc2l0cm9uXy5jZXIiLAogICAgICAgICAgICAgICAgJy1iJywgc2VsZi5oZWxwZXIud29ya3NwYWNlLmdldF9jZXJ0aWZpY2F0ZV9wYXRoKCkgKyAiL0NlcnRpZmljYXRlU2VydmljZXNSb290Q0EtUG9zaXRyb25fLmNlciJdCgogICAgICAgIGNvbW1hbmQgPSAic2Vzc2lvbl9zdWJzY3JpYmVyIgogICAgICAgIGV4cGVjdCA9ICJzdWNjZXNzZnVsbHkgc3Vic2NyaWJlZCIKICAgICAgICBzZWxmLl9jX3J1bl9hbmRfZXhwZWN0KHZlcnNpb249c2VsZi5TREtfVkVSU0lPTiwgY29tbWFuZD1jb21tYW5kLCBhcmdzPWFyZ3MsIGV4cGVjdD1leHBlY3QpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdmVyc2lvbiBpbiBzZWxmLmFsbF92ZXJpc29uczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzdGFydF9iZ190aHJlYWQoaGVscGVyKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlbHBlci5zZXR1cCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfamF2YV9ydW5lKGZvcmNlPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBjZXJ0X3BhdGggPSBzZWxmLmhlbHBlci53b3Jrc3BhY2UuZ2V0X2NlcnRpZmljYXRlX3BhdGgoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>_and_expect(self, version, command, args, prompts=None, expect=None):
-        s_log.info(&quot;Testing version=%s command=%s...&quot; % (version, command))
-        sample_exec = self.__get_sdk_sample_exec(version, command)
-
-        p = pexpect.spawnu(sample_exec, args=args, env=self.java_sdk_env)
-        p.logfile = sys.stdout
-        if prompts != None:
-            for prompt, response in prompts:
-                p.expect_exact(prompt)
-                p.sendline(response)
-        p.expect_exact(expect)
-        p.terminat</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhcmdzID0gWyctYScsICdQb3NpdHJvbicsCiAgICAgICAgICAgICAgICAnLXUnLCBzZWxmLmhlbHBlci5weGdyaWQuZ2V0X25vZGVfbmFtZSgpLAogICAgICAgICAgICAgICAgJy1rJywgb3MucGF0aC5qb2luKGNlcnRfcGF0aCwgImtleWNlcnQuamtzIiksCiAgICAgICAgICAgICAgICAnLXAnLCBzZWxmLmhlbHBlci53b3Jrc3BhY2UuZ2V0X2NlcnRpZmljYXRlX2tleXBhc3MoKSwKICAgICAgICAgICAgICAgICctdCcsIG9zLnBhdGguam9pbihjZXJ0X3BhdGgsICJ0cnVzdC5qa3MiKSwKICAgICAgICAgICAgICAgICctcScsIHNlbGYuaGVscGVyLndvcmtzcGFjZS5nZXRfY2VydGlmaWNhdGVfa2V5cGFzcygpXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmphdmFfc2RrX2VudiA9IG9zLmVudmlyb24uY29weSgpCiAgICAgICAgamF2YV9ob21lID0gc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoImRpcm5hbWUgJChkaXJuYW1lICQocmVhZGxpbmsgLWYgJCh3aGljaCBqYXZhKSkpIiwgc2hlbGw9VHJ1ZSwgdW5pdmVyc2FsX25ld2xpbmVzPVRydWUpLnJzdHJpcCgpCiAgICAgICAgc2VsZi5qYXZhX3Nka19lbnZbIkpBVkFfSE9NRSJdID0gamF2YV9ob21lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
