@@ -98,11 +98,11 @@
       <file name="$USER_HOME$/work/isepy/tests/configurations/ise/ui/administration/pxgrid_services.py" timestamp="1589348795949">
         <mark key="'" line="753" column="48" />
       </file>
-      <file name="$USER_HOME$/work/isepy/resources/run_parameters.json" timestamp="1590088613435">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="24" />
+      <file name="$USER_HOME$/work/isepy/resources/run_parameters.json" timestamp="1590472384965">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" timestamp="1589360248645">
         <mark key="'" line="293" column="0" />
@@ -158,7 +158,7 @@
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/easypy_runner.py" timestamp="1590044305747">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="/" timestamp="1590105131154">
+      <file name="/" timestamp="1590472413874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/workspace.py" timestamp="1590042478131">
@@ -174,7 +174,6 @@
         <mark key="." line="82" column="48" />
         <mark key="^" line="82" column="49" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_basic_tests.py" timestamp="1590094801581" />
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1589391956287">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="3" column="0" />
@@ -365,10 +364,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>true</text>
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZW1wb3JhcnlXb3Jrc3BhY2VcPg==</text>
