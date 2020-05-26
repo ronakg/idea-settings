@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>password</entry>
         <entry>sdk</entry>
         <entry encoding="base64">XDxUZW1wb3JhcnlXb3Jrc3BhY2VcPg==</entry>
         <entry encoding="base64">XDxWRVJTSU9OXzFfMF8zXD4=</entry>
@@ -25,9 +24,9 @@
         <entry>setup</entry>
         <entry encoding="base64">XDxqYXZhX3Nka19lbnZcPg==</entry>
         <entry>commonsetup</entry>
+        <entry>self.all_versions</entry>
       </history-search>
       <history-cmd>
-        <entry>30</entry>
         <entry>114</entry>
         <entry>action GotoSymbol</entry>
         <entry>action GotoDeclaration</entry>
@@ -44,9 +43,10 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>action Find</entry>
         <entry>action CloseContent</entry>
-        <entry>w</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
+        <entry>156</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -95,6 +95,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1590475908825">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/isepy/resources/run_parameters.json" timestamp="1590472384965">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="24" />
@@ -108,18 +111,12 @@
         <mark key="^" line="283" column="9" />
         <mark key="." line="299" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_sdk.py" timestamp="1590475155814">
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_sdk.py" timestamp="1590475305385">
         <mark key="'" line="76" column="13" />
-        <mark key="[" line="294" column="8" />
-        <mark key="]" line="294" column="13" />
-        <mark key="." line="294" column="12" />
+        <mark key="[" line="155" column="39" />
+        <mark key="]" line="155" column="40" />
+        <mark key="." line="155" column="40" />
         <mark key="^" line="294" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/px_functions.py" timestamp="1589349206124">
-        <mark key="'" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/px_constants.py" timestamp="1589349219299">
-        <mark key="'" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1590044482026">
         <mark key="'" line="10" column="22" />
@@ -381,7 +378,7 @@
         <text>version</text>
       </register>
       <register name="/" type="4">
-        <text>commonsetup</text>
+        <text>self.all_versions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2NfcnVuX2FuZF9leHBlY3Qoc2VsZiwgdmVyc2lvbiwgY29tbWFuZCwgYXJncywgcHJvbXB0PU5vbmUsIHByb21wdF92YWx1ZT1Ob25lLCBleHBlY3Q9Tm9uZSk6CiAgICAgICAgbG9nZ2VyLmluZm8oIlRlc3RpbmcgdmVyc2lvbj0lcyBjb21tYW5kPSVzLi4uIiAlICh2ZXJzaW9uLCBjb21tYW5kKSkKICAgICAgICBjZ2NsX3BhdGggPSBvcy5wYXRoLmpvaW4oc2VsZi5iYXNlX2RpciwgJ3B4Z3JpZC1zZGstJXMnICUgdmVyc2lvbiwgJ2NnY2wnKQogICAgICAgIGNnY2xfc2RrX3Rhcmd6ID0gc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWydscycsICctYicsIGNnY2xfcGF0aF0sIHVuaXZlcnNhbF9uZXdsaW5lcz1UcnVlKS5zcGxpdCgpWzBdCiAgICAgICAgY2djbF9zZGtfdmVyc2lvbiA9IGNnY2xfc2RrX3Rhcmd6LnJzdHJpcCgnLnRhci5neicpCiAgICAgICAgY2djbF9zZGtfcGF0aCA9IG9zLnBhdGguam9pbihjZ2NsX3BhdGgsIGNnY2xfc2RrX3ZlcnNpb24pCiAgICAgICAgY2djbF9zZGtfZW52ID0gb3MuZW52aXJvbi5jb3B5KCkKICAgICAgICBqYWJiZXJfbGliX3BhdGggPSBvcy5wYXRoLmpvaW4oY2djbF9zZGtfcGF0aCwgImphYmJlcndlcnhjLXJlbGVhc2UtMjAxMy4xMCIsICJsaWIiKQogICAgICAgIGdjbF9saWJfcGF0aCA9IG9zLnBhdGguam9pbihjZ2NsX3Nka19wYXRoLCAiZ2NsIiwgImxpYiIpCiAgICAgICAgY2djbF9zZGtfZW52WyJMRF9MSUJSQVJZX1BBVEgiXSA9IGphYmJlcl9saWJfcGF0aCArICI6IiArIGdjbF9saWJfcGF0aAogICAgICAgIHNhbXBsZV9iaW4gPSBvcy5wYXRoLmpvaW4oY2djbF9zZGtfcGF0aCwgInNhbXBsZXMiLCAiYmluIikKICAgICAgICBzYW1wbGVfZXhlYyA9IG9zLnBhdGguam9pbihzYW1wbGVfYmluLCBjb21tYW5kKQogICAgICAgIHAgPSBwZXhwZWN0LnNwYXdudShzYW1wbGVfZXhlYywgZW52PWNnY2xfc2RrX2VudiwKICAgICAgICAgICAgICAgICAgICAgICAgICBhcmdzPWFyZ3MpCiAgICAgICAgcC5sb2dmaWxlID0gc3lzLnN0ZG91dAogICAgICAgIGlmIHByb21wdCAhPSBOb25lOgogICAgICAgICAgICBwLmV4cGVjdF9leGFjdChwcm9tcHQpCiAgICAgICAgICAgIHAuc2VuZGxpbmUocHJvbXB0X3ZhbHVlKQogICAgICAgIHAuZXhwZWN0X2V4YWN0KGV4cGVjdCkKICAgICAgICBwLnRlcm1pbmF0ZShmb3JjZT1UcnVlKQo=</text>
@@ -428,15 +425,15 @@
         <text encoding="base64">ICAgICAgICBmb3IgdmVyc2lvbiBpbiBzZWxmLkFMTF9WRVJJU09OUzoK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>commonsetup</last-search>
+      <last-search>self.all_versions</last-search>
       <last-offset />
-      <last-pattern>commonsetup</last-pattern>
+      <last-pattern>self.all_versions</last-pattern>
       <last-replace>test_topics\[</last-replace>
       <last-substitute>self</last-substitute>
       <last-dir>1</last-dir>
