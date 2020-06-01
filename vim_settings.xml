@@ -38,7 +38,6 @@
         <entry>501</entry>
         <entry>action CloseContent</entry>
         <entry>156</entry>
-        <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>action RenameElement</entry>
         <entry>action Find</entry>
@@ -46,6 +45,7 @@
         <entry>58</entry>
         <entry>119</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action Back</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -128,11 +128,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="58" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/network_access/trust_sec/aci_phase2/px_functions_sps.py" timestamp="1589353489399">
-        <mark key="'" line="192" column="12" />
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="63" />
-      </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1590481061172">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="148" column="0" />
@@ -143,12 +138,12 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1589354224489">
         <mark key="'" line="269" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" timestamp="1591050281459">
-        <mark key="'" line="95" column="8" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="16" column="19" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" timestamp="1591050754701">
+        <mark key="'" line="315" column="22" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="^" line="278" column="25" />
+        <mark key="." line="282" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1591050027874">
         <mark key="'" line="118" column="66" />
@@ -186,10 +181,11 @@
         <mark key="." line="118" column="0" />
         <mark key="^" line="57" column="81" />
       </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_rockit_test.py" timestamp="1591050709235">
+        <mark key="'" line="49" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_banners.py" />
-      <jump line="156" column="17" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_sdk.py" />
       <jump line="161" column="17" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_sdk.py" />
       <jump line="166" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_sdk.py" />
       <jump line="167" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_sdk.py" />
@@ -288,6 +284,8 @@
       <jump line="97" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="8" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="93" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
+      <jump line="49" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_rockit_test.py" />
+      <jump line="315" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -364,46 +362,46 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0X3VybCA9ICdodHRwczovLyVzL2FkbWluL3JzL3VpYXBpL3B4R3JpZC9jbGllbnRzP3NvcnRCeT1uYW1lJm9yZGVyPWFzYycgJSBIT1NUCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgicmVzcG9uc2U9IiArIHJlc3BvbnNlX3RleHQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>EPS</text>
       </register>
       <register name="/" type="4">
         <text>self.session</text>
       </register>
-      <register name="0" type="4">
-        <text>/admin/rs/uiapi/pxGrid/clients</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB7CiAgICAgICAgICAgICdjbGllbnRncm91cCc6ICdFUFMnLAogICAgICAgIH0KICAgICAgICByZXNwID0gc2VsZi5zZXNzaW9uLnNlbmRfZ2V0X3JlcXVlc3QoQ0xJRU5UU19BUElfVVJMLCBwYXJhbXM9cGFyYW1zLCBpc19sb2dnZWQ9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0X3VybCA9ICdodHRwczovLyVzL2FkbWluL3JzL3VpYXBpL3B4R3JpZC9jbGllbnRzP3NvcnRCeT1uYW1lJm9yZGVyPWFzYycgJSBIT1NUCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgicmVzcG9uc2U9IiArIHJlc3BvbnNlX3RleHQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZV90ZXh0ID0gcmVzcC50ZXh0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBhZXRlc3QudGVzdAogICAgZGVmIHRlc3RfbG9naW4oc2VsZik6CiAgICAgICAgbG9naW5fdXJsID0gJ2h0dHBzOi8vJXMvYWRtaW4vTG9naW5BY3Rpb24uZG8nICUgSE9TVAoKICAgICAgICBoZWFkZXJzID0geydDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkJ30KCiAgICAgICAgc2VsZi5zZXNzaW9uID0gcmVxdWVzdHMuU2Vzc2lvbigpCiAgICAgICAgcGF5bG9hZCA9IHsndXNlcm5hbWUnOiAnYWRtaW4nLCAnbmFtZSc6ICdhZG1pbicsICdwYXNzd29yZCc6ICdMYWJAMTIzJywgJ3JlbWVtYmVybWUnOiAnb24nLCAnYXV0aFR5cGUnOiAnSW50ZXJuYWwnLCAnaGFzU2VsZWN0ZWRMb2NhbGUnOiAnZmFsc2UnLCAnbG9jYWxlJzogJ2VuJ30KICAgICAgICByZXNwID0gc2VsZi5zZXNzaW9uLnBvc3QobG9naW5fdXJsLCBkYXRhPXBheWxvYWQsIGhlYWRlcnM9aGVhZGVycywgdmVyaWZ5PUZhbHNlKQogICAgICAgIHNfbG9nLmluZm8oInJlc3A9IiArIHN0cihyZXNwKSkKICAgICAgICBzX2xvZy5pbmZvKCJjb250ZW50PSIgKyBzdHIocmVzcC5jb250ZW50KSkKICAgICAgICByID0gcmUuc2VhcmNoKCcuKnZhbHVlPU9XQVNQX0NTUkZUT0tFTj0oW1x3LV0qKScsIHN0cihyZXNwLmNvbnRlbnQpKQogICAgICAgIHRva2VuID0gci5ncm91cCgxKQogICAgICAgIHNfbG9nLmluZm8oIkNTUkYgdG9rZW49ezB9Ii5mb3JtYXQodG9rZW4pKQoKICAgICAgICBzZWxmLmhlYWRlcnMgPSB7J0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJywgJ09XQVNQX0NTUkZUT0tFTic6IHRva2VufQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gc2VsZi5zZXNzaW9uLmdldChyZXF1ZXN0X3VybCwgaGVhZGVycz1zZWxmLmhlYWRlcnMsIHZlcmlmeT1GYWxzZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBhZXRlc3QudGVzdAogICAgZGVmIHRlc3RfbG9naW4oc2VsZik6CiAgICAgICAgbG9naW5fdXJsID0gJ2h0dHBzOi8vJXMvYWRtaW4vTG9naW5BY3Rpb24uZG8nICUgSE9TVAoKICAgICAgICBoZWFkZXJzID0geydDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkJ30KCiAgICAgICAgc2VsZi5zZXNzaW9uID0gcmVxdWVzdHMuU2Vzc2lvbigpCiAgICAgICAgcGF5bG9hZCA9IHsndXNlcm5hbWUnOiAnYWRtaW4nLCAnbmFtZSc6ICdhZG1pbicsICdwYXNzd29yZCc6ICdMYWJAMTIzJywgJ3JlbWVtYmVybWUnOiAnb24nLCAnYXV0aFR5cGUnOiAnSW50ZXJuYWwnLCAnaGFzU2VsZWN0ZWRMb2NhbGUnOiAnZmFsc2UnLCAnbG9jYWxlJzogJ2VuJ30KICAgICAgICByZXNwID0gc2VsZi5zZXNzaW9uLnBvc3QobG9naW5fdXJsLCBkYXRhPXBheWxvYWQsIGhlYWRlcnM9aGVhZGVycywgdmVyaWZ5PUZhbHNlKQogICAgICAgIHNfbG9nLmluZm8oInJlc3A9IiArIHN0cihyZXNwKSkKICAgICAgICBzX2xvZy5pbmZvKCJjb250ZW50PSIgKyBzdHIocmVzcC5jb250ZW50KSkKICAgICAgICByID0gcmUuc2VhcmNoKCcuKnZhbHVlPU9XQVNQX0NTUkZUT0tFTj0oW1x3LV0qKScsIHN0cihyZXNwLmNvbnRlbnQpKQogICAgICAgIHRva2VuID0gci5ncm91cCgxKQogICAgICAgIHNfbG9nLmluZm8oIkNTUkYgdG9rZW49ezB9Ii5mb3JtYXQodG9rZW4pKQoKICAgICAgICBzZWxmLmhlYWRlcnMgPSB7J0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJywgJ09XQVNQX0NTUkZUT0tFTic6IHRva2VufQo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0X3VybCA9ICdodHRwczovLyVzL2FkbWluL3JzL3VpYXBpL3B4R3JpZC9jbGllbnRzP3NvcnRCeT1uYW1lJm9yZGVyPWFzYyZzdGFydEF0PTImcGFnZVNpemU9MicgJSBIT1NUCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgicmVzcG9uc2U9IiArIHJlc3BvbnNlX3RleHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJnIHRocmVhZCBzdGFydGVkIGJ1dCB0aGUgc2FtcGxlIHByb2dyYW0gbWF5IG5vdCBoYXZlIGNvbm5lY3RlZCB5ZXQsIGxldCdzIHdhaXQKICAgICAgICAjIDUgc2Vjb25kcwogICAgICAgIHRpbWUuc2xlZXAoNSkK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZV90ZXh0ID0gcmVzcC50ZXh0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gc2VsZi5zZXNzaW9uLmdldChyZXF1ZXN0X3VybCwgaGVhZGVycz1zZWxmLmhlYWRlcnMsIHZlcmlmeT1GYWxzZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwID0gc2VsZi5zZXNzaW9uLnNlbmRfZ2V0X3JlcXVlc3QoQkFOTkVSU19VUkwpCiAgICAgICAgYXNzZXJ0IHJlc3Auc3RhdHVzX2NvZGUgPT0gMjAwLCAnRmFpbGVkIHRvIGZldGNoIGJhbm5lcnMnCiAgICAgICAganNvbl9yZXNwID0gcmVzcC5qc29uKCkKICAgICAgICBzX2xvZy5pbmZvKGpzb24uZHVtcHMoanNvbl9yZXNwLCBpbmRlbnQ9NCkpCiAgICAgICAgYXNzZXJ0IGpzb25fcmVzcFtYTVBQX0RFUFJFX0tFWV0gaXMgRmFsc2UsICdFeHBlY3RlZCBGYWxzZSwgZ290IHt9Jy5mb3JtYXQoanNvbl9yZXNwW1hNUFBfREVQUkVfS0VZXSkK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0X3VybCA9ICdodHRwczovLyVzL2FkbWluL3JzL3VpYXBpL3B4R3JpZC9jbGllbnRzP2NsaWVudGdyb3VwPUVQUycgJSBIT1NUCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwID0gc2VsZi5zZXNzaW9uLnNlbmRfZ2V0X3JlcXVlc3QoQkFOTkVSU19VUkwpCiAgICAgICAgYXNzZXJ0IHJlc3Auc3RhdHVzX2NvZGUgPT0gMjAwLCAnRmFpbGVkIHRvIGZldGNoIGJhbm5lcnMnCiAgICAgICAganNvbl9yZXNwID0gcmVzcC5qc29uKCkKICAgICAgICBzX2xvZy5pbmZvKGpzb24uZHVtcHMoanNvbl9yZXNwLCBpbmRlbnQ9NCkpCiAgICAgICAgYXNzZXJ0IGpzb25fcmVzcFtYTVBQX0RFUFJFX0tFWV0gaXMgVHJ1ZSwgJ0V4cGVjdGVkIFRydWUsIGdvdCB7fScuZm9ybWF0KGpzb25fcmVzcFtYTVBQX0RFUFJFX0tFWV0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgicmVzcG9uc2U9IiArIHJlc3BvbnNlX3RleHQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
