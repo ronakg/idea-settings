@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>carol desc</entry>
         <entry>carol+de</entry>
         <entry>clientchangestatus</entry>
         <entry>json.dumps</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxOVU1fQ0xJRU5UU1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVfY2xpZW50c1w+</entry>
         <entry>duplicate</entry>
+        <entry encoding="base64">XDxkZWxldGVfY2xpZW50c19mcm9tX3VpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>274</entry>
@@ -121,12 +121,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" timestamp="1591169584735">
-        <mark key="'" line="103" column="40" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="93" column="50" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" timestamp="1591215481338">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="16" column="52" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1591132355286">
         <mark key="'" line="4" column="0" />
@@ -175,7 +175,7 @@
         <mark key="." line="105" column="14" />
         <mark key="^" line="106" column="54" />
       </file>
-      <file name="/" timestamp="1591043339034">
+      <file name="/" timestamp="1591214865699">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_diagnostics_logs.py" timestamp="1591055675818">
@@ -192,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="108" column="24" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="110" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="173" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
@@ -292,6 +291,7 @@
       <jump line="51" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
       <jump line="113" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
       <jump line="103" column="40" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -368,46 +368,46 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlbGV0ZSB0aGUgY2xpZW50IGZyb20gVUkgdG9vCiAgICAgICAgc2VsZi5kZWxldGVfY2xpZW50c19mcm9tX3VpKCkKCg==</text>
+        <text encoding="base64">ICAgIGRlZiBkZWxldGVfY2xpZW50c19mcm9tX3VpKHNlbGYsIG51bV9jbGllbnRzPU5VTV9DTElFTlRTKToKICAgICAgICBmb3IgaSBpbiByYW5nZShudW1fY2xpZW50cyk6CiAgICAgICAgICAgIHNlbGYuaGVscGVyLnVpLnB4Z3JpZF9kZWxldGVfbm9kZSgnY2xpZW50LXt9Jy5mb3JtYXQoaSkpCgo=</text>
       </register>
       <register name="-" type="4">
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>duplicate</text>
+        <text encoding="base64">XDxkZWxldGVfY2xpZW50c19mcm9tX3VpXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShudW1fY2xpZW50cyk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlbGV0ZSB0aGUgY2xpZW50IGZyb20gVUkgdG9vCiAgICAgICAgc2VsZi5kZWxldGVfY2xpZW50c19mcm9tX3VpKCkKCg==</text>
+        <text encoding="base64">ICAgIGRlZiBkZWxldGVfY2xpZW50c19mcm9tX3VpKHNlbGYsIG51bV9jbGllbnRzPU5VTV9DTElFTlRTKToKICAgICAgICBmb3IgaSBpbiByYW5nZShudW1fY2xpZW50cyk6CiAgICAgICAgICAgIHNlbGYuaGVscGVyLnVpLnB4Z3JpZF9kZWxldGVfbm9kZSgnY2xpZW50LXt9Jy5mb3JtYXQoaSkpCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiByWydpZCddID09ICdjbGllbnQtMkB4Z3JpZC5jaXNjby5jb20nOgogICAgICAgICAgICAgICAgYXNzZXJ0IHJbJ3Jlc3BvbnNlQ29kZSddID09IDIwMAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCByWydyZXNwb25zZUNvZGUnXSA9PSA1MDAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiByWydpZCddID09ICdpbnZhbGlkLWNsaWVudCc6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ludmFsaWQtY2xpZW50Jwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIGRlbGV0ZSB0aGUgY2xpZW50IGZyb20gVUkgdG9vCiAgICAgICAgc2VsZi5kZWxldGVfY2xpZW50c19mcm9tX3VpKCkKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiByWydpZCddID09ICdjbGllbnQtMkB4Z3JpZC5jaXNjby5jb20nOgogICAgICAgICAgICAgICAgYXNzZXJ0IHJbJ3Jlc3BvbnNlQ29kZSddID09IDIwMAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNyZWF0ZV9jbGllbnRzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCByWydyZXNwb25zZUNvZGUnXSA9PSA1MDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwID0gc2VsZi5zZXNzaW9uLnNlbmRfZ2V0X3JlcXVlc3QoQ0xJRU5UU19BUElfVVJMKQogICAgICAgIGFzc2VydCByZXNwLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIHJlc3BfanNvbiA9IHJlc3AuanNvbigpCiAgICAgICAgYXNzZXJ0IGxlbihyZXNwX2pzb24pID09IE5VTV9DTElFTlRTICAgICAgICAjICsgMSBmb3IgYXV0b21hdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiByWydpZCddID09ICdpbnZhbGlkLWNsaWVudCc6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -416,9 +416,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>duplicate</last-search>
+      <last-search encoding="base64">XDxkZWxldGVfY2xpZW50c19mcm9tX3VpXD4=</last-search>
       <last-offset />
-      <last-pattern>duplicate</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxldGVfY2xpZW50c19mcm9tX3VpXD4=</last-pattern>
       <last-replace>test_topics\[</last-replace>
       <last-substitute>self</last-substitute>
       <last-dir>1</last-dir>
