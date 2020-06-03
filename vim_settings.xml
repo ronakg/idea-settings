@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzc2xfY3R4XD4=</entry>
-        <entry>session</entry>
-        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
-        <entry>self.session</entry>
         <entry>carol desc</entry>
         <entry>carol+de</entry>
         <entry>clientchangestatus</entry>
@@ -25,6 +21,10 @@
         <entry>delete</entry>
         <entry>approve</entry>
         <entry encoding="base64">XDxweGdyaWRfYXBwcm92ZV9jZXJ0X2Jhc2VkX2NsaWVudHNcPg==</entry>
+        <entry>hostname</entry>
+        <entry encoding="base64">XDxOVU1fQ0xJRU5UU1w+</entry>
+        <entry encoding="base64">XDxjcmVhdGVfY2xpZW50c1w+</entry>
+        <entry>duplicate</entry>
       </history-search>
       <history-cmd>
         <entry>274</entry>
@@ -43,9 +43,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action QuickJavaDoc</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>action CloseContent</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
+        <entry>action CloseContent</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -121,12 +121,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" timestamp="1591167169410">
-        <mark key="'" line="29" column="52" />
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="76" column="4" />
-        <mark key="." line="76" column="4" />
-        <mark key="^" line="74" column="59" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" timestamp="1591169232263">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="93" column="48" />
+        <mark key="]" line="93" column="50" />
+        <mark key="." line="93" column="49" />
+        <mark key="^" line="93" column="50" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1591132355286">
         <mark key="'" line="4" column="0" />
@@ -192,17 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="80" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_banners.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_banners.py" />
-      <jump line="100" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_client_group_test.py" />
-      <jump line="59" column="42" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_client_group_test.py" />
-      <jump line="60" column="32" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_client_group_test.py" />
-      <jump line="75" column="32" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_client_group_test.py" />
-      <jump line="90" column="32" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_client_group_test.py" />
-      <jump line="98" column="32" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_client_group_test.py" />
-      <jump line="106" column="32" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_client_group_test.py" />
-      <jump line="61" column="32" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_client_group_test.py" />
       <jump line="51" column="86" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="14" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="108" column="24" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
@@ -257,7 +246,6 @@
       <jump line="41" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_diagnostics_logs.py" />
       <jump line="90" column="27" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="137" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
-      <jump line="21" column="11" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
       <jump line="54" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
       <jump line="722" column="46" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="860" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
@@ -292,6 +280,18 @@
       <jump line="285" column="34" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="312" column="23" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="29" column="52" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="41" column="34" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="99" column="40" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="17" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="18" column="23" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="23" column="49" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="24" column="23" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="16" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="37" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="51" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -368,46 +368,46 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxweGdyaWRfYXBwcm92ZV9jZXJ0X2Jhc2VkX2NsaWVudHNcPg==</text>
+        <text>duplicate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiByWydpZCddID09ICdjbGllbnQtMkB4Z3JpZC5jaXNjby5jb20nOgogICAgICAgICAgICAgICAgYXNzZXJ0IHJbJ3Jlc3BvbnNlQ29kZSddID09IDIwMAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShudW1fY2xpZW50cyk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiByWydpZCddID09ICdjbGllbnQtMkB4Z3JpZC5jaXNjby5jb20nOgogICAgICAgICAgICAgICAgYXNzZXJ0IHJbJ3Jlc3BvbnNlQ29kZSddID09IDIwMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgQGFldGVzdC50ZXN0CiAgICBkZWYgdGVzdF9kZWxldGVfYWxsKHNlbGYpOgogICAgICAgIHNlbGYuY3JlYXRlX2NsaWVudHMoKQogICAgICAgIHJlc3AgPSBzZWxmLnNlc3Npb24uc2VuZF9nZXRfcmVxdWVzdChDTElFTlRTX0FQSV9VUkwpCiAgICAgICAgYXNzZXJ0IHJlc3Auc3RhdHVzX2NvZGUgPT0gMjAwCiAgICAgICAgcmVzcF9qc29uID0gcmVzcC5qc29uKCkKICAgICAgICBhc3NlcnQgbGVuKHJlc3BfanNvbikgPT0gTlVNX0NMSUVOVFMgICAgICAgICMgKyAxIGZvciBhdXRvbWF0aW9uCiAgICAgICAgc2VsZi5zZXNzaW9uLnNlbmRfZGVsZXRlX3JlcXVlc3QoQ0xJRU5UU19BUElfVVJMKQogICAgICAgIGFzc2VydCByZXNwLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIHJlc3AgPSBzZWxmLnNlc3Npb24uc2VuZF9nZXRfcmVxdWVzdChDTElFTlRTX0FQSV9VUkwpCiAgICAgICAgYXNzZXJ0IHJlc3Auc3RhdHVzX2NvZGUgPT0gMjAwCiAgICAgICAgcmVzcF9qc29uID0gcmVzcC5qc29uKCkKICAgICAgICBhc3NlcnQgbGVuKHJlc3BfanNvbikgPT0gMAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCByWydyZXNwb25zZUNvZGUnXSA9PSA1MDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcF9qc29uWzBdWydyZXNwb25zZUNvZGUnXSA9PSAyMDAKICAgICAgICBhc3NlcnQgcmVzcF9qc29uWzFdWydyZXNwb25zZUNvZGUnXSA9PSAyMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiByWydpZCddID09ICdpbnZhbGlkLWNsaWVudCc6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWVudC0xQHhncmlkLmNpc2NvLmNvbScsCiAgICAgICAgICAgICdjbGllbnQtMkB4Z3JpZC5jaXNjby5jb20nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ludmFsaWQtY2xpZW50Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydCAnY2xpZW50LTAnIGluIHJlc3BfanNvbgogICAgICAgICMgYXNzZXJ0ICdjbGllbnQtMycgaW4gcmVzcF9qc29uCiAgICAgICAgIyBhc3NlcnQgJ2NsaWVudC00JyBpbiByZXNwX2pzb24K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNyZWF0ZV9jbGllbnRzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydCAnY2xpZW50LTAnIGluIHJlc3BfanNvbgogICAgICAgICMgYXNzZXJ0ICdjbGllbnQtMycgaW4gcmVzcF9qc29uCiAgICAgICAgIyBhc3NlcnQgJ2NsaWVudC00JyBpbiByZXNwX2pzb24K</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gc2VsZi5zZXNzaW9uLnNlbmRfZ2V0X3JlcXVlc3QoQ0xJRU5UU19BUElfVVJMKQogICAgICAgIGFzc2VydCByZXNwLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIHJlc3BfanNvbiA9IHJlc3AuanNvbigpCiAgICAgICAgYXNzZXJ0IGxlbihyZXNwX2pzb24pID09IE5VTV9DTElFTlRTICAgICAgICAjICsgMSBmb3IgYXV0b21hdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwX2pzb24gPSByZXNwLmpzb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -416,9 +416,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxweGdyaWRfYXBwcm92ZV9jZXJ0X2Jhc2VkX2NsaWVudHNcPg==</last-search>
+      <last-search>duplicate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxweGdyaWRfYXBwcm92ZV9jZXJ0X2Jhc2VkX2NsaWVudHNcPg==</last-pattern>
+      <last-pattern>duplicate</last-pattern>
       <last-replace>test_topics\[</last-replace>
       <last-substitute>self</last-substitute>
       <last-dir>1</last-dir>
