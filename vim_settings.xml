@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>carol+de</entry>
         <entry>clientchangestatus</entry>
         <entry>json.dumps</entry>
         <entry>updatepxgrid</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjcmVhdGVfY2xpZW50c1w+</entry>
         <entry>duplicate</entry>
         <entry encoding="base64">XDxkZWxldGVfY2xpZW50c19mcm9tX3VpXD4=</entry>
+        <entry>os</entry>
       </history-search>
       <history-cmd>
         <entry>274</entry>
@@ -121,8 +121,8 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" timestamp="1591215481338">
-        <mark key="'" line="25" column="8" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" timestamp="1591215571766">
+        <mark key="'" line="0" column="7" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -192,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="24" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="110" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="173" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="189" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
@@ -235,7 +234,6 @@
       <jump line="256" column="75" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="266" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="168" column="43" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
       <jump line="7" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
       <jump line="69" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="92" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
@@ -292,6 +290,8 @@
       <jump line="113" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
       <jump line="103" column="40" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
       <jump line="25" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="10" column="14" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -374,7 +374,7 @@
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxldGVfY2xpZW50c19mcm9tX3VpXD4=</text>
+        <text>os</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShudW1fY2xpZW50cyk6Cg==</text>
@@ -416,9 +416,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZWxldGVfY2xpZW50c19mcm9tX3VpXD4=</last-search>
+      <last-search>os</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxldGVfY2xpZW50c19mcm9tX3VpXD4=</last-pattern>
+      <last-pattern>os</last-pattern>
       <last-replace>test_topics\[</last-replace>
       <last-substitute>self</last-substitute>
       <last-dir>1</last-dir>
