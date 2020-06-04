@@ -44,8 +44,8 @@
         <entry>action QuickJavaDoc</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>action Back</entry>
-        <entry>action CloseContent</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action CloseContent</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -175,7 +175,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="16" column="52" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1591310440942">
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1591311598913">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
