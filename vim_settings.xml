@@ -95,6 +95,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" timestamp="1591314740530">
+        <mark key="'" line="38" column="19" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591043078369">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,20 +187,11 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1591165407974">
         <mark key="'" line="88" column="24" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_banners.py" timestamp="1590643263316">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="57" column="81" />
-      </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_rockit_test.py" timestamp="1591050709235">
         <mark key="'" line="49" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
-      <jump line="242" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="95" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="96" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="97" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
@@ -296,6 +290,8 @@
       <jump line="182" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="32" column="39" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="103" column="15" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
+      <jump line="26" column="27" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" />
+      <jump line="38" column="19" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
