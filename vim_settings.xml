@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxOVU1fQ0xJRU5UU1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVfY2xpZW50c1w+</entry>
         <entry>duplicate</entry>
         <entry encoding="base64">XDxkZWxldGVfY2xpZW50c19mcm9tX3VpXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>json</entry>
         <entry>headers</entry>
         <entry encoding="base64">XDxURVNUX05PREVcPg==</entry>
+        <entry>run_shell_command</entry>
       </history-search>
       <history-cmd>
         <entry>action RenameElement</entry>
@@ -35,7 +35,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action QuickJavaDoc</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>action CloseContent</entry>
         <entry>%s/json.dumps\(.*\)/request_data=\(\1\)/</entry>
         <entry>%s/json.dumps\(.*\)/request_data=\1/</entry>
         <entry>%s/json.dumps\(\(.*\)\)/request_data=\1/</entry>
@@ -44,9 +43,10 @@
         <entry>%s/json.dumps\((.*)\)/request_data=\1/</entry>
         <entry>%s/json.dumps(.*)/request_data=\1/</entry>
         <entry>%s/json.dumps(\(.*\))/request_data=\1/</entry>
-        <entry>action GotoImplementation</entry>
         <entry>w</entry>
         <entry>action Back</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -98,14 +98,14 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" timestamp="1591314740530">
         <mark key="'" line="38" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591043078369">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/isepy/resources/run_parameters.json" timestamp="1591307693792">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" timestamp="1591669355805">
+        <mark key="'" line="78" column="35" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_client_group_test.py" timestamp="1591649996228">
         <mark key="'" line="46" column="15" />
@@ -195,18 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="882" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
-      <jump line="9" column="41" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
-      <jump line="539" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
-      <jump line="553" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
-      <jump line="554" column="14" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
-      <jump line="859" column="10" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
-      <jump line="881" column="14" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
-      <jump line="76" column="4" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
-      <jump line="81" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
-      <jump line="88" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
-      <jump line="329" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="330" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="331" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
       <jump line="332" column="13" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" />
@@ -295,6 +283,18 @@
       <jump line="47" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
       <jump line="11" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
       <jump line="35" column="43" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
+      <jump line="82" column="40" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
+      <jump line="90" column="32" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
+      <jump line="93" column="35" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
+      <jump line="99" column="21" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
+      <jump line="103" column="17" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
+      <jump line="114" column="17" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
+      <jump line="115" column="17" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
+      <jump line="116" column="17" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
+      <jump line="55" column="19" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
+      <jump line="78" column="35" filename="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -377,7 +377,7 @@
         <text>wait_until_presence</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxURVNUX05PREVcPg==</text>
+        <text>run_shell_command</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xpZW50X25hbWUgPSAnY2xpZW50LXt9Jy5mb3JtYXQoaSkK</text>
@@ -413,15 +413,15 @@
         <text encoding="base64">ICAgICAgICBqc29uX3N0cmluZyA9IGpzb24uZHVtcHMoc2V0dGluZ3NfZGF0YSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxURVNUX05PREVcPg==</last-search>
+      <last-search>run_shell_command</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxURVNUX05PREVcPg==</last-pattern>
+      <last-pattern>run_shell_command</last-pattern>
       <last-replace>request_data=\1</last-replace>
       <last-substitute>json.dumps(\(.*\))</last-substitute>
       <last-dir>1</last-dir>
