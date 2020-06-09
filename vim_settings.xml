@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>hostname</entry>
         <entry encoding="base64">XDxOVU1fQ0xJRU5UU1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVfY2xpZW50c1w+</entry>
         <entry>duplicate</entry>
@@ -25,6 +24,7 @@
         <entry>delete_node</entry>
         <entry>json</entry>
         <entry>headers</entry>
+        <entry encoding="base64">XDxURVNUX05PREVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action RenameElement</entry>
@@ -44,9 +44,9 @@
         <entry>%s/json.dumps\((.*)\)/request_data=\1/</entry>
         <entry>%s/json.dumps(.*)/request_data=\1/</entry>
         <entry>%s/json.dumps(\(.*\))/request_data=\1/</entry>
-        <entry>action Back</entry>
         <entry>action GotoImplementation</entry>
         <entry>w</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -114,8 +114,8 @@
         <mark key="." line="101" column="83" />
         <mark key="^" line="101" column="84" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1591165458513">
-        <mark key="'" line="312" column="23" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1591669112744">
+        <mark key="'" line="29" column="0" />
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="86" />
         <mark key="." line="148" column="91" />
@@ -148,8 +148,8 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1591162363885">
-        <mark key="'" line="46" column="30" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1591669137671">
+        <mark key="'" line="35" column="43" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="37" column="40" />
         <mark key="^" line="118" column="67" />
@@ -195,14 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="30" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
-      <jump line="15" column="15" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
-      <jump line="41" column="20" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_diagnostics_logs.py" />
-      <jump line="90" column="27" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
-      <jump line="137" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" />
-      <jump line="722" column="46" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
-      <jump line="860" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="882" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="9" column="41" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="539" column="12" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
@@ -295,6 +287,14 @@
       <jump line="33" column="26" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
       <jump line="83" column="64" filename="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" />
       <jump line="89" column="0" filename="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" />
+      <jump line="123" column="22" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="91" column="37" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="94" column="37" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="97" column="37" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
+      <jump line="35" column="43" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -377,7 +377,7 @@
         <text>wait_until_presence</text>
       </register>
       <register name="/" type="4">
-        <text>headers</text>
+        <text encoding="base64">XDxURVNUX05PREVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xpZW50X25hbWUgPSAnY2xpZW50LXt9Jy5mb3JtYXQoaSkK</text>
@@ -413,15 +413,15 @@
         <text encoding="base64">ICAgICAgICBqc29uX3N0cmluZyA9IGpzb24uZHVtcHMoc2V0dGluZ3NfZGF0YSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>headers</last-search>
+      <last-search encoding="base64">XDxURVNUX05PREVcPg==</last-search>
       <last-offset />
-      <last-pattern>headers</last-pattern>
+      <last-pattern encoding="base64">XDxURVNUX05PREVcPg==</last-pattern>
       <last-replace>request_data=\1</last-replace>
       <last-substitute>json.dumps(\(.*\))</last-substitute>
       <last-dir>1</last-dir>
