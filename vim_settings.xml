@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>os</entry>
-        <entry>automation test client</entry>
-        <entry>automation</entry>
-        <entry>json.dumps\(.*\)</entry>
-        <entry>json.dumps\(\(.*\)\)</entry>
         <entry>json.dumps(\(.*\)\/request_data=\1</entry>
         <entry>json.dumps\(((.*\)</entry>
         <entry>json.dumps\((.*)\)</entry>
@@ -25,6 +20,11 @@
         <entry encoding="base64">XDxuYXZpZ2F0ZV90b19wYWdlXD4=</entry>
         <entry encoding="base64">XDxjaGVja19yZWZyZXNoX3RpbWVcPg==</entry>
         <entry>put</entry>
+        <entry encoding="base64">XDxidWlsZFw+</entry>
+        <entry encoding="base64">XDxwYXRjaF9mbG93XD4=</entry>
+        <entry encoding="base64">XDxwYXRjaF9mcm9tX25hc1w+</entry>
+        <entry encoding="base64">XDxiYXNlX3VybFw+</entry>
+        <entry encoding="base64">XDxpc2VfcGF0Y2hfZmlsZW5hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action RenameElement</entry>
@@ -121,8 +121,8 @@
         <mark key="." line="148" column="91" />
         <mark key="^" line="148" column="90" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_rockit_test.yaml" timestamp="1591051652036">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_install.py" timestamp="1591725141123">
+        <mark key="'" line="57" column="4" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1591130683180">
         <mark key="'" line="54" column="0" />
@@ -165,11 +165,6 @@
       <file name="/" timestamp="1591214865699">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_diagnostics_logs.py" timestamp="1591055675818">
-        <mark key="'" line="41" column="20" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="68" />
-      </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid_refreshed/summary.py" timestamp="1591682865754">
         <mark key="'" line="46" column="8" />
       </file>
@@ -187,6 +182,9 @@
         <mark key="^" line="126" column="8" />
         <mark key="." line="126" column="7" />
       </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" timestamp="1591725286489">
+        <mark key="'" line="42" column="20" />
+      </file>
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1591655419070">
         <mark key="[" line="21" column="103" />
       </file>
@@ -195,12 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="30" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" />
-      <jump line="35" column="59" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
-      <jump line="46" column="7" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
-      <jump line="91" column="42" filename="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" />
-      <jump line="50" column="41" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" />
-      <jump line="88" column="24" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" />
       <jump line="150" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="623" column="15" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="624" column="28" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
@@ -295,6 +287,12 @@
       <jump line="67" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid_refreshed/summary.py" />
       <jump line="46" column="8" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid_refreshed/summary.py" />
       <jump line="27" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_pxgrid_settings.py" />
+      <jump line="57" column="4" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_install.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" />
+      <jump line="16" column="12" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" />
+      <jump line="39" column="34" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" />
+      <jump line="42" column="20" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -377,7 +375,7 @@
         <text>wait_until_presence</text>
       </register>
       <register name="/" type="4">
-        <text>put</text>
+        <text encoding="base64">XDxpc2VfcGF0Y2hfZmlsZW5hbWVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>XMLHttpRequest, OWASP CSRFGuard Project</text>
@@ -419,9 +417,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>put</last-search>
+      <last-search encoding="base64">XDxpc2VfcGF0Y2hfZmlsZW5hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>put</last-pattern>
+      <last-pattern encoding="base64">XDxpc2VfcGF0Y2hfZmlsZW5hbWVcPg==</last-pattern>
       <last-replace>request_data=\1</last-replace>
       <last-substitute>json.dumps(\(.*\))</last-substitute>
       <last-dir>1</last-dir>
