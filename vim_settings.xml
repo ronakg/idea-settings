@@ -95,17 +95,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" timestamp="1591314740530">
-        <mark key="'" line="38" column="19" />
-      </file>
       <file name="$USER_HOME$/work/isepy/resources/run_parameters.json" timestamp="1591307693792">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="24" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" timestamp="1591669355805">
-        <mark key="'" line="78" column="35" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_client_group_test.py" timestamp="1591649996228">
         <mark key="'" line="46" column="15" />
@@ -113,19 +107,6 @@
         <mark key="]" line="101" column="84" />
         <mark key="." line="101" column="83" />
         <mark key="^" line="101" column="84" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1591679077635">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="148" column="91" />
-        <mark key="^" line="148" column="90" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_install.py" timestamp="1591725141123">
-        <mark key="'" line="57" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup.py" timestamp="1591130683180">
-        <mark key="'" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/pxgrid_clients.py" timestamp="1591649935596">
         <mark key="'" line="291" column="84" />
@@ -141,13 +122,6 @@
         <mark key="." line="41" column="73" />
         <mark key="^" line="41" column="74" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/selenium_wrapper.py" timestamp="1591656284222">
-        <mark key="'" line="105" column="16" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="17" column="10" />
-        <mark key="^" line="17" column="10" />
-        <mark key="." line="17" column="9" />
-      </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_summary.py" timestamp="1591669137671">
         <mark key="'" line="35" column="43" />
         <mark key="[" line="34" column="0" />
@@ -155,25 +129,11 @@
         <mark key="^" line="118" column="67" />
         <mark key="." line="118" column="66" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" timestamp="1591684027717">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="71" />
-        <mark key="." line="108" column="33" />
-        <mark key="^" line="108" column="34" />
-      </file>
-      <file name="/" timestamp="1591214865699">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid_refreshed/summary.py" timestamp="1591682865754">
         <mark key="'" line="46" column="8" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_pxgrid_settings.py" timestamp="1591683949438">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="169" column="59" />
-        <mark key="]" line="169" column="72" />
-        <mark key="." line="169" column="71" />
-        <mark key="^" line="169" column="72" />
+      <file name="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_in_job.py" timestamp="1591725424307">
+        <mark key="'" line="219" column="29" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_bulk_delete_clients.py" timestamp="1591656601394">
         <mark key="'" line="33" column="26" />
@@ -191,9 +151,48 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1591165407974">
         <mark key="'" line="88" column="24" />
       </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" timestamp="1591314740530">
+        <mark key="'" line="38" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" timestamp="1591669355805">
+        <mark key="'" line="78" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1591679077635">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="148" column="91" />
+        <mark key="^" line="148" column="90" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_install.py" timestamp="1591725141123">
+        <mark key="'" line="57" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/selenium_wrapper.py" timestamp="1591656284222">
+        <mark key="'" line="105" column="16" />
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="17" column="10" />
+        <mark key="^" line="17" column="10" />
+        <mark key="." line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" timestamp="1591684027717">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="71" />
+        <mark key="." line="108" column="33" />
+        <mark key="^" line="108" column="34" />
+      </file>
+      <file name="/" timestamp="1591214865699">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_pxgrid_settings.py" timestamp="1591683949438">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="169" column="59" />
+        <mark key="]" line="169" column="72" />
+        <mark key="." line="169" column="71" />
+        <mark key="^" line="169" column="72" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="0" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" />
       <jump line="623" column="15" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="624" column="28" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="632" column="52" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
@@ -293,6 +292,7 @@
       <jump line="35" column="8" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" />
       <jump line="39" column="34" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" />
       <jump line="42" column="20" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" />
+      <jump line="219" column="29" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_in_job.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
