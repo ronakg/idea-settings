@@ -43,10 +43,10 @@
         <entry>%s/json.dumps\((.*)\)/request_data=\1/</entry>
         <entry>%s/json.dumps(.*)/request_data=\1/</entry>
         <entry>%s/json.dumps(\(.*\))/request_data=\1/</entry>
-        <entry>w</entry>
         <entry>action CloseContent</entry>
         <entry>action Back</entry>
         <entry>action GotoImplementation</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -98,6 +98,12 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" timestamp="1591314740530">
         <mark key="'" line="38" column="19" />
       </file>
+      <file name="$USER_HOME$/work/isepy/resources/run_parameters.json" timestamp="1592261571087">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="21" />
+        <mark key="^" line="19" column="22" />
+      </file>
       <file name="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" timestamp="1591669355805">
         <mark key="'" line="78" column="35" />
       </file>
@@ -108,6 +114,7 @@
         <mark key="." line="101" column="83" />
         <mark key="^" line="101" column="84" />
       </file>
+      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1592261689440" />
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1591679077635">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="0" column="18" />
@@ -354,10 +361,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>XMLHttpRequest, OWASP CSRFGuard Project</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>wait_until_presence</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc2VfcGF0Y2hfZmlsZW5hbWVcPg==</text>
@@ -396,7 +403,7 @@
         <text encoding="base64">ICAgICAgICBqc29uX3N0cmluZyA9IGpzb24uZHVtcHMoc2V0dGluZ3NfZGF0YSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
