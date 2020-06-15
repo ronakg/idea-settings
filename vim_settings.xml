@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>json.dumps(\(.*\)\/request_data=\1</entry>
         <entry>json.dumps\(((.*\)</entry>
         <entry>json.dumps\((.*)\)</entry>
         <entry>json.dumps(.*)</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxwYXRjaF9mcm9tX25hc1w+</entry>
         <entry encoding="base64">XDxiYXNlX3VybFw+</entry>
         <entry encoding="base64">XDxpc2VfcGF0Y2hfZmlsZW5hbWVcPg==</entry>
+        <entry>delete_all</entry>
       </history-search>
       <history-cmd>
         <entry>action RenameElement</entry>
@@ -104,6 +104,12 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="22" />
       </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" timestamp="1592263571253">
+        <mark key="'" line="294" column="47" />
+        <mark key="[" line="880" column="0" />
+        <mark key="]" line="880" column="0" />
+        <mark key="." line="880" column="0" />
+      </file>
       <file name="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" timestamp="1591669355805">
         <mark key="'" line="78" column="35" />
       </file>
@@ -113,6 +119,11 @@
         <mark key="]" line="101" column="84" />
         <mark key="." line="101" column="83" />
         <mark key="^" line="101" column="84" />
+      </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_security_group.py" timestamp="1592263414312">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1592261689440" />
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1591679077635">
@@ -185,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="623" column="15" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="624" column="28" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="632" column="52" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
       <jump line="635" column="26" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
@@ -285,6 +295,7 @@
       <jump line="39" column="34" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" />
       <jump line="42" column="20" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" />
       <jump line="219" column="29" filename="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_in_job.py" />
+      <jump line="294" column="47" filename="$USER_HOME$/work/isepy/tests/suites/pxgrid/ise_ui.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -360,14 +371,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>true</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc2VfcGF0Y2hfZmlsZW5hbWVcPg==</text>
+        <text>delete_all</text>
       </register>
       <register name="0" type="4">
         <text>XMLHttpRequest, OWASP CSRFGuard Project</text>
@@ -379,19 +390,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlY3JlYXRlIHRoZSAiYXV0b21hdGlvbiIgY2xpZW50IHRoYXQgZ290IGRlbGV0ZWQgYXMgYSBjYXN1YWx0eSBvZiB0ZXN0X2RlbGV0ZV9hbGwKICAgICAgICBob3N0bmFtZSA9IGNmZy5zdWl0ZS5nZXRfSVNFYnlOYW1lKFRFU1RfTk9ERSkuZ2V0X2hvc3RuYW1lKCkKICAgICAgICBjbGllbnQgPSBQeGdyaWRDb250cm9sKGhvc3RuYW1lPWhvc3RuYW1lLCBub2RlX25hbWU9ImF1dG9tYXRpb24iLCBzc2xfY3R4PXNlbGYuaGVscGVyLnNzbF9jdHgpCiAgICAgICAgY2xpZW50LnB4Z3JpZF9hY2NvdW50X2FjdGl2YXRlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBXYWl0IGZvciBpdCB0byB0YWtlIGVmZmVjdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCg1KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHJlY3JlYXRlIHRoZSAiYXV0b21hdGlvbiIgY2xpZW50IHRoYXQgZ290IGRlbGV0ZWQgYXMgYSBjYXN1YWx0eSBvZiB0ZXN0X2RlbGV0ZV9hbGwKICAgICAgICBob3N0bmFtZSA9IGNmZy5zdWl0ZS5nZXRfSVNFYnlOYW1lKFRFU1RfTk9ERSkuZ2V0X2hvc3RuYW1lKCkKICAgICAgICBjbGllbnQgPSBQeGdyaWRDb250cm9sKGhvc3RuYW1lPWhvc3RuYW1lLCBub2RlX25hbWU9ImF1dG9tYXRpb24iLCBzc2xfY3R4PXNlbGYuaGVscGVyLnNzbF9jdHgpCiAgICAgICAgY2xpZW50LnB4Z3JpZF9hY2NvdW50X2FjdGl2YXRlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uX3N0cmluZyA9IGpzb24uZHVtcHMoc2V0dGluZ3NfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBXYWl0IGZvciBpdCB0byB0YWtlIGVmZmVjdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uX3N0cmluZyA9IGpzb24uZHVtcHMoc2V0dGluZ3NfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCg1KQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBqc29uX3N0cmluZyA9IGpzb24uZHVtcHMoc2V0dGluZ3NfZGF0YSkK</text>
@@ -409,9 +420,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpc2VfcGF0Y2hfZmlsZW5hbWVcPg==</last-search>
+      <last-search>delete_all</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc2VfcGF0Y2hfZmlsZW5hbWVcPg==</last-pattern>
+      <last-pattern>delete_all</last-pattern>
       <last-replace>request_data=\1</last-replace>
       <last-substitute>json.dumps(\(.*\))</last-substitute>
       <last-dir>1</last-dir>
