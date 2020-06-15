@@ -98,12 +98,6 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/tests_for_standalone/test_setup_pxgrid.py" timestamp="1591314740530">
         <mark key="'" line="38" column="19" />
       </file>
-      <file name="$USER_HOME$/work/isepy/resources/run_parameters.json" timestamp="1591307693792">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="16" column="24" />
-      </file>
       <file name="$USER_HOME$/work/isepy/utilities/connection_handler/ssh_ise_root_unlock.py" timestamp="1591669355805">
         <mark key="'" line="78" column="35" />
       </file>
@@ -153,13 +147,10 @@
         <mark key="." line="118" column="66" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/spog/api_helpers.py" timestamp="1591684027717">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="71" />
-        <mark key="." line="108" column="33" />
-        <mark key="^" line="108" column="34" />
+        <mark key="." line="75" column="33" />
+        <mark key="^" line="75" column="34" />
       </file>
-      <file name="/" timestamp="1591997497821">
+      <file name="/" timestamp="1592260988182">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid_refreshed/summary.py" timestamp="1591682865754">
@@ -182,14 +173,8 @@
         <mark key="^" line="126" column="8" />
         <mark key="." line="126" column="7" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_ise_patch.py" timestamp="1591725286489">
-        <mark key="'" line="42" column="20" />
-      </file>
       <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1591655419070">
         <mark key="[" line="21" column="103" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/pxgrid_control.py" timestamp="1591165407974">
-        <mark key="'" line="88" column="24" />
       </file>
     </filemarks>
     <jumps>
