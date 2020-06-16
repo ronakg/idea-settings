@@ -125,7 +125,6 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/tests_for_standalone.py" timestamp="1592261689440" />
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_websocket_topics_api.py" timestamp="1591679077635">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="0" column="18" />
@@ -168,7 +167,7 @@
         <mark key="." line="75" column="33" />
         <mark key="^" line="75" column="34" />
       </file>
-      <file name="/" timestamp="1592260988182">
+      <file name="/" timestamp="1592284862419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid_refreshed/summary.py" timestamp="1591682865754">
