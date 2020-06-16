@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="a95e31e6-e8bf-42f1-8cfa-44194bacc343" name="SJC-DC-545">
+        <fileTransfer accessType="SFTP" host="172.23.160.193" port="32770" sshConfigId="9b88c692-e4b1-4d9e-8d11-b38200d22c5b" sshConfig="SJC-DC-545">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="863a07c7-311d-4b99-9b14-5ae1e1f9cf54" name="SJC-DC-541" url="http:///">
         <fileTransfer accessType="SFTP" host="172.23.160.177" port="32770" sshConfigId="5911937b-1c8b-4280-947b-586f001dbf33" sshConfig="SJC-DC-541" />
       </webServer>
