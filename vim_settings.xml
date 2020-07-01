@@ -45,8 +45,8 @@
         <entry>%s/json.dumps(\(.*\))/request_data=\1/</entry>
         <entry>action CloseContent</entry>
         <entry>action Back</entry>
-        <entry>action GotoImplementation</entry>
         <entry>w</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,6 +122,7 @@
       <file name="$USER_HOME$/work/isepy/tests/suites/ISE_install/installation_install.py" timestamp="1591725141123">
         <mark key="'" line="57" column="4" />
       </file>
+      <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/uiapi/test_ui_rule.py" timestamp="1593588661445" />
       <file name="$USER_HOME$/work/isepy/tests/suites/pxgrid/selenium_wrapper.py" timestamp="1591656284222">
         <mark key="'" line="105" column="16" />
         <mark key="[" line="16" column="31" />
@@ -169,9 +170,6 @@
         <mark key="]" line="126" column="8" />
         <mark key="^" line="126" column="8" />
         <mark key="." line="126" column="7" />
-      </file>
-      <file name="$USER_HOME$/work/isepy/tests/jobs/PxGrid/pxgrid_uiapi_tests.py" timestamp="1591655419070">
-        <mark key="[" line="21" column="103" />
       </file>
     </filemarks>
     <jumps>
@@ -393,7 +391,7 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBXYWl0IGZvciBpdCB0byB0YWtlIGVmZmVjdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
   </component>
